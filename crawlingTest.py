@@ -1,40 +1,6 @@
 from requests_html import HTMLSession
 import re
 
-#yes24
-# session = HTMLSession()
-# url = 'http://ticket.yes24.com/New/Notice/NoticeMain.aspx'
-#
-# r = session.get(url)
-# r.html.render()  # JavaScript 렌더링을 위해 호출
-#
-# # 이제 페이지의 HTML은 JavaScript가 렌더링된 후의 상태를 반영합니다.
-# # ID가 'BoardList'인 요소 내의 모든 'tr' 태그 찾기
-# rows = r.html.find('#BoardList tr')
-#
-# for row in rows[1:]:  # 첫 번째 행을 제외하고 반복
-#     # 각 행의 'td' 태그 찾기
-#     cells = row.find('td')
-#
-#     if len(cells) >= 3:  # 'td' 태그가 적어도 3개 있는지 확인
-#         second_cell = cells[1].text  # 두 번째 'td' 태그의 텍스트
-#         third_cell = cells[2].text   # 세 번째 'td' 태그의 텍스트
-#
-#         # 'a' 태그의 'href' 속성에서 숫자 추출
-#         a_tag = cells[1].find('a', first=True)
-#         if a_tag:
-#             href = a_tag.attrs.get('href', '')
-#             id_match = re.search(r'#id=(\d+)', href)
-#             if id_match:
-#                 a_number = id_match.group(1)  # 'a' 태그 내의 숫자
-#             else:
-#                 a_number = 'Not found'
-#         else:
-#             a_number = 'Not found'
-#
-#         print(second_cell, third_cell, a_number)
-#
-# session.close()
 
 #인터파크
 import requests

@@ -7,10 +7,10 @@ from datetime import datetime
 def connect_to_database():
     try:
         conn = mysql.connector.connect(
-            host='localhost',
-            user='root',
-            password='1234',
-            database='mysql',
+            host='',
+            user='',
+            password='',
+            database='',
             port=3306
         )
         if conn.is_connected():

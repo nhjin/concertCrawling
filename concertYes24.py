@@ -5,11 +5,11 @@ import mysql.connector
 def connect_to_database():
     try:
         conn = mysql.connector.connect(
-            host='localhost',
-            user='root',
-            password='1234',
-            database='mysql',
-            port=3306
+            host='',
+            user='',
+            password='',
+            database='',
+            port=''
         )
         if conn.is_connected():
             print("Successfully connected to the database")
