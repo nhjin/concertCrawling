@@ -1,0 +1,136 @@
+{
+  "site": "interpark",
+  "flag_id": "26008330",
+  "last_crawled_at": "2026-06-08T00:53:37.231064",
+  "items": [
+    {
+      "id": "26008330",
+      "title": "고래가 뚝, 떨어진 날 - 창원",
+      "place": "빨간객석 소극장",
+      "open_time": "2026-06-08 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008330_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008330",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "26007255",
+      "title": "제20회 DIMF 공식초청작  〈신 쓰루히메 전설〉 (공연 실황 8K 영상) - 대구",
+      "place": "수성아트피아 소극장",
+      "open_time": "2026-06-08 11:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007255_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007255",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "20260514050808",
+      "title": "제 20회 DIMF 폐막작 〈인투 더 우즈〉 - 대구",
+      "place": "계명아트센터",
+      "open_time": "2026-06-08 11:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260514050808.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260514050808",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "26007223",
+      "title": "제20회 DIMF 공동폐막작 〈보옥〉 - 대구",
+      "place": "수성아트피아 대극장",
+      "open_time": "2026-06-08 11:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007223_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007223",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "26005135",
+      "title": "연극 〈베니스의 상인〉",
+      "place": "국립극장 해오름극장",
+      "open_time": "2026-06-08 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26005135_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26005135",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "2026060414480463",
+      "title": "조영남 전국투어 콘서트 : 조영남이 죽기 전에 하고 싶은 이야기 - 광주",
+      "place": "광주남구문화예술회관",
+      "open_time": "06.10(수) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026060414480463.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026060414480463",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "2026060414231921",
+      "title": "[김시라의 품바 : Original] - 광주",
+      "place": "광주남구문화예술회관",
+      "open_time": "06.10(수) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026060414231921.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026060414231921",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "2026052214280462",
+      "title": "극단 명작옥수수밭 〈세기의 사나이〉",
+      "place": "강동아트센터 대극장 한강",
+      "open_time": "06.10(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052214280462.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052214280462",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "2026052918313127",
+      "title": "2026 M.I.SEA 힙합콘서트 - 성남",
+      "place": "성남아트센터 오페라하우스",
+      "open_time": "06.10(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052918313127.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052918313127",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    },
+    {
+      "id": "26008278",
+      "title": "제8회 페미니즘 연극제 〈힛 더 디어 (Hit the Deer)〉",
+      "place": "아르코꿈밭극장",
+      "open_time": "06.10(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008278_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008278",
+      "site": "interpark",
+      "crawled_at": "2026-06-08T00:53:33.682981"
+    }
+  ]
+}
