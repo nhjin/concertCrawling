@@ -91,4 +91,4 @@ class Yes24Crawler(BaseCrawler):
         return _collect(flag_id=None, max_items=INITIAL_LOAD_COUNT)
 
     async def fetch_incremental(self, flag_id: str) -> list[dict]:
-        return _collect(flag_id=flag_id, max_items=None)
+        return _collect(flag_id=flag_id, max_items=20)

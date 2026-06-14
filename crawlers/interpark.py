@@ -132,4 +132,4 @@ class InterparkCrawler(BaseCrawler):
         return await self._crawl(max_items=INITIAL_LOAD_COUNT)
 
     async def fetch_incremental(self, flag_id: str) -> list[dict]:
-        return await self._crawl(flag_id=flag_id)
+        return await self._crawl(flag_id=flag_id, max_items=20)

@@ -23,13 +23,20 @@ def _fetch_page(page_no: int) -> list[dict]:
     return data.get("result", {}).get("result", [])
 
 
+def _parse_open_time(raw: dict) -> str:
+    ts_ms = raw.get("ticketOpenDatetime")
+    if ts_ms:
+        return datetime.fromtimestamp(ts_ms / 1000).strftime("%Y-%m-%d %H:%M")
+    return ""
+
+
 def _to_item(raw: dict, now: datetime) -> dict:
     notice_id = str(raw["noticeId"])
     return {
         "id": notice_id,
         "title": raw.get("title", ""),
-        "place": "",
-        "open_time": raw.get("startDate", raw.get("regDate", "")),
+        "place": raw.get("placeName", ""),
+        "open_time": _parse_open_time(raw),
         "open_type": raw.get("noticeCategoryName", "티켓오픈"),
         "badges": [],
         "thumbnail": "",
@@ -68,4 +75,4 @@ class TicketLinkCrawler(BaseCrawler):
         return _collect(flag_id=None, max_items=INITIAL_LOAD_COUNT)
 
     async def fetch_incremental(self, flag_id: str) -> list[dict]:
-        return _collect(flag_id=flag_id, max_items=None)
+        return _collect(flag_id=flag_id, max_items=20)
