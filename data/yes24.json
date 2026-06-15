@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18003",
-  "last_crawled_at": "2026-06-15T05:20:02.497515",
+  "flag_id": "18006",
+  "last_crawled_at": "2026-06-15T15:20:37.696229",
   "items": [
+    {
+      "id": "18006",
+      "title": "[고양] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.17(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18006",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T15:20:37.694745"
+    },
+    {
+      "id": "18005",
+      "title": "[얼리버드] 엘리자베스 랭그리터 - 매일이 휴가 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.16(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18005",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T15:20:37.694745"
+    },
+    {
+      "id": "18004",
+      "title": "2026 손태진 단독 콘서트 〈THE MAESTRO〉 - 부산 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18004",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T15:20:37.694745"
+    },
     {
       "id": "18003",
       "title": "이은결 30주년 〈ONE OF ONE〉 - 부산 티켓오픈 안내",

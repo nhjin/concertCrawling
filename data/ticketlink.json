@@ -1,8 +1,68 @@
 {
   "site": "ticketlink",
-  "flag_id": "65140",
-  "last_crawled_at": "2026-06-15T05:20:04.021580",
+  "flag_id": "65146",
+  "last_crawled_at": "2026-06-15T15:20:39.570154",
   "items": [
+    {
+      "id": "65146",
+      "title": "2026 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 수원 티켓오픈 안내",
+      "place": "경기아트센터 소극장",
+      "open_time": "2026-06-17 00:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65146",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T15:20:37.697377"
+    },
+    {
+      "id": "65145",
+      "title": "<b>[단독판매]</b> <페페의 꿈> - 칠곡군 티켓오픈 안내",
+      "place": "칠곡군 교육문화회관",
+      "open_time": "2026-06-17 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65145",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T15:20:37.697377"
+    },
+    {
+      "id": "65143",
+      "title": "박규희 '기타의 시간' 티켓오픈 안내",
+      "place": "아트센터림 아트홀",
+      "open_time": "2026-06-18 01:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65143",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T15:20:37.697377"
+    },
+    {
+      "id": "65142",
+      "title": "<b>[단독판매]</b> YUINA FAN Meeting in Seoul 티켓오픈 안내",
+      "place": "성암 아트홀",
+      "open_time": "2026-06-15 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65142",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T15:20:37.697377"
+    },
+    {
+      "id": "65141",
+      "title": "2026 손태진 단독 콘서트 < THE MAESTRO > - 부산티켓오픈 안내",
+      "place": "소향씨어터 우리은행홀",
+      "open_time": "2026-06-19 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65141",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T15:20:37.697377"
+    },
     {
       "id": "65140",
       "title": "이은결 30주년 < ONE OF ONE > - 부산 티켓오픈 안내",
