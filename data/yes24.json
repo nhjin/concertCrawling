@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "17986",
-  "last_crawled_at": "2026-06-14T11:34:08.379549",
+  "flag_id": "18003",
+  "last_crawled_at": "2026-06-15T05:20:02.497515",
   "items": [
+    {
+      "id": "18003",
+      "title": "이은결 30주년 〈ONE OF ONE〉 - 부산 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18003",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T05:20:02.496112"
+    },
+    {
+      "id": "17988",
+      "title": "2026 뮤지컬 [파가니니] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.18(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=17988",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T05:20:02.496112"
+    },
+    {
+      "id": "17987",
+      "title": "단독판매〈불꽃야구2〉 2026시즌 여덟 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.06.16(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=17987",
+      "site": "yes24",
+      "crawled_at": "2026-06-15T05:20:02.496112"
+    },
     {
       "id": "17986",
       "title": "THE SCOUT 더 스카웃 : 다시 태어나는 별 STARS REBORN - 부산 티켓 오픈 안내",

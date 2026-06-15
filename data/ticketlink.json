@@ -1,8 +1,44 @@
 {
   "site": "ticketlink",
-  "flag_id": "65135",
-  "last_crawled_at": "2026-06-14T11:34:11.553013",
+  "flag_id": "65140",
+  "last_crawled_at": "2026-06-15T05:20:04.021580",
   "items": [
+    {
+      "id": "65140",
+      "title": "이은결 30주년 < ONE OF ONE > - 부산 티켓오픈 안내",
+      "place": "벡스코 오디토리움",
+      "open_time": "2026-06-22 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65140",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T05:20:02.498772"
+    },
+    {
+      "id": "65137",
+      "title": "<b>[단독판매] </b> ​YEOSU with MyK FESTA​ 티켓오픈 안내",
+      "place": "여수엑스포 스카이타워 일대",
+      "open_time": "2026-06-17 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65137",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T05:20:02.498772"
+    },
+    {
+      "id": "65136",
+      "title": "<b>[단독판매] </b> 2026 대구치맥페스티벌 <프리미엄 사전예약존> 티켓오픈 안내",
+      "place": "두류공원 2.28자유광장",
+      "open_time": "2026-06-16 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65136",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-15T05:20:02.498772"
+    },
     {
       "id": "65135",
       "title": "<b>[단독판매] </b> 국악가족뮤지컬 <강치傳> - 포항 티켓오픈 안내",
