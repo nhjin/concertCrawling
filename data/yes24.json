@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18006",
-  "last_crawled_at": "2026-06-15T15:20:37.696229",
+  "flag_id": "18011",
+  "last_crawled_at": "2026-06-16T05:23:20.230469",
   "items": [
+    {
+      "id": "18011",
+      "title": "?유카페카 사라스테 & 헬싱키 필하모닉 오케스트라? 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.25(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18011",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T05:23:20.229008"
+    },
+    {
+      "id": "18010",
+      "title": "단독판매2026 함안낙화 페스티벌 with MyK FESTA 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18010",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T05:23:20.229008"
+    },
+    {
+      "id": "18009",
+      "title": "단독판매Daybreak SUMMER MADNESS 2026: CORE 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.25(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18009",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T05:23:20.229008"
+    },
+    {
+      "id": "18008",
+      "title": "단독판매2026 레이첼 야마가타(Rachael Yamagata) 내한공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18008",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T05:23:20.229008"
+    },
+    {
+      "id": "18007",
+      "title": "아묻따밴드 3rd Concert : 부천 상륙 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.16(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18007",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T05:23:20.229008"
+    },
     {
       "id": "18006",
       "title": "[고양] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",

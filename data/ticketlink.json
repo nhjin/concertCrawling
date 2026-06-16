@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65146",
-  "last_crawled_at": "2026-06-15T15:20:39.570154",
+  "flag_id": "65150",
+  "last_crawled_at": "2026-06-16T05:23:21.644412",
   "items": [
+    {
+      "id": "65150",
+      "title": "​몽글몽글꿈공장 (판타지 무용컬) - 인천​ 티켓오픈 안내",
+      "place": "계양문화회관 대공연장",
+      "open_time": "2026-06-19 01:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65150",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-16T05:23:20.231605"
+    },
+    {
+      "id": "65149",
+      "title": "<b>[단독판매] </b> ​세쿠 내한 공연 (Sekou Live in Seoul)​ 티켓오픈 안내",
+      "place": "현대카드 언더스테이지",
+      "open_time": "2026-06-23 03:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65149",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-16T05:23:20.231605"
+    },
+    {
+      "id": "65148",
+      "title": "​루이스 내쉬 트리오 - A Tribute to Oscar Peterson (대구)​ 티켓오픈 안내",
+      "place": "베리어스 재즈클럽",
+      "open_time": "2026-06-19 01:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65148",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-16T05:23:20.231605"
+    },
+    {
+      "id": "65147",
+      "title": "<b>[단독판매] </b> ​해량의 플레이리스트 꽃​ 티켓오픈 안내",
+      "place": "대전예술가의집",
+      "open_time": "2026-06-19 04:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65147",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-16T05:23:20.231605"
+    },
     {
       "id": "65146",
       "title": "2026 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 수원 티켓오픈 안내",
