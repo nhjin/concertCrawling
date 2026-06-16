@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18011",
-  "last_crawled_at": "2026-06-16T05:23:20.230469",
+  "flag_id": "18012",
+  "last_crawled_at": "2026-06-16T14:16:03.608499",
   "items": [
+    {
+      "id": "18012",
+      "title": "단독판매[진해]2026 진해 별밤 콘서트 〈김현철밴드 콘서트〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18012",
+      "site": "yes24",
+      "crawled_at": "2026-06-16T14:16:03.607243"
+    },
     {
       "id": "18011",
       "title": "?유카페카 사라스테 & 헬싱키 필하모닉 오케스트라? 티켓오픈 안내",
