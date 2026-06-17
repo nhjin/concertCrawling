@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18012",
-  "last_crawled_at": "2026-06-16T14:16:03.608499",
+  "flag_id": "18014",
+  "last_crawled_at": "2026-06-17T05:03:00.906312",
   "items": [
+    {
+      "id": "18014",
+      "title": "[성남] 시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18014",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T05:03:00.904921"
+    },
+    {
+      "id": "18013",
+      "title": "V $ X V PRiNCE & LUCAVEROS 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.18(목) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18013",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T05:03:00.904921"
+    },
     {
       "id": "18012",
       "title": "단독판매[진해]2026 진해 별밤 콘서트 〈김현철밴드 콘서트〉 티켓 오픈 안내",

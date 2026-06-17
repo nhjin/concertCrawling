@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65158",
-  "last_crawled_at": "2026-06-16T14:16:05.072818",
+  "flag_id": "65162",
+  "last_crawled_at": "2026-06-17T05:03:02.483028",
   "items": [
+    {
+      "id": "65162",
+      "title": "<b>[단독판매]</b> 동락관 개관 10주년 기념콘서트 시즌I 소란 - 안동​ 티켓오픈 안내",
+      "place": "경상북도 동락관 공연장",
+      "open_time": "2026-06-23 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65162",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-17T05:03:00.907542"
+    },
+    {
+      "id": "65161",
+      "title": "<b>[단독판매] </b> 2026 KIM MYUNG SOO FAN-CON < UNCHANGED > 티켓오픈 안내",
+      "place": "연세대학교 대강당",
+      "open_time": "2026-06-26 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65161",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-17T05:03:00.907542"
+    },
+    {
+      "id": "65160",
+      "title": "<b>[단독판매] </b> 공룡 가족공연 '공룡 애니멀 쇼' - 대구 (달성) 티켓오픈 안내",
+      "place": "달성문화원",
+      "open_time": "2026-06-18 01:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65160",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-17T05:03:00.907542"
+    },
+    {
+      "id": "65159",
+      "title": "우기유니의 어드벤처 쇼! - 서울 티켓오픈 안내",
+      "place": "서울 예림당아트홀",
+      "open_time": "2026-06-22 01:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65159",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-17T05:03:00.907542"
+    },
     {
       "id": "65158",
       "title": "2026 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 전주 티켓오픈 안내",
