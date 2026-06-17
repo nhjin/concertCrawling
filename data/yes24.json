@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18014",
-  "last_crawled_at": "2026-06-17T05:03:00.906312",
+  "flag_id": "18020",
+  "last_crawled_at": "2026-06-17T12:55:07.912973",
   "items": [
+    {
+      "id": "18020",
+      "title": "[부산] 2026 라이브 가족뮤지컬 [인어공주] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.23(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18020",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
+    {
+      "id": "18019",
+      "title": "26년 김장훈 전국투어콘서트:원맨쇼 IN 제주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18019",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
+    {
+      "id": "18018",
+      "title": "[고양] 2026 어린이 베스트셀러 뮤지컬 [사과가 쿵] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18018",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
+    {
+      "id": "18017",
+      "title": "루돌프 부흐빈더 모차르트 협주곡 프로젝트 Ⅱ 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18017",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
+    {
+      "id": "18016",
+      "title": "루돌프 부흐빈더 모차르트 협주곡 프로젝트 Ⅰ 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18016",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
+    {
+      "id": "18015",
+      "title": "[대구] 2026 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18015",
+      "site": "yes24",
+      "crawled_at": "2026-06-17T12:55:07.911527"
+    },
     {
       "id": "18014",
       "title": "[성남] 시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서 티켓오픈 안내",
