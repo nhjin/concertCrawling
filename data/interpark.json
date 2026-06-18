@@ -1,8 +1,157 @@
 {
   "site": "interpark",
-  "flag_id": "26008451",
-  "last_crawled_at": "2026-06-17T12:55:17.092422",
+  "flag_id": "26008697",
+  "last_crawled_at": "2026-06-18T04:53:07.164885",
   "items": [
+    {
+      "id": "26008697",
+      "title": "연극 〈낭만적인 개소리〉",
+      "place": "서강대학교 메리홀 소극장",
+      "open_time": "2026-06-18 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008697_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008697",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26006228",
+      "title": "뮤지컬 〈파가니니〉",
+      "place": "홍익대 대학로 아트센터 대극장",
+      "open_time": "2026-06-18 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006228_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006228",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008703",
+      "title": "[슈만 서거 170주년 / 클라라 슈만 서거 130주년] 클래식 디깅 클럽 - 슈만",
+      "place": "예술의전당 IBK기업은행챔버홀",
+      "open_time": "2026-06-18 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008703_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008703",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008787",
+      "title": "2026 김장훈 전국투어 콘서트 : 원맨쇼 - 강릉",
+      "place": "강원대학교 강릉캠퍼스 해람문화관",
+      "open_time": "2026-06-18 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008787_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008787",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008667",
+      "title": "클래식 인사이트 IV : i-신포니에타 〈청소년에게 들려주고 싶은 K-클래식〉 - 인천",
+      "place": "아트센터인천 다목적홀",
+      "open_time": "2026-06-18 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008667_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008667",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008352",
+      "title": "2026 예술의전당＆유니버설발레단 〈백조의 호수〉",
+      "place": "예술의전당",
+      "open_time": "06.26(금) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008352_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008352",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "2026052914015617",
+      "title": "TAKUYA KIMURA Live Tour 2026 Checkpoint in Seoul",
+      "place": "인스파이어 아레나",
+      "open_time": "06.29(월) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052914015617.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052914015617",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "2026061013121702",
+      "title": "2026 월간뮤지크 〈노을〉",
+      "place": "양천문화회관 대극장",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061013121702.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061013121702",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "2026052216071573",
+      "title": "마티네 콘서트: 김영하 작가의 〈여행의 이유, 그리고 음악〉Ⅲ",
+      "place": "강동아트센터 대극장 한강",
+      "open_time": "07.02(목) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052216071573.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052216071573",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008408",
+      "title": "상주단체시리즈 1 : 뮤지컬〈왕세자실종사건〉",
+      "place": "관악아트홀",
+      "open_time": "07.02(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008408_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008408",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008871",
+      "title": "레봉벡의 〈Crazy Winds〉",
+      "place": "예술의전당 IBK기업은행챔버홀",
+      "open_time": "07.02(목) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008871_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008871",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
+    {
+      "id": "26008639",
+      "title": "가족매지컬 〈마술고양이〉- 서울 양천",
+      "place": "양천문화회관 대극장",
+      "open_time": "추후공지",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008639_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008639",
+      "site": "interpark",
+      "crawled_at": "2026-06-18T04:53:02.418283"
+    },
     {
       "id": "26008451",
       "title": "시에나 스파이로 첫 내한공연",

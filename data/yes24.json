@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18020",
-  "last_crawled_at": "2026-06-17T12:55:07.912973",
+  "flag_id": "18022",
+  "last_crawled_at": "2026-06-18T04:52:52.376336",
   "items": [
+    {
+      "id": "18022",
+      "title": "단독판매2026 부산국제록페스티벌 얼리버드 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.18(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18022",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T04:52:52.374969"
+    },
+    {
+      "id": "18021",
+      "title": "뮤지컬 [사칠] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.22(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18021",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T04:52:52.374969"
+    },
     {
       "id": "18020",
       "title": "[부산] 2026 라이브 가족뮤지컬 [인어공주] 티켓오픈 안내",
