@@ -1,8 +1,32 @@
 {
   "site": "ticketlink",
-  "flag_id": "65183",
-  "last_crawled_at": "2026-06-18T04:52:54.290026",
+  "flag_id": "65185",
+  "last_crawled_at": "2026-06-18T12:29:55.737446",
   "items": [
+    {
+      "id": "65185",
+      "title": "입터진 라이브 티켓오픈 안내",
+      "place": "선돌극장",
+      "open_time": "2026-06-23 03:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65185",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-18T12:29:53.882452"
+    },
+    {
+      "id": "65184",
+      "title": "뮤지컬 <드라큘라> 3차 티켓오픈 안내",
+      "place": "LG아트센터 서울, LG SIGNATURE 홀",
+      "open_time": "2026-06-25 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65184",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-18T12:29:53.882452"
+    },
     {
       "id": "65183",
       "title": "<b>[단독판매] </b>  [구미] KOREAN REQUIEM - 한국 진혼곡 티켓오픈 안내",

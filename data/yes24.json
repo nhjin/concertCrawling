@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18022",
-  "last_crawled_at": "2026-06-18T04:52:52.376336",
+  "flag_id": "18028",
+  "last_crawled_at": "2026-06-18T12:29:53.880951",
   "items": [
+    {
+      "id": "18028",
+      "title": "단독판매뮤지컬 〈베토벤〉 - YES24DAY 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18028",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
+    {
+      "id": "18027",
+      "title": "[남양주] 2026 [더:매직서커스] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.23(화) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18027",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
+    {
+      "id": "18026",
+      "title": "수요상설 onStage〈색소폰 김대훈 독주회〉- 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.06.23(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18026",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
+    {
+      "id": "18025",
+      "title": "에디킴 X 케이시 콘서트 VOICE TO VOICE 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.19(금) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18025",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
+    {
+      "id": "18024",
+      "title": "〈불꽃야구2〉6월 20일 (토) 직관경기 우천으로 인한 경기 취소 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "변경/취소",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18024",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
+    {
+      "id": "18023",
+      "title": "단독판매2026 ONG SEONGWU FANMEETING 〈Let’s go-ONG!〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.26(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18023",
+      "site": "yes24",
+      "crawled_at": "2026-06-18T12:29:53.879396"
+    },
     {
       "id": "18022",
       "title": "단독판매2026 부산국제록페스티벌 얼리버드 티켓 오픈 안내",
