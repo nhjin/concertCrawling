@@ -1,8 +1,68 @@
 {
   "site": "ticketlink",
-  "flag_id": "65185",
-  "last_crawled_at": "2026-06-18T12:29:55.737446",
+  "flag_id": "65191",
+  "last_crawled_at": "2026-06-19T05:13:06.493808",
   "items": [
+    {
+      "id": "65191",
+      "title": "2026 김중연 콘서트 퍼포머 [PERFORMER VOL.3 : VARIETY] 티켓오픈 안내",
+      "place": "이화여대 삼성홀",
+      "open_time": "2026-06-25 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65191",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T05:13:04.643973"
+    },
+    {
+      "id": "65190",
+      "title": "B1A4 15주년 단독 콘서트 < D-day > 티켓오픈 안내",
+      "place": "KBS아레나",
+      "open_time": "2026-06-29 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65190",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T05:13:04.643973"
+    },
+    {
+      "id": "65189",
+      "title": "2026 뮤지컬 <미드나잇:액터뮤지션> 5차 티켓오픈 안내",
+      "place": "NOL유니플렉스 3관",
+      "open_time": "2026-06-24 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65189",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T05:13:04.643973"
+    },
+    {
+      "id": "65187",
+      "title": "​뮤지컬 < AI세계에서 살아남기 > - 서울숲​ 2차 티켓오픈 안내",
+      "place": "서울숲 씨어터 2관",
+      "open_time": "2026-06-26 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65187",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T05:13:04.643973"
+    },
+    {
+      "id": "65186",
+      "title": "연극 <이올라오스> 2차​ 티켓오픈 안내",
+      "place": "예스24아트원 3관",
+      "open_time": "2026-06-25 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65186",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T05:13:04.643973"
+    },
     {
       "id": "65185",
       "title": "입터진 라이브 티켓오픈 안내",
