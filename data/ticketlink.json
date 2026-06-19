@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65191",
-  "last_crawled_at": "2026-06-19T05:13:06.493808",
+  "flag_id": "65195",
+  "last_crawled_at": "2026-06-19T12:51:48.701542",
   "items": [
+    {
+      "id": "65195",
+      "title": "<b>[단독판매]</b> 2026 소통왕 말자쑈 in Ulsan​ 티켓오픈 안내",
+      "place": "KBS울산홀",
+      "open_time": "2026-06-23 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65195",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T12:51:46.933341"
+    },
+    {
+      "id": "65194",
+      "title": "<b>[단독판매]</b> DSAC 브랜드 콘서트 < 도니체티 베스트 컬렉션 : Encore > - 대구 티켓오픈 안내",
+      "place": "달서아트센터 청룡홀",
+      "open_time": "2026-06-22 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65194",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T12:51:46.933341"
+    },
+    {
+      "id": "65193",
+      "title": "<b>[단독판매]</b> 국립청년극단 <헤파이스토스 로미오와 줄리엣> - 춘천 티켓오픈 안내",
+      "place": "춘천 몸짓극장",
+      "open_time": "2026-06-24 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65193",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T12:51:46.933341"
+    },
+    {
+      "id": "65192",
+      "title": "<b>[단독판매] </b> KIMCHIKURA Fes'26 티켓오픈 안내",
+      "place": "경희대학교 평화의전당 ",
+      "open_time": "2026-06-26 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65192",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-19T12:51:46.933341"
+    },
     {
       "id": "65191",
       "title": "2026 김중연 콘서트 퍼포머 [PERFORMER VOL.3 : VARIETY] 티켓오픈 안내",
