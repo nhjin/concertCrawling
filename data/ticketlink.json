@@ -1,8 +1,20 @@
 {
   "site": "ticketlink",
-  "flag_id": "65195",
-  "last_crawled_at": "2026-06-19T12:51:48.701542",
+  "flag_id": "65196",
+  "last_crawled_at": "2026-06-20T11:22:11.811340",
   "items": [
+    {
+      "id": "65196",
+      "title": "오즈의 마법사 - 구미​ 티켓오픈 안내",
+      "place": "구미 문화예술회관 소극장",
+      "open_time": "2026-06-23 00:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65196",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-20T11:22:09.823920"
+    },
     {
       "id": "65195",
       "title": "<b>[단독판매]</b> 2026 소통왕 말자쑈 in Ulsan​ 티켓오픈 안내",
