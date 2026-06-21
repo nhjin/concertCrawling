@@ -1,8 +1,20 @@
 {
   "site": "ticketlink",
-  "flag_id": "65196",
-  "last_crawled_at": "2026-06-20T11:22:11.811340",
+  "flag_id": "65197",
+  "last_crawled_at": "2026-06-21T05:08:54.279533",
   "items": [
+    {
+      "id": "65197",
+      "title": "뮤지컬 멜로우TV < Run it up , 팀나빠 > - 천안​ 티켓오픈 안내",
+      "place": "천안시 성환문화회관 대공연장",
+      "open_time": "2026-06-22 00:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65197",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-21T05:08:52.550202"
+    },
     {
       "id": "65196",
       "title": "오즈의 마법사 - 구미​ 티켓오픈 안내",
