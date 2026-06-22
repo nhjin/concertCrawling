@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65199",
-  "last_crawled_at": "2026-06-22T05:21:09.778194",
+  "flag_id": "65203",
+  "last_crawled_at": "2026-06-22T14:46:18.766947",
   "items": [
+    {
+      "id": "65203",
+      "title": "이머시브 뮤지컬 <고래밥 - 바다 대운동회> 대전 티켓오픈 안내",
+      "place": "대전우송예술회관",
+      "open_time": "2026-06-23 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65203",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-22T14:46:17.080587"
+    },
+    {
+      "id": "65202",
+      "title": "이머시브 뮤지컬 <고래밥 - 바다 대운동회> 부산 티켓오픈 안내",
+      "place": "부산 KBS홀",
+      "open_time": "2026-06-23 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65202",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-22T14:46:17.080587"
+    },
+    {
+      "id": "65201",
+      "title": "​연극 <마피아게임> - 광주​ 티켓오픈 안내",
+      "place": "기분좋은극장",
+      "open_time": "2026-06-24 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65201",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-22T14:46:17.080587"
+    },
+    {
+      "id": "65200",
+      "title": "Best Friends 십란 : MINTPAPER 20th SPECIAL LIVE 티켓오픈 안내",
+      "place": "연세대학교 대강당 ",
+      "open_time": "2026-06-29 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65200",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-22T14:46:17.080587"
+    },
     {
       "id": "65199",
       "title": "뮤지컬 <블랙메리포핀스> 3차 티켓오픈 안내",
