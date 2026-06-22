@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18031",
-  "last_crawled_at": "2026-06-19T05:13:04.642503",
+  "flag_id": "18035",
+  "last_crawled_at": "2026-06-22T05:21:08.057746",
   "items": [
+    {
+      "id": "18035",
+      "title": "에스토니아 국립 오케스트라 with 선우예권 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18035",
+      "site": "yes24",
+      "crawled_at": "2026-06-22T05:21:08.056293"
+    },
+    {
+      "id": "18034",
+      "title": "베르디 콘서트 오페라 〈리골레토＆아이다＆라 트라비아타〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18034",
+      "site": "yes24",
+      "crawled_at": "2026-06-22T05:21:08.056293"
+    },
+    {
+      "id": "18033",
+      "title": "단독판매〈불꽃야구2〉2026시즌 여덟 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18033",
+      "site": "yes24",
+      "crawled_at": "2026-06-22T05:21:08.056293"
+    },
     {
       "id": "18031",
       "title": "단독판매[광주시립교향악단] GSO 오티움 콘서트 Ⅲ ‘Cello’ 티켓 오픈 안내",

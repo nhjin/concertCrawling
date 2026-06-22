@@ -1,8 +1,20 @@
 {
   "site": "ticketlink",
-  "flag_id": "65197",
-  "last_crawled_at": "2026-06-21T05:08:54.279533",
+  "flag_id": "65199",
+  "last_crawled_at": "2026-06-22T05:21:09.778194",
   "items": [
+    {
+      "id": "65199",
+      "title": "뮤지컬 <블랙메리포핀스> 3차 티켓오픈 안내",
+      "place": "링크아트센터 벅스홀",
+      "open_time": "2026-06-25 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65199",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-22T05:21:08.059248"
+    },
     {
       "id": "65197",
       "title": "뮤지컬 멜로우TV < Run it up , 팀나빠 > - 천안​ 티켓오픈 안내",
