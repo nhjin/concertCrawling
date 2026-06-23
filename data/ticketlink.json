@@ -1,8 +1,20 @@
 {
   "site": "ticketlink",
-  "flag_id": "65203",
-  "last_crawled_at": "2026-06-22T14:46:18.766947",
+  "flag_id": "65208",
+  "last_crawled_at": "2026-06-23T04:14:29.774609",
   "items": [
+    {
+      "id": "65208",
+      "title": "<b>[단독판매] </b> 동락관 개관 10주년 기념콘서트 시즌II 조수미 - 안동 티켓오픈 안내",
+      "place": "경상북도 동락관 공연장",
+      "open_time": "2026-07-01 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65208",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-23T04:14:27.914664"
+    },
     {
       "id": "65203",
       "title": "이머시브 뮤지컬 <고래밥 - 바다 대운동회> 대전 티켓오픈 안내",

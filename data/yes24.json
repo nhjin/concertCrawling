@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18043",
-  "last_crawled_at": "2026-06-22T14:46:17.078888",
+  "flag_id": "18047",
+  "last_crawled_at": "2026-06-23T04:14:27.913033",
   "items": [
+    {
+      "id": "18047",
+      "title": "[용인] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18047",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T04:14:27.911674"
+    },
+    {
+      "id": "18046",
+      "title": "슈퍼디바 적우 콘서트 - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.25(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18046",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T04:14:27.911674"
+    },
+    {
+      "id": "18045",
+      "title": "뮤지컬 [시데레우스] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.30(화) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18045",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T04:14:27.911674"
+    },
+    {
+      "id": "18044",
+      "title": "뮤지컬 <겨울왕국> 한국 초연 - 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.02(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18044",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T04:14:27.911674"
+    },
     {
       "id": "18043",
       "title": "단독판매2026 오월오일 전국 클럽 투어 [SURNBURN] - 제주 티켓 오픈 안내",

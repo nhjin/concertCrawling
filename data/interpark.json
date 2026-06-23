@@ -1,8 +1,264 @@
 {
   "site": "interpark",
-  "flag_id": "26008903",
-  "last_crawled_at": "2026-06-22T14:46:28.792927",
+  "flag_id": "26008744",
+  "last_crawled_at": "2026-06-23T04:14:40.385177",
   "items": [
+    {
+      "id": "26008744",
+      "title": "뮤지컬 바람으로의 여행",
+      "place": "대학로 스튜디오 블루",
+      "open_time": "2026-06-23 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008744_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008744",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26006751",
+      "title": "뮤지컬 〈박열〉",
+      "place": "링크아트센터드림 드림4관",
+      "open_time": "2026-06-23 14:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006751_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006751",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26004473",
+      "title": "뮤지컬 〈브라더스 까라마조프〉",
+      "place": "NOL 씨어터 대학로 우리투자증권홀",
+      "open_time": "2026-06-23 14:00",
+      "open_type": "4차 티켓 오픈",
+      "badges": [
+        "단독판매",
+        "토핑선예매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26004473_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26004473",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026061812550331",
+      "title": "크로니클 챔버오케스트라 제2회 정기연주회",
+      "place": "나루아트센터 대공연장",
+      "open_time": "2026-06-23 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061812550331.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061812550331",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008683",
+      "title": "일리야 라쉬코프스키, 라흐마니노프 3개의 피아노 협주곡 - 대전",
+      "place": "대전예술의전당 아트홀",
+      "open_time": "2026-06-23 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008683_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008683",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008955",
+      "title": "연극 〈분홍립스틱〉",
+      "place": "국립극장 달오름극장",
+      "open_time": "06.26(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008955_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008955",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008771",
+      "title": "영등포아트홀 기획공연 [해외공연영상 상영 〈2026 빈 필하모닉 여름 음악회〉]",
+      "place": "영등포아트홀",
+      "open_time": "06.26(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008771_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008771",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008822",
+      "title": "아우구스틴 하델리히 무반주 바이올린 리사이틀",
+      "place": "롯데콘서트홀",
+      "open_time": "06.26(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008822_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008822",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008352",
+      "title": "2026 예술의전당＆유니버설발레단 〈백조의 호수〉",
+      "place": "예술의전당",
+      "open_time": "06.26(금) 15:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008352_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008352",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026062012293370",
+      "title": "스티브 레이시 첫 단독 내한공연",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "06.29(월) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062012293370.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062012293370",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008115",
+      "title": "TAKUYA KIMURA Live Tour 2026 Checkpoint in Seoul",
+      "place": "인스파이어 아레나",
+      "open_time": "06.29(월) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008115_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008115",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026061820355640",
+      "title": "B1A4 15주년 단독 콘서트 〈D-day〉",
+      "place": "KBS아레나",
+      "open_time": "06.29(월) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061820355640.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061820355640",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026062121322608",
+      "title": "Best Friends 십란 : MINTPAPER 20th SPECIAL LIVE",
+      "place": "연세대학교 대강당",
+      "open_time": "06.29(월) 19:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062121322608.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062121322608",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026061814233639",
+      "title": "2026 폴 길버트 내한공연",
+      "place": "무신사개러지",
+      "open_time": "06.30(화) 13:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061814233639.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061814233639",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008620",
+      "title": "2026 월간뮤지크 〈노을〉",
+      "place": "양천문화회관 대극장",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008620_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008620",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26006420",
+      "title": "뮤지컬 〈시데레우스〉",
+      "place": "플러스씨어터",
+      "open_time": "06.30(화) 15:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006420_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006420",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026061714094030",
+      "title": "김세현 피아노 리사이틀",
+      "place": "롯데콘서트홀",
+      "open_time": "06.30(화) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061714094030.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061714094030",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026062017575422",
+      "title": "연극 〈멜로에 차질〉 - 로맨스 찍먹 코미디",
+      "place": "나인진홀 2관",
+      "open_time": "07.01(수) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062017575422.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062017575422",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "2026052216071573",
+      "title": "마티네 콘서트: 김영하 작가의 〈여행의 이유, 그리고 음악〉Ⅲ",
+      "place": "강동아트센터 대극장 한강",
+      "open_time": "07.02(목) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052216071573.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052216071573",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
+    {
+      "id": "26008408",
+      "title": "상주단체시리즈 1 : 뮤지컬〈왕세자실종사건〉",
+      "place": "관악아트홀",
+      "open_time": "07.02(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008408_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008408",
+      "site": "interpark",
+      "crawled_at": "2026-06-23T04:14:37.387913"
+    },
     {
       "id": "26008903",
       "title": "2026 라이브 가족뮤지컬 〈인어공주〉 - 부산",
