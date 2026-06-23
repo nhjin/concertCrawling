@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18047",
-  "last_crawled_at": "2026-06-23T04:14:27.913033",
+  "flag_id": "18050",
+  "last_crawled_at": "2026-06-23T12:11:12.606496",
   "items": [
+    {
+      "id": "18050",
+      "title": "[서울(영등포)] 2026 라이브 가족뮤지컬 [알라딘] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.24(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18050",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T12:11:12.605050"
+    },
+    {
+      "id": "18049",
+      "title": "단독판매2026 HAHA FAN CONCERT - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.26(금) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18049",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T12:11:12.605050"
+    },
+    {
+      "id": "18048",
+      "title": "2026 예술의전당＆유니버설발레단 〈백조의 호수〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.26(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18048",
+      "site": "yes24",
+      "crawled_at": "2026-06-23T12:11:12.605050"
+    },
     {
       "id": "18047",
       "title": "[용인] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
