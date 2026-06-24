@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18052",
-  "last_crawled_at": "2026-06-24T04:17:19.190538",
+  "flag_id": "18056",
+  "last_crawled_at": "2026-06-24T11:48:59.026937",
   "items": [
+    {
+      "id": "18056",
+      "title": "단독판매＂IDOL1ST KENTY＂ ASIA TOUR 2026 in SEOUL FANPORT 패키지 오픈 안내",
+      "place": "",
+      "open_time": "2026.06.25(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18056",
+      "site": "yes24",
+      "crawled_at": "2026-06-24T11:48:59.025503"
+    },
+    {
+      "id": "18055",
+      "title": "[부산] 2026 가족매직콘서트 [판타스틱 매직콘서트] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.25(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18055",
+      "site": "yes24",
+      "crawled_at": "2026-06-24T11:48:59.025503"
+    },
+    {
+      "id": "18054",
+      "title": "뮤지컬 <헬스키친> 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.30(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18054",
+      "site": "yes24",
+      "crawled_at": "2026-06-24T11:48:59.025503"
+    },
+    {
+      "id": "18053",
+      "title": "연극 〈댄포스가 옳았다〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.29(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18053",
+      "site": "yes24",
+      "crawled_at": "2026-06-24T11:48:59.025503"
+    },
     {
       "id": "18052",
       "title": "[수원] 2026 라이브 가족뮤지컬 [신데렐라] 티켓오픈 안내",
