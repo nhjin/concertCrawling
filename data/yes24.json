@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18057",
-  "last_crawled_at": "2026-06-25T04:17:35.610906",
+  "flag_id": "18058",
+  "last_crawled_at": "2026-06-25T11:42:56.355576",
   "items": [
+    {
+      "id": "18058",
+      "title": "음악극 〈브로크백 마운틴〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.02(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18058",
+      "site": "yes24",
+      "crawled_at": "2026-06-25T11:42:56.354135"
+    },
     {
       "id": "18057",
       "title": "단독판매[평택] 2026 아시아 국제 피아노 아카데미 ＆ 페스티벌 with Competition Faculty Recital 티켓 ..",

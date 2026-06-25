@@ -1,8 +1,259 @@
 {
   "site": "interpark",
-  "flag_id": "26008398",
-  "last_crawled_at": "2026-06-25T04:17:49.599908",
+  "flag_id": "26006434",
+  "last_crawled_at": "2026-06-25T11:43:07.619020",
   "items": [
+    {
+      "id": "26006434",
+      "title": "스페인의 거장 고야: 이성이 잠들 때, 괴물이 깨어난다展",
+      "place": "예술의전당 한가람미술관",
+      "open_time": "2026-06-26 00:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006434_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006434",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009213",
+      "title": "최백호 50주년 〈낭만의 50년, 시간의 흔적을 노래하다〉 - 안산",
+      "place": "안산문화예술의전당 해돋이극장",
+      "open_time": "2026-06-26 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009213_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009213",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009248",
+      "title": "다양한 클래식 시리즈 2. 베토벤의 밤 - 세종",
+      "place": "세종예술의전당 콘서트홀",
+      "open_time": "2026-06-26 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009248_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009248",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26008698",
+      "title": "뮤지컬 〈소년의 초상〉",
+      "place": "대학로 TOM(티오엠) 2관",
+      "open_time": "2026-06-26 10:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매",
+        "토핑선예매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008698_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008698",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009285",
+      "title": "리얼공룡쇼 〈다이노〉 - 안산",
+      "place": "안산문화예술의전당 달맞이극장",
+      "open_time": "2026-06-26 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009285_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009285",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26008620",
+      "title": "2026 월간뮤지크 〈노을〉",
+      "place": "양천문화회관 대극장",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008620_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008620",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26007169",
+      "title": "뮤지컬 〈헬스키친〉 (Musical Hell’s Kitchen)",
+      "place": "GS아트센터",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "2차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007169_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007169",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26006175",
+      "title": "죽은 시인의 사회",
+      "place": "NOL 씨어터 대학로 우리카드홀",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006175_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006175",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009067",
+      "title": "〈구름도사와 송이도사: 빨간 괴물의 역습〉 - 김포",
+      "place": "김포아트홀",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009067_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009067",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009197",
+      "title": "에스토니아 국립 오케스트라 with 선우예권 - 부천",
+      "place": "부천아트센터 콘서트홀",
+      "open_time": "06.30(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009197_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009197",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26006420",
+      "title": "뮤지컬 〈시데레우스〉",
+      "place": "플러스씨어터",
+      "open_time": "06.30(화) 15:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006420_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006420",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26009176",
+      "title": "김세현 피아노 리사이틀",
+      "place": "롯데콘서트홀",
+      "open_time": "06.30(화) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009176_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009176",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026062219483492",
+      "title": "너드커넥션 클럽 투어 [파도의 고점] - 대구",
+      "place": "대구 락왕",
+      "open_time": "06.30(화) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062219483492.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062219483492",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026062017575422",
+      "title": "연극 〈멜로에 차질〉 - 로맨스 찍먹 코미디",
+      "place": "나인진홀 2관",
+      "open_time": "07.01(수) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062017575422.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062017575422",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026061714294180",
+      "title": "FOCUS in LIVE: 서울",
+      "place": "DSM 아트홀",
+      "open_time": "07.01(수) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061714294180.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061714294180",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026062219495890",
+      "title": "너드커넥션 클럽 투어 [파도의 고점] - 광주",
+      "place": "광주 보헤미안",
+      "open_time": "07.01(수) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062219495890.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062219495890",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26006445",
+      "title": "연극 〈플리백 (Fleabag)〉 한국 초연",
+      "place": "두산아트센터 연강홀",
+      "open_time": "07.01(수) 14:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006445_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006445",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026062219464700",
+      "title": "너드커넥션 클럽 투어 [파도의 고점] - 전주",
+      "place": "전주 더뮤지션",
+      "open_time": "07.01(수) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026062219464700.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026062219464700",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "2026052216071573",
+      "title": "마티네 콘서트: 김영하 작가의 〈여행의 이유, 그리고 음악〉Ⅲ",
+      "place": "강동아트센터 대극장 한강",
+      "open_time": "07.02(목) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026052216071573.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026052216071573",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
+    {
+      "id": "26006560",
+      "title": "뮤지컬 〈어둑시니〉",
+      "place": "NOL 서경스퀘어 스콘 2관",
+      "open_time": "07.02(목) 11:00",
+      "open_type": "4차티켓 오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006560_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006560",
+      "site": "interpark",
+      "crawled_at": "2026-06-25T11:43:04.506983"
+    },
     {
       "id": "26008398",
       "title": "유카페카 사라스테 ＆ 헬싱키 필하모닉 오케스트라",
