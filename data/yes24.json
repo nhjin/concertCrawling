@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18056",
-  "last_crawled_at": "2026-06-24T11:48:59.026937",
+  "flag_id": "18057",
+  "last_crawled_at": "2026-06-25T04:17:35.610906",
   "items": [
+    {
+      "id": "18057",
+      "title": "단독판매[평택] 2026 아시아 국제 피아노 아카데미 ＆ 페스티벌 with Competition Faculty Recital 티켓 ..",
+      "place": "",
+      "open_time": "2026.06.26(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18057",
+      "site": "yes24",
+      "crawled_at": "2026-06-25T04:17:35.609475"
+    },
     {
       "id": "18056",
       "title": "단독판매＂IDOL1ST KENTY＂ ASIA TOUR 2026 in SEOUL FANPORT 패키지 오픈 안내",

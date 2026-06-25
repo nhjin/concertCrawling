@@ -1,8 +1,20 @@
 {
   "site": "ticketlink",
-  "flag_id": "65229",
-  "last_crawled_at": "2026-06-24T11:49:00.392120",
+  "flag_id": "65232",
+  "last_crawled_at": "2026-06-25T04:17:37.172857",
   "items": [
+    {
+      "id": "65232",
+      "title": "<b>[단독판매]</b> 연극 <갈매기> 티켓오픈 안내",
+      "place": "티켓링크 1975 씨어터",
+      "open_time": "2026-06-30 04:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65232",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-25T04:17:35.612866"
+    },
     {
       "id": "65229",
       "title": "<b>[단독판매] </b> 2026 춘천오페라페스티벌 요한 슈트라우스의 '박쥐' 티켓오픈 안내",
