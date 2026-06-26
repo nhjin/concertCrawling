@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65242",
-  "last_crawled_at": "2026-06-25T11:42:57.823425",
+  "flag_id": "65249",
+  "last_crawled_at": "2026-06-26T04:23:50.839718",
   "items": [
+    {
+      "id": "65249",
+      "title": "2026 김경호 전국투어 콘서트 : 발라드를 위한 時 - 원주 티켓오픈 안내",
+      "place": "원주 백운아트홀",
+      "open_time": "2026-07-01 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65249",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T04:23:48.881313"
+    },
+    {
+      "id": "65247",
+      "title": "뮤지컬 <더 라스트맨> 2차팀 마지막​ 티켓오픈 안내",
+      "place": "링크더스페이스 1관",
+      "open_time": "2026-07-03 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65247",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T04:23:48.881313"
+    },
+    {
+      "id": "65245",
+      "title": "2026 김종서 전국투어 콘서트 : 모두의 김종서 - 원주​ 티켓오픈 안내",
+      "place": "원주 백운아트홀",
+      "open_time": "2026-07-01 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65245",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T04:23:48.881313"
+    },
+    {
+      "id": "65244",
+      "title": "조항조 전국투어 콘서트 : 생각 - 원주 티켓오픈 안내",
+      "place": "원주 백운아트홀",
+      "open_time": "2026-07-01 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65244",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T04:23:48.881313"
+    },
     {
       "id": "65242",
       "title": "어린이 가족뮤지컬 <도깨비 방망이> - 서울 노원​ 티켓오픈 안내",

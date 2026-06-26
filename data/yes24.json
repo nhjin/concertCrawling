@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18058",
-  "last_crawled_at": "2026-06-25T11:42:56.355576",
+  "flag_id": "18063",
+  "last_crawled_at": "2026-06-26T04:23:48.879415",
   "items": [
+    {
+      "id": "18063",
+      "title": "[원주] 조항조 전국투어 콘서트：생각 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.01(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18063",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T04:23:48.877962"
+    },
+    {
+      "id": "18061",
+      "title": "2026 김종서 전국투어 콘서트 : 모두의 김종서 - 원주 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.01(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18061",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T04:23:48.877962"
+    },
+    {
+      "id": "18060",
+      "title": "2026 김경호 전국투어 콘서트 : 발라드를 위한 時 - 원주 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.01(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18060",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T04:23:48.877962"
+    },
+    {
+      "id": "18059",
+      "title": "2026 뮤지컬 [더 라스트맨] 2차팀 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18059",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T04:23:48.877962"
+    },
     {
       "id": "18058",
       "title": "음악극 〈브로크백 마운틴〉 3차 티켓오픈 안내",
