@@ -1,8 +1,68 @@
 {
   "site": "ticketlink",
-  "flag_id": "65249",
-  "last_crawled_at": "2026-06-26T04:23:50.839718",
+  "flag_id": "65254",
+  "last_crawled_at": "2026-06-26T11:47:49.606669",
   "items": [
+    {
+      "id": "65254",
+      "title": "2026 HAHA FAN CONCERT - 서울 티켓오픈 안내",
+      "place": "연세대학교 대강당",
+      "open_time": "2026-06-30 08:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65254",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T11:47:47.629251"
+    },
+    {
+      "id": "65253",
+      "title": "<b>[단독판매] </b> 2026 소통왕 말자쑈 in Jeonju​ 티켓오픈 안내",
+      "place": "전북대학교 삼성문화회관 영산홀",
+      "open_time": "2026-07-02 02:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65253",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T11:47:47.629251"
+    },
+    {
+      "id": "65252",
+      "title": "<b>[단독판매]</b> [피처링_트랙48] 2026 연극 <언체인> 티켓오픈 안내",
+      "place": "YES24스테이지 2관",
+      "open_time": "2026-07-02 06:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65252",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T11:47:47.629251"
+    },
+    {
+      "id": "65251",
+      "title": "2026 연극 <언체인> 3차 티켓오픈 안내",
+      "place": "예스24 라이브홀",
+      "open_time": "2026-06-30 06:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65251",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T11:47:47.629251"
+    },
+    {
+      "id": "65250",
+      "title": "에디킴 x 케이시 콘서트 VOICE TO VOICE 티켓오픈 안내",
+      "place": "예스24 라이브홀",
+      "open_time": "2026-06-29 03:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65250",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-26T11:47:47.629251"
+    },
     {
       "id": "65249",
       "title": "2026 김경호 전국투어 콘서트 : 발라드를 위한 時 - 원주 티켓오픈 안내",

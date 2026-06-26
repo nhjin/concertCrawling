@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18063",
-  "last_crawled_at": "2026-06-26T04:23:48.879415",
+  "flag_id": "18068",
+  "last_crawled_at": "2026-06-26T11:47:47.627223",
   "items": [
+    {
+      "id": "18068",
+      "title": "Units vol.1 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.29(월) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18068",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T11:47:47.625785"
+    },
+    {
+      "id": "18067",
+      "title": "[대전] 2026 라이브 가족뮤지컬 [프린세스공주] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.29(월) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18067",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T11:47:47.625785"
+    },
+    {
+      "id": "18066",
+      "title": "2026 연극 〈언체인〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.06.30(화) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18066",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T11:47:47.625785"
+    },
+    {
+      "id": "18065",
+      "title": "연극 〈꽃, 별이 지나〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18065",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T11:47:47.625785"
+    },
+    {
+      "id": "18064",
+      "title": "[창원] 엘리자베스 랭그리터 - 매일이 휴가 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.01(수) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18064",
+      "site": "yes24",
+      "crawled_at": "2026-06-26T11:47:47.625785"
+    },
     {
       "id": "18063",
       "title": "[원주] 조항조 전국투어 콘서트：생각 티켓 오픈 안내",
