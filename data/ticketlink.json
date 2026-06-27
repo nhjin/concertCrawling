@@ -1,8 +1,56 @@
 {
   "site": "ticketlink",
-  "flag_id": "65254",
-  "last_crawled_at": "2026-06-26T11:47:49.606669",
+  "flag_id": "65259",
+  "last_crawled_at": "2026-06-27T11:00:19.275851",
   "items": [
+    {
+      "id": "65259",
+      "title": "<b>[단독판매]</b> 뮤지컬 라흐마니노프-익산​ 티켓오픈 안내",
+      "place": "익산예술의전당 대공연장",
+      "open_time": "2026-06-29 06:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65259",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-27T11:00:17.407449"
+    },
+    {
+      "id": "65258",
+      "title": "<b>[단독판매]</b> 신현필 X 고희안, 디어 모차르트 (Dear Mozart)-익산 티켓오픈 안내",
+      "place": "익산예술의전당 대공연장",
+      "open_time": "2026-06-29 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65258",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-27T11:00:17.407449"
+    },
+    {
+      "id": "65257",
+      "title": "<b>[단독판매]</b> 신현필 X 고희안, 디어 모차르트 (Dear Mozart)-익산 티켓오픈 안내",
+      "place": "익산예술의전당 대공연장",
+      "open_time": "2026-06-29 05:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65257",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-27T11:00:17.407449"
+    },
+    {
+      "id": "65256",
+      "title": "<b>[단독판매]</b> 2026 JUYEON 1st FANMEETING “YOUTH, BY JUYEON” 추가 회차​ 티켓오픈 안내",
+      "place": "연세대학교 대강당",
+      "open_time": "2026-06-29 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://www.ticketlink.co.kr/help/notice/65256",
+      "site": "ticketlink",
+      "crawled_at": "2026-06-27T11:00:17.407449"
+    },
     {
       "id": "65254",
       "title": "2026 HAHA FAN CONCERT - 서울 티켓오픈 안내",
