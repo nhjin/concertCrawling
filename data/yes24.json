@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18080",
-  "last_crawled_at": "2026-06-30T04:18:34.231551",
+  "flag_id": "18084",
+  "last_crawled_at": "2026-06-30T11:47:56.095633",
   "items": [
+    {
+      "id": "18084",
+      "title": "2026 뮤지컬 [파가니니] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.06(월) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18084",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T11:47:56.094253"
+    },
+    {
+      "id": "18083",
+      "title": "SJF at the Theater 2026 - Kings of Convenience 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18083",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T11:47:56.094253"
+    },
+    {
+      "id": "18082",
+      "title": "2026 뮤지컬 [사의찬미] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.02(목) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18082",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T11:47:56.094253"
+    },
+    {
+      "id": "18081",
+      "title": "[거제] 2026 베스트셀러 어린이뮤지컬 [사과가 쿵] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.02(목) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18081",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T11:47:56.094253"
+    },
     {
       "id": "18080",
       "title": "[GUNPO MUSICAL STATION 59.9] 한국뮤지컬 EP.1 탄생 티켓오픈 안내",
