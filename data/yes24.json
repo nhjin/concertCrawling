@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18078",
-  "last_crawled_at": "2026-06-29T13:11:00.282305",
+  "flag_id": "18080",
+  "last_crawled_at": "2026-06-30T04:18:34.231551",
   "items": [
+    {
+      "id": "18080",
+      "title": "[GUNPO MUSICAL STATION 59.9] 한국뮤지컬 EP.1 탄생 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18080",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T04:18:34.230037"
+    },
+    {
+      "id": "18079",
+      "title": "단독판매[전남광주통합특별시립교향악단] 체임버 시리즈 Ⅳ ‘The art of Bassoon’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.01(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18079",
+      "site": "yes24",
+      "crawled_at": "2026-06-30T04:18:34.230037"
+    },
     {
       "id": "18078",
       "title": "HIPHOPPLAYA SHOW VOL.61 티켓오픈 안내",
