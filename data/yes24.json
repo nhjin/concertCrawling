@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18084",
-  "last_crawled_at": "2026-06-30T11:47:56.095633",
+  "flag_id": "18089",
+  "last_crawled_at": "2026-07-01T04:47:08.647814",
   "items": [
+    {
+      "id": "18089",
+      "title": "단독판매2026 SPLASH FESTIVAL 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18089",
+      "site": "yes24",
+      "crawled_at": "2026-07-01T04:47:08.646395"
+    },
+    {
+      "id": "18088",
+      "title": "단독판매HY LIVE SERIES & MILLI MILLI JAA EHH! ASIA TOUR 2026 IN SEOUL  티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18088",
+      "site": "yes24",
+      "crawled_at": "2026-07-01T04:47:08.646395"
+    },
+    {
+      "id": "18087",
+      "title": "[대전] 2026 라이브 가족뮤지컬 [알라딘] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.02(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18087",
+      "site": "yes24",
+      "crawled_at": "2026-07-01T04:47:08.646395"
+    },
+    {
+      "id": "18086",
+      "title": "2026 이럴때 이런음악 해설이 있는 청소년음악회 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18086",
+      "site": "yes24",
+      "crawled_at": "2026-07-01T04:47:08.646395"
+    },
     {
       "id": "18084",
       "title": "2026 뮤지컬 [파가니니] 3차 티켓오픈 안내",
