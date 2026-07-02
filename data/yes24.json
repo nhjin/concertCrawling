@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18090",
-  "last_crawled_at": "2026-07-01T12:12:04.131609",
+  "flag_id": "18094",
+  "last_crawled_at": "2026-07-02T04:14:15.111905",
   "items": [
+    {
+      "id": "18094",
+      "title": "단독판매제1297회 서초금요음악회 코미디 오페라 [버섯피자] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18094",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T04:14:15.110510"
+    },
+    {
+      "id": "18093",
+      "title": "2026 mgk(머신 건 켈리) 내한공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18093",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T04:14:15.110510"
+    },
+    {
+      "id": "18092",
+      "title": "[대구] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18092",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T04:14:15.110510"
+    },
+    {
+      "id": "18091",
+      "title": "[음성] [데뷔 60주년 기념공연] 2026 남진 전국투어 콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18091",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T04:14:15.110510"
+    },
     {
       "id": "18090",
       "title": "[수원] 2026 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내",
