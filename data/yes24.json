@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18094",
-  "last_crawled_at": "2026-07-02T04:14:15.111905",
+  "flag_id": "18100",
+  "last_crawled_at": "2026-07-02T11:38:06.956815",
   "items": [
+    {
+      "id": "18100",
+      "title": "[울산] 2026 베스트셀러 뮤지컬 [사과가 쿵] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.06(월) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18100",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
+    {
+      "id": "18099",
+      "title": "단독판매2026 FIFTY FIFTY Asia Fancon Tour in Seoul [Still Lobubble] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18099",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
+    {
+      "id": "18098",
+      "title": "단독판매빈첸 PADO vol. 7 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18098",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
+    {
+      "id": "18097",
+      "title": "단독판매[평택] 2026 마티네 콘서트 [그랜드 투어-무대 위 세계여행] 하반기 패키지 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.06(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18097",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
+    {
+      "id": "18096",
+      "title": "단독판매OBJET K-POP FESTA 2026 (OKF 2026) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.03(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18096",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
+    {
+      "id": "18095",
+      "title": "[성남] 2026 장윤정 라이브 콘서트 〈THE MASTER〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18095",
+      "site": "yes24",
+      "crawled_at": "2026-07-02T11:38:06.955350"
+    },
     {
       "id": "18094",
       "title": "단독판매제1297회 서초금요음악회 코미디 오페라 [버섯피자] 티켓 오픈 안내",
