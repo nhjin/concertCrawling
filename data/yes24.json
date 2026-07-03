@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18105",
-  "last_crawled_at": "2026-07-03T04:00:41.554791",
+  "flag_id": "18112",
+  "last_crawled_at": "2026-07-03T11:37:04.661793",
   "items": [
+    {
+      "id": "18112",
+      "title": "단독판매DK TOUR CONCERT “ POLARIS ” 2026 - 서울 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.06(월) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18112",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T11:37:04.660491"
+    },
+    {
+      "id": "18111",
+      "title": "단독판매2026 씨야 20주년 전국 투어 콘서트 : THE FAN - 수원 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18111",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T11:37:04.660491"
+    },
+    {
+      "id": "18110",
+      "title": "단독판매2026 씨야 20주년 전국 투어 콘서트 : THE FAN - 청주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18110",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T11:37:04.660491"
+    },
+    {
+      "id": "18107",
+      "title": "[경산] 가족뮤지컬 [겨울이야기] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.06(월) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18107",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T11:37:04.660491"
+    },
+    {
+      "id": "18106",
+      "title": "뮤지컬 [스트라빈스키] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18106",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T11:37:04.660491"
+    },
     {
       "id": "18105",
       "title": "[대구] [현역가왕3] with 현역가왕 패밀리 페스티벌 티켓 오픈 안내",
