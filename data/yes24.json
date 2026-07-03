@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18100",
-  "last_crawled_at": "2026-07-02T11:38:06.956815",
+  "flag_id": "18105",
+  "last_crawled_at": "2026-07-03T04:00:41.554791",
   "items": [
+    {
+      "id": "18105",
+      "title": "[대구] [현역가왕3] with 현역가왕 패밀리 페스티벌 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18105",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T04:00:41.553338"
+    },
+    {
+      "id": "18102",
+      "title": "<시데레우스> 작업실-낮에 뜨는 별 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18102",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T04:00:41.553338"
+    },
+    {
+      "id": "18101",
+      "title": "[세종] 조항조 전국투어 콘서트：생각 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.08(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18101",
+      "site": "yes24",
+      "crawled_at": "2026-07-03T04:00:41.553338"
+    },
     {
       "id": "18100",
       "title": "[울산] 2026 베스트셀러 뮤지컬 [사과가 쿵] 티켓오픈 안내",
