@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18118",
-  "last_crawled_at": "2026-07-06T04:20:55.674123",
+  "flag_id": "18124",
+  "last_crawled_at": "2026-07-06T12:53:40.810861",
   "items": [
+    {
+      "id": "18124",
+      "title": "[대구] 2026 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.08(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18124",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
+    {
+      "id": "18123",
+      "title": "[전주] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.08(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18123",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
+    {
+      "id": "18122",
+      "title": "뮤지컬 <그날들> - 용인 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18122",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
+    {
+      "id": "18121",
+      "title": "뮤지컬 <그날들> - 대전 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18121",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
+    {
+      "id": "18120",
+      "title": "뮤지컬 〈그날들〉 - 대구 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18120",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
+    {
+      "id": "18119",
+      "title": "[대구] 2026 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.07(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18119",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T12:53:40.809288"
+    },
     {
       "id": "18118",
       "title": "[서울(노원)] 2026 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내",
