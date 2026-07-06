@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18112",
-  "last_crawled_at": "2026-07-03T11:37:04.661793",
+  "flag_id": "18118",
+  "last_crawled_at": "2026-07-06T04:20:55.674123",
   "items": [
+    {
+      "id": "18118",
+      "title": "[서울(노원)] 2026 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.08(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18118",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T04:20:55.672517"
+    },
+    {
+      "id": "18116",
+      "title": "국립합창단〈카르미나 부라나〉- 울산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.13(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18116",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T04:20:55.672517"
+    },
+    {
+      "id": "18115",
+      "title": "[창원] 미디어아트 콘서트〈빈센트 반 고흐, 별을 닮다〉티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18115",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T04:20:55.672517"
+    },
+    {
+      "id": "18114",
+      "title": "단독판매뮤지컬 <시데레우스> 혜공 전관 - 그래이공 DAY 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.13(월) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18114",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T04:20:55.672517"
+    },
+    {
+      "id": "18113",
+      "title": "단독판매〈불꽃야구2〉2026시즌 아홉 번째 직관 티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.07.08(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18113",
+      "site": "yes24",
+      "crawled_at": "2026-07-06T04:20:55.672517"
+    },
     {
       "id": "18112",
       "title": "단독판매DK TOUR CONCERT “ POLARIS ” 2026 - 서울 티켓 오픈 안내",
