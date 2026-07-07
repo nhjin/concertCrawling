@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18130",
-  "last_crawled_at": "2026-07-07T04:10:14.671171",
+  "flag_id": "18131",
+  "last_crawled_at": "2026-07-07T11:56:09.500591",
   "items": [
+    {
+      "id": "18131",
+      "title": "단독판매TutorYim Fanmeeting in Korea 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.13(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18131",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T11:56:09.498953"
+    },
     {
       "id": "18130",
       "title": "단독판매[창원] 2026모닝콘서트 - 12월 「홍대광의 하얀 겨울콘서트의 '잘됐으면 좋겠다.'」 티켓 오픈 ..",

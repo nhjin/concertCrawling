@@ -1,8 +1,265 @@
 {
   "site": "interpark",
-  "flag_id": "26009588",
-  "last_crawled_at": "2026-07-07T04:10:27.567869",
+  "flag_id": "2026070212090140",
+  "last_crawled_at": "2026-07-07T11:56:21.675347",
   "items": [
+    {
+      "id": "2026070212090140",
+      "title": "뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] - 전주",
+      "place": "전주 덕진예술회관 공연장",
+      "open_time": "2026-07-08 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070212090140.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070212090140",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26006810",
+      "title": "뮤지컬 〈종의 기원〉",
+      "place": "동덕여자대학교 공연예술센터 코튼홀",
+      "open_time": "2026-07-08 11:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006810_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006810",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26009616",
+      "title": "뮤지컬 〈푸른 꽃〉",
+      "place": "충무아트센터 중극장 블랙",
+      "open_time": "2026-07-08 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009616_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009616",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2602979880089965629",
+      "title": "연극 〈타인의 삶〉",
+      "place": "LG아트센터 서울 U+ 스테이지",
+      "open_time": "2026-07-08 11:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/L0/L0000143_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/2602979880089965629",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26009828",
+      "title": "2026 라이브 가족뮤지컬 〈오즈의마법사〉 - 대구",
+      "place": "대백프라자 10층 프라임홀",
+      "open_time": "2026-07-08 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009828_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009828",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26009235",
+      "title": "2026 2PM Concert “THE RETURN” in INCHEON",
+      "place": "INSPIRE ARENA",
+      "open_time": "07.09(목) 20:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009235_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009235",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26009346",
+      "title": "ENHYPEN WORLD TOUR ‘BLOOD SAGA’ IN BUSAN",
+      "place": "부산 사직실내체육관",
+      "open_time": "07.09(목) 20:00",
+      "open_type": "글로벌 선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009346_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009346",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "26009546",
+      "title": "2026 STAYC FAN CONCERT TOUR [STAY CLOSER]",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "07.09(목) 20:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009546_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009546",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070516252361",
+      "title": "참기름 오일 파스타",
+      "place": "창작플랫폼 경험과 상상",
+      "open_time": "07.10(금) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070516252361.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070516252361",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "25003978",
+      "title": "뮤지컬 헝키쇼 (HUNKY SHOW)",
+      "place": "스타스테이지",
+      "open_time": "07.10(금) 10:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/25/25003978_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/25003978",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "25013600",
+      "title": "아주아주 배고픈 애벌레 쇼 - 한국어",
+      "place": "NOL씨어터 합정 ABL생명홀",
+      "open_time": "07.10(금) 11:00",
+      "open_type": "11차 티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/25/25013600_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/25013600",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "25015122",
+      "title": "아주아주 배고픈 애벌레 쇼 - 영어",
+      "place": "NOL씨어터 합정 ABL생명홀",
+      "open_time": "07.10(금) 11:00",
+      "open_type": "10차 티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/25/25015122_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/25015122",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070618184320",
+      "title": "[김시라의 품바 : Original] - 고령",
+      "place": "대가야문화누리 우륵홀",
+      "open_time": "07.10(금) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070618184320.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070618184320",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026063017351612",
+      "title": "쇼뮤지컬 터치 파이브 〈TOUCH FIVE〉",
+      "place": "터치파이브 전용관",
+      "open_time": "07.10(금) 14:00",
+      "open_type": "8월 티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026063017351612.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026063017351612",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "20260703113313",
+      "title": "〈현역가왕3〉 with 현역가왕 패밀리 페스티벌 - 부산",
+      "place": "KBS부산홀",
+      "open_time": "07.10(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260703113313.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260703113313",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070316093189",
+      "title": "뮤지컬 〈그날들〉 - 대구",
+      "place": "계명아트센터",
+      "open_time": "07.10(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070316093189.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070316093189",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "20260703111237",
+      "title": "〈현역가왕3〉 with 현역가왕 패밀리 페스티벌 - 서울",
+      "place": "",
+      "open_time": "07.10(금) 15:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260703111237.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260703111237",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070310462994",
+      "title": "〈현역가왕3〉 with 현역가왕 패밀리 페스티벌 - 대구",
+      "place": "영남대학교 천마아트센터 그랜드홀",
+      "open_time": "07.10(금) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070310462994.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070310462994",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070315382755",
+      "title": "뮤지컬 〈그날들〉 - 대전",
+      "place": "대전예술의전당 아트홀",
+      "open_time": "07.10(금) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070315382755.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070315382755",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
+    {
+      "id": "2026070212540020",
+      "title": "live ICON 9 : ONEWE X Dragon Pony",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "07.10(금) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070212540020.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070212540020",
+      "site": "interpark",
+      "crawled_at": "2026-07-07T11:56:18.710907"
+    },
     {
       "id": "26009588",
       "title": "GUNPO MUSICAL STATION 59.9 EP.1 탄생 - 군포",
