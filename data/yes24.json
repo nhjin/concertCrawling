@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18124",
-  "last_crawled_at": "2026-07-06T12:53:40.810861",
+  "flag_id": "18130",
+  "last_crawled_at": "2026-07-07T04:10:14.671171",
   "items": [
+    {
+      "id": "18130",
+      "title": "단독판매[창원] 2026모닝콘서트 - 12월 「홍대광의 하얀 겨울콘서트의 '잘됐으면 좋겠다.'」 티켓 오픈 ..",
+      "place": "",
+      "open_time": "2026.07.09(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18130",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
+    {
+      "id": "18129",
+      "title": "단독판매[창원] 2026모닝콘서트 - 11월 「재즈뮤지션 마리아 킴의 '재즈콜렉티브'」 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18129",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
+    {
+      "id": "18128",
+      "title": "단독판매[창원] 2026모닝콘서트 - 10월 「트리오바스의 '실내악살롱콘서트'」 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18128",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
+    {
+      "id": "18127",
+      "title": "단독판매[창원] 2026모닝콘서트 - 9월 「세시봉의 주역 '조영남 콘서트'」 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18127",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
+    {
+      "id": "18126",
+      "title": "[고령] 김시라의 품바 : Original 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18126",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
+    {
+      "id": "18125",
+      "title": "[고령] [데뷔 60주년 기념공연] 2026 남진 전국투어 콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.10(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18125",
+      "site": "yes24",
+      "crawled_at": "2026-07-07T04:10:14.669562"
+    },
     {
       "id": "18124",
       "title": "[대구] 2026 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내",
