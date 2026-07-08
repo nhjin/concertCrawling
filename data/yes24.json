@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18131",
-  "last_crawled_at": "2026-07-07T11:56:09.500591",
+  "flag_id": "18133",
+  "last_crawled_at": "2026-07-08T11:09:15.912365",
   "items": [
+    {
+      "id": "18133",
+      "title": "[성남] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.09(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18133",
+      "site": "yes24",
+      "crawled_at": "2026-07-08T11:09:15.910731"
+    },
+    {
+      "id": "18132",
+      "title": "뮤지컬 [소크라테스 패러독스] 프리뷰 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18132",
+      "site": "yes24",
+      "crawled_at": "2026-07-08T11:09:15.910731"
+    },
     {
       "id": "18131",
       "title": "단독판매TutorYim Fanmeeting in Korea 티켓 오픈 안내",
