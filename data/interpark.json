@@ -1,8 +1,239 @@
 {
   "site": "interpark",
-  "flag_id": "26009861",
-  "last_crawled_at": "2026-07-08T11:09:29.666979",
+  "flag_id": "26007442",
+  "last_crawled_at": "2026-07-09T04:04:37.765078",
   "items": [
+    {
+      "id": "26007442",
+      "title": "뮤지컬 〈디어 에반 핸슨〉 (Musical Dear Evan Hansen)",
+      "place": "충무아트센터 대극장",
+      "open_time": "2026-07-09 14:00",
+      "open_type": "2차티켓오픈",
+      "badges": [
+        "HOT",
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007442_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007442",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009849",
+      "title": "연극 〈베니스의 상인〉 - 대구",
+      "place": "계명아트센터",
+      "open_time": "2026-07-09 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009849_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009849",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009732",
+      "title": "업사이클 뮤직 〈숨의기억(Breath of Memory)〉",
+      "place": "관악아트홀",
+      "open_time": "2026-07-09 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009732_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009732",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009886",
+      "title": "2026 부활 연말 콘서트 〈Where Is Here〉",
+      "place": "마포아트센터 아트홀맥",
+      "open_time": "2026-07-09 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009886_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009886",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009683",
+      "title": "김정원과 친구들 〈저먼 로맨틱스〉",
+      "place": "롯데콘서트홀",
+      "open_time": "2026-07-09 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009683_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009683",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "20260709093529",
+      "title": "뮤지컬 〈콰이어 오브 맨〉",
+      "place": "NOL 씨어터 대학로 우리투자증권홀",
+      "open_time": "07.14(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매",
+        "토핑선예매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260709093529.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260709093529",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026070215344561",
+      "title": "국립국악관현악단 〈2026 작곡가 프로젝트〉",
+      "place": "국립극장",
+      "open_time": "07.14(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070215344561.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070215344561",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "20260708053834",
+      "title": "뮤지컬 〈소크라테스 패러독스〉",
+      "place": "NOL 서경스퀘어 스콘 1관",
+      "open_time": "07.14(화) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260708053834.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260708053834",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009927",
+      "title": "가족뮤지컬 〈코밈〉- 서울",
+      "place": "JTBC스튜디오일산",
+      "open_time": "07.15(수) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009927_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009927",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026063010131648",
+      "title": "〈2026 STAGE 100: 연극제〉 외투",
+      "place": "NC문화재단 Stage Black",
+      "open_time": "07.15(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026063010131648.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026063010131648",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "20260703103900",
+      "title": "〈2026 STAGE 100: 연극제〉 동물농장",
+      "place": "NC문화재단 Stage Black",
+      "open_time": "07.15(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260703103900.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260703103900",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026063011021456",
+      "title": "〈2026 STAGE 100: 연극제〉 바쁜 사람들",
+      "place": "NC문화재단 Stage Black",
+      "open_time": "07.15(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026063011021456.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026063011021456",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026063011385195",
+      "title": "〈2026 STAGE 100: 연극제〉 모딧세이",
+      "place": "NC문화재단 Stage Black",
+      "open_time": "07.15(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026063011385195.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026063011385195",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009512",
+      "title": "창작가무극 〈청사초롱 불 밝혀라〉",
+      "place": "국립정동극장",
+      "open_time": "07.16(목) 15:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009512_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009512",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026070318552388",
+      "title": "2026 임영웅 콘서트 [IM HERO - THE STADIUM 2]",
+      "place": "고양종합운동장 주경기장",
+      "open_time": "07.16(목) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070318552388.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070318552388",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "2026070613070788",
+      "title": "2026 월간뮤지크 〈김용준X이진성〉",
+      "place": "양천문화회관 대극장",
+      "open_time": "07.21(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070613070788.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070613070788",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009202",
+      "title": "피아노 마라톤, 김태형X안종도X박진형 - 하남",
+      "place": "하남문화예술회관 대극장(검단홀)",
+      "open_time": "추후공지",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009202_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009202",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
+    {
+      "id": "26009138",
+      "title": "연극 〈INSANE〉",
+      "place": "유미플레이 1관",
+      "open_time": "추후공지",
+      "open_type": "1차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009138_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009138",
+      "site": "interpark",
+      "crawled_at": "2026-07-09T04:04:32.896200"
+    },
     {
       "id": "26009861",
       "title": "연극 〈버스정류장〉",
