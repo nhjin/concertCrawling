@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18137",
-  "last_crawled_at": "2026-07-10T04:04:06.180164",
+  "flag_id": "18142",
+  "last_crawled_at": "2026-07-10T11:56:29.575577",
   "items": [
+    {
+      "id": "18142",
+      "title": "쇼뮤지컬 <프린세스 캐치! 티니핑> - 대구 앙코르 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18142",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T11:56:29.574272"
+    },
+    {
+      "id": "18141",
+      "title": "단독판매[부산] 극동아시아타이거즈 우당탕탕 콘서트 in 영도 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18141",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T11:56:29.574272"
+    },
+    {
+      "id": "18140",
+      "title": "단독판매미교 밴드데이 (MIGYO BAND DAY) 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18140",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T11:56:29.574272"
+    },
+    {
+      "id": "18139",
+      "title": "단독판매2026 HU HAN WEN FANMEETING To. 〈MY Light〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18139",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T11:56:29.574272"
+    },
+    {
+      "id": "18138",
+      "title": "단독판매2026 씨야 20주년 전국 투어 콘서트 : THE FAN - 고양 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18138",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T11:56:29.574272"
+    },
     {
       "id": "18137",
       "title": "단독판매더 워닝 내한 공연 (The Warning Live in Seoul) 공연장 변경 및 추가 티켓 오픈 안내",
