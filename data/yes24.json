@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18133",
-  "last_crawled_at": "2026-07-08T11:09:15.912365",
+  "flag_id": "18137",
+  "last_crawled_at": "2026-07-10T04:04:06.180164",
   "items": [
+    {
+      "id": "18137",
+      "title": "단독판매더 워닝 내한 공연 (The Warning Live in Seoul) 공연장 변경 및 추가 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18137",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T04:04:06.178577"
+    },
+    {
+      "id": "18136",
+      "title": "[울산] 연극 [베니스의 상인] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18136",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T04:04:06.178577"
+    },
+    {
+      "id": "18135",
+      "title": "2026 POW CONCERT: COLOR ON IN SEOUL티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18135",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T04:04:06.178577"
+    },
+    {
+      "id": "18134",
+      "title": "단독판매2026 LUN8 FANCON [OFF-ZONE] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.04(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18134",
+      "site": "yes24",
+      "crawled_at": "2026-07-10T04:04:06.178577"
+    },
     {
       "id": "18133",
       "title": "[성남] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
