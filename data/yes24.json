@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18142",
-  "last_crawled_at": "2026-07-10T11:56:29.575577",
+  "flag_id": "18143",
+  "last_crawled_at": "2026-07-11T10:18:44.911859",
   "items": [
+    {
+      "id": "18143",
+      "title": "[서울 앵콜] 2026 박지현 콘서트 쇼맨쉽 시즌2 “SHOWMANSHIP SEASON 2” ENCORE 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18143",
+      "site": "yes24",
+      "crawled_at": "2026-07-11T10:18:44.910268"
+    },
     {
       "id": "18142",
       "title": "쇼뮤지컬 <프린세스 캐치! 티니핑> - 대구 앙코르 티켓오픈 안내",
