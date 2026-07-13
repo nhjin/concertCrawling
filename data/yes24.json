@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18143",
-  "last_crawled_at": "2026-07-11T10:18:44.911859",
+  "flag_id": "18148",
+  "last_crawled_at": "2026-07-13T03:45:25.834998",
   "items": [
+    {
+      "id": "18148",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열 번째 직관 티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.07.15(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18148",
+      "site": "yes24",
+      "crawled_at": "2026-07-13T03:45:25.833725"
+    },
+    {
+      "id": "18147",
+      "title": "Touche Amore “Stage Four 10 Year Anniversary” Live in Seoul 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18147",
+      "site": "yes24",
+      "crawled_at": "2026-07-13T03:45:25.833725"
+    },
+    {
+      "id": "18146",
+      "title": "좋은좌석연극 〈이올라오스〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18146",
+      "site": "yes24",
+      "crawled_at": "2026-07-13T03:45:25.833725"
+    },
+    {
+      "id": "18145",
+      "title": "2026 김경호 전국투어 콘서트 : 발라드를 위한 時 - 의정부 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.15(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18145",
+      "site": "yes24",
+      "crawled_at": "2026-07-13T03:45:25.833725"
+    },
+    {
+      "id": "18144",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.5 : 시간여행 - 의정부 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.15(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18144",
+      "site": "yes24",
+      "crawled_at": "2026-07-13T03:45:25.833725"
+    },
     {
       "id": "18143",
       "title": "[서울 앵콜] 2026 박지현 콘서트 쇼맨쉽 시즌2 “SHOWMANSHIP SEASON 2” ENCORE 티켓오픈 안내",
