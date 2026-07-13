@@ -1,8 +1,207 @@
 {
   "site": "interpark",
-  "flag_id": "26005310",
-  "last_crawled_at": "2026-07-13T03:45:37.901499",
+  "flag_id": "26010030",
+  "last_crawled_at": "2026-07-13T12:10:47.069688",
   "items": [
+    {
+      "id": "26010030",
+      "title": "바다탐험대 옥토넛 시즌4 : 숨겨진 보물을 찾아라! - 대구",
+      "place": "대구어린이세상 꾀꼬리극장",
+      "open_time": "2026-07-14 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010030_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010030",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26010031",
+      "title": "바다탐험대 옥토넛 시즌4 : 숨겨진 보물을 찾아라! - 청주",
+      "place": "청주아트홀",
+      "open_time": "2026-07-14 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010031_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010031",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26007583",
+      "title": "연극 〈더 헬멧〉",
+      "place": "홍익대 대학로 아트센터 소극장",
+      "open_time": "2026-07-14 11:00",
+      "open_type": "2차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007583_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007583",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26008831",
+      "title": "국립합창단〈한국 가곡의 모든 것〉",
+      "place": "국립극장 해오름극장",
+      "open_time": "2026-07-14 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008831_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008831",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26009193",
+      "title": "뮤지컬 〈콰이어 오브 맨〉",
+      "place": "NOL 씨어터 대학로 우리투자증권홀",
+      "open_time": "2026-07-14 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매",
+        "토핑선예매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009193_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009193",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26009269",
+      "title": "유희열 Curated 26 PEPPERTONES '2026 PEPPERTONES CLUB TOUR ENCORE - 서울'",
+      "place": "현대카드 언더스테이지",
+      "open_time": "07.16(목) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009269_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009269",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026070318552388",
+      "title": "2026 임영웅 콘서트 [IM HERO - THE STADIUM 2]",
+      "place": "고양종합운동장 주경기장",
+      "open_time": "07.16(목) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070318552388.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070318552388",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26010154",
+      "title": "벤슨 분 내한공연",
+      "place": "킨텍스 제2전시장 10홀",
+      "open_time": "07.20(월) 12:00",
+      "open_type": "아티스트 선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010154_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010154",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026070613070788",
+      "title": "2026 월간뮤지크 〈김용준X이진성〉",
+      "place": "양천문화회관 대극장",
+      "open_time": "07.21(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070613070788.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070613070788",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026071310214085",
+      "title": "2026 izna Concert Tour: WHO DAT GIRL？ in SEOUL",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "07.22(수) 20:00",
+      "open_type": "멤버십 선예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026071310214085.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026071310214085",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026061921451797",
+      "title": "수림뉴웨이브 2026 - 정상희",
+      "place": "김희수아트센터 SPACE1",
+      "open_time": "07.23(목) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026061921451797.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026061921451797",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026071101382236",
+      "title": "수림뉴웨이브 2026 - 이준",
+      "place": "김희수아트센터 SPACE1",
+      "open_time": "07.23(목) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026071101382236.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026071101382236",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "2026070615013095",
+      "title": "2026 INFINITE FANMEETING [무한대집회Ⅴ]",
+      "place": "인스파이어 아레나",
+      "open_time": "07.29(수) 20:00",
+      "open_type": "선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070615013095.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070615013095",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26009202",
+      "title": "피아노 마라톤, 김태형X안종도X박진형 - 하남",
+      "place": "하남문화예술회관 대극장(검단홀)",
+      "open_time": "추후공지",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009202_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009202",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
+    {
+      "id": "26009138",
+      "title": "연극 〈INSANE〉",
+      "place": "유미플레이 1관",
+      "open_time": "추후공지",
+      "open_type": "1차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009138_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009138",
+      "site": "interpark",
+      "crawled_at": "2026-07-13T12:10:42.213285"
+    },
     {
       "id": "26005310",
       "title": "뮤지컬 〈그날들〉",
