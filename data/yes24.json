@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18155",
-  "last_crawled_at": "2026-07-14T03:19:31.334427",
+  "flag_id": "18159",
+  "last_crawled_at": "2026-07-14T10:51:32.182435",
   "items": [
+    {
+      "id": "18159",
+      "title": "[청주] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.15(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18159",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T10:51:32.180905"
+    },
+    {
+      "id": "18158",
+      "title": "단독판매[얼리패스] 시포레 RUN & FIT with 디스커버리 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18158",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T10:51:32.180905"
+    },
+    {
+      "id": "18157",
+      "title": "단독판매[광주시립교향악단] 제409회 정기연주회 [만화경(kaleidoscope)] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.15(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18157",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T10:51:32.180905"
+    },
+    {
+      "id": "18156",
+      "title": "뮤지컬 [드림하이 시즌3 : 리부트] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18156",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T10:51:32.180905"
+    },
     {
       "id": "18155",
       "title": "손민수 피아노 리사이틀 티켓오픈 안내",
