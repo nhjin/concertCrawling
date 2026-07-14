@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18152",
-  "last_crawled_at": "2026-07-13T12:10:33.722973",
+  "flag_id": "18155",
+  "last_crawled_at": "2026-07-14T03:19:31.334427",
   "items": [
+    {
+      "id": "18155",
+      "title": "손민수 피아노 리사이틀 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18155",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T03:19:31.332859"
+    },
+    {
+      "id": "18154",
+      "title": "뮤지컬 드라큘라 (Dracula：The Musical) - YES24DAY 추가좌석 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.14(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18154",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T03:19:31.332859"
+    },
+    {
+      "id": "18153",
+      "title": "2025-26 김창옥 토크콘서트 시즌5  - 청주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18153",
+      "site": "yes24",
+      "crawled_at": "2026-07-14T03:19:31.332859"
+    },
     {
       "id": "18152",
       "title": "단독판매KARD 2026 WORLD TOUR ‘NOW HERE’ IN SEOUL 티켓 오픈 안내",
