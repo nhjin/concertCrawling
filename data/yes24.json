@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18159",
-  "last_crawled_at": "2026-07-14T10:51:32.182435",
+  "flag_id": "18161",
+  "last_crawled_at": "2026-07-15T03:19:05.295890",
   "items": [
+    {
+      "id": "18161",
+      "title": "단독판매2026 부산국제록페스티벌 2차 얼리버드 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.16(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18161",
+      "site": "yes24",
+      "crawled_at": "2026-07-15T03:19:05.294489"
+    },
+    {
+      "id": "18160",
+      "title": "뮤지컬 [시데레우스] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18160",
+      "site": "yes24",
+      "crawled_at": "2026-07-15T03:19:05.294489"
+    },
     {
       "id": "18159",
       "title": "[청주] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
