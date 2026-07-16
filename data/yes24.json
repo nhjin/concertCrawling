@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18168",
-  "last_crawled_at": "2026-07-15T10:55:20.287961",
+  "flag_id": "18171",
+  "last_crawled_at": "2026-07-16T03:26:23.957208",
   "items": [
+    {
+      "id": "18171",
+      "title": "사운드 플래닛 페스티벌 2026 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.20(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18171",
+      "site": "yes24",
+      "crawled_at": "2026-07-16T03:26:23.955889"
+    },
+    {
+      "id": "18170",
+      "title": "단독판매Chan 1st Concert [Live Session] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.23(목) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18170",
+      "site": "yes24",
+      "crawled_at": "2026-07-16T03:26:23.955889"
+    },
+    {
+      "id": "18169",
+      "title": "2026 뮤지컬 [사의찬미] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.23(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18169",
+      "site": "yes24",
+      "crawled_at": "2026-07-16T03:26:23.955889"
+    },
     {
       "id": "18168",
       "title": "[대구] 2026 신비한 샌드매직쇼 [사라진 모래상자] 티켓오픈 안내",
