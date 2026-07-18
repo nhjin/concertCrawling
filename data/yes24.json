@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18182",
-  "last_crawled_at": "2026-07-16T11:03:45.912819",
+  "flag_id": "18183",
+  "last_crawled_at": "2026-07-18T10:21:48.073863",
   "items": [
+    {
+      "id": "18183",
+      "title": "파보 예르비 ＆ 에스토니안 페스티벌 오케스트라 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18183",
+      "site": "yes24",
+      "crawled_at": "2026-07-18T10:21:48.072199"
+    },
     {
       "id": "18182",
       "title": "[수원] M.I.SEA 힙합콘서트-김하온, 나우아임영, 트레이비, 제네더질라, 플리키뱅 티켓 오픈 안..",
