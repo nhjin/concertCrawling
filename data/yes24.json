@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18183",
-  "last_crawled_at": "2026-07-18T10:21:48.073863",
+  "flag_id": "18185",
+  "last_crawled_at": "2026-07-20T03:52:43.011312",
   "items": [
+    {
+      "id": "18185",
+      "title": "[창원] 가족오페라〈해와 달이 될뻔한 오누이〉티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.23(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18185",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T03:52:43.009690"
+    },
+    {
+      "id": "18184",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열한 번째 직관 티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18184",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T03:52:43.009690"
+    },
     {
       "id": "18183",
       "title": "파보 예르비 ＆ 에스토니안 페스티벌 오케스트라 티켓오픈 안내",

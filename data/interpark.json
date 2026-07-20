@@ -1,8 +1,258 @@
 {
   "site": "interpark",
-  "flag_id": "26010357",
-  "last_crawled_at": "2026-07-18T03:18:27.142350",
+  "flag_id": "26006445",
+  "last_crawled_at": "2026-07-20T03:52:58.794574",
   "items": [
+    {
+      "id": "26006445",
+      "title": "연극 〈플리백 (Fleabag)〉 한국 초연",
+      "place": "두산아트센터 연강홀",
+      "open_time": "2026-07-20 14:00",
+      "open_type": "4차티켓 오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006445_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006445",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010336",
+      "title": "극공작소 마방진 〈(빌린)결혼 2.0〉",
+      "place": "연희예술극장",
+      "open_time": "2026-07-20 17:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010336_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010336",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010370",
+      "title": "next : 2026 Han Yo Han Concert",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "2026-07-20 18:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010370_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010370",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010334",
+      "title": "면회",
+      "place": "한성아트홀 2관",
+      "open_time": "2026-07-20 20:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010334_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010334",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26009887",
+      "title": "Young K Solo Tour 〈YOUNGEST〉 in INCHEON",
+      "place": "INSPIRE ARENA",
+      "open_time": "2026-07-20 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009887_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009887",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010592",
+      "title": "뮤지컬 집사TV 시즌 2 Part.2 : 〈대저택 끝 없는 문〉 - 청주",
+      "place": "청주예술의전당 대공연장",
+      "open_time": "07.23(목) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010592_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010592",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010173",
+      "title": "[서촌풍류] 2026 간송미술관 ‘우리 옛 미술 이야기’_시즌 2",
+      "place": "크레디아클래식클럽STUDIO",
+      "open_time": "07.23(목) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010173_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010173",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010174",
+      "title": "[서촌풍류] 2026 한국민화학교 ‘민화의 힘, 한류의 열풍’_시즌 2",
+      "place": "크레디아클래식클럽STUDIO",
+      "open_time": "07.23(목) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010174_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010174",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010175",
+      "title": "[서촌풍류] 2026 을유문화사 ‘현대 예술의 거장’_시즌 2",
+      "place": "크레디아클래식클럽STUDIO",
+      "open_time": "07.23(목) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010175_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010175",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26006560",
+      "title": "뮤지컬 〈어둑시니〉",
+      "place": "NOL 서경스퀘어 스콘 2관",
+      "open_time": "07.23(목) 11:00",
+      "open_type": "5차티켓 오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006560_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006560",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "1270619368511601260",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다-(서울)",
+      "place": "강동아트센터 대극장 한강",
+      "open_time": "07.23(목) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://tickets.interpark.com/mf/images/no_image_concert.svg",
+      "source_url": "https://tickets.interpark.com/goods/1270619368511601260",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010292",
+      "title": "K-가곡 월드스타 in 아산",
+      "place": "경찰대학교 이순신홀",
+      "open_time": "07.23(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010292_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010292",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010434",
+      "title": "포르테 디 콰트로 10주년 기념 콘서트_부산",
+      "place": "부산콘서트홀 콘서트홀",
+      "open_time": "07.23(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010434_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010434",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "2026071518280045",
+      "title": "뮤직드라마 〈불편한 편의점2〉 - 부산",
+      "place": "KNN시어터",
+      "open_time": "07.23(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026071518280045.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026071518280045",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "20260720093342",
+      "title": "연극 〈베니스의 상인〉 - 이천",
+      "place": "이천아트홀 대공연장",
+      "open_time": "07.23(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260720093342.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260720093342",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "2026071617202035",
+      "title": "[수원] M.I.SEA 힙합콘서트- 김하온, 나우아임영, 트레이비, 플리키뱅, 제네더질라",
+      "place": "수원실내체육관",
+      "open_time": "07.23(목) 17:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026071617202035.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026071617202035",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "26010008",
+      "title": "포르쉐 바이브 서울(Porsche Vibe Seoul)",
+      "place": "문화비축기지",
+      "open_time": "07.24(금) 10:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010008_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010008",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "2026070614464483",
+      "title": "뮤지컬〈알사탕〉- 서울숲",
+      "place": "서울숲 씨어터 1관",
+      "open_time": "07.24(금) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026070614464483.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026070614464483",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "20260716030558",
+      "title": "피지컬씨어터 〈네이처 오브 포겟팅〉 : 연극열전10_열 번째 작품",
+      "place": "",
+      "open_time": "07.24(금) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260716030558.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260716030558",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
+    {
+      "id": "2026071514312392",
+      "title": "창작뮤지컬 〈BACK TO 1931 : 시무언 이용도〉",
+      "place": "압구정 윤당아트홀",
+      "open_time": "07.27(월) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026071514312392.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026071514312392",
+      "site": "interpark",
+      "crawled_at": "2026-07-20T03:52:55.875957"
+    },
     {
       "id": "26010357",
       "title": "문 닫힌 동물원에 무슨 일이 일어날까？",
