@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18185",
-  "last_crawled_at": "2026-07-20T03:52:43.011312",
+  "flag_id": "18191",
+  "last_crawled_at": "2026-07-20T11:49:40.354654",
   "items": [
+    {
+      "id": "18191",
+      "title": "단독판매제1298회 서초금요음악회 여름방학 특집 [백조의 호수] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.27(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18191",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
+    {
+      "id": "18190",
+      "title": "청년문화예술패스 홈페이지 및 결제시스템 중단 작업안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18190",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
+    {
+      "id": "18189",
+      "title": "단독판매2026 경북도민과 함께하는 대구CBS 「가을 로맨틱 콘서트」 (부제: 추억의 가요 콘서트)",
+      "place": "",
+      "open_time": "2026.08.14(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18189",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
+    {
+      "id": "18188",
+      "title": "단독판매TETRAPOD’26 - Intermingle 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.23(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18188",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
+    {
+      "id": "18187",
+      "title": "단독판매[부산] 스테이지 네임 정승환, 김필, 홍이삭 (Stage Name Jung Seung Hwan, Kim Feel, Hong Isaa..",
+      "place": "",
+      "open_time": "2026.07.27(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18187",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
+    {
+      "id": "18186",
+      "title": "단독판매2026 AKMU CONCERT [소문의 낙원(Paradise of Rumors)] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.07(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18186",
+      "site": "yes24",
+      "crawled_at": "2026-07-20T11:49:40.352996"
+    },
     {
       "id": "18185",
       "title": "[창원] 가족오페라〈해와 달이 될뻔한 오누이〉티켓오픈안내",
