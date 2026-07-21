@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18193",
-  "last_crawled_at": "2026-07-21T03:32:31.483415",
+  "flag_id": "18198",
+  "last_crawled_at": "2026-07-21T11:12:07.439241",
   "items": [
+    {
+      "id": "18198",
+      "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석〉 - 잃어버린 빛을 찾아서 - 광주 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18198",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T11:12:07.437616"
+    },
+    {
+      "id": "18197",
+      "title": "단독판매2026 JAE YOON BIRTHDAY PARTY [Our Summer] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.27(월) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18197",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T11:12:07.437616"
+    },
+    {
+      "id": "18196",
+      "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석〉 - 잃어버린 빛을 찾아서 - 전주 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18196",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T11:12:07.437616"
+    },
+    {
+      "id": "18195",
+      "title": "단독판매2026년 제18회 울산 태화강대숲납량축제 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.23(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18195",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T11:12:07.437616"
+    },
+    {
+      "id": "18194",
+      "title": "단독판매2026 MC몽 콘서트 〈한여름 밤의 아이스 깨끼〉 - 서울공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.24(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18194",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T11:12:07.437616"
+    },
     {
       "id": "18193",
       "title": "단독판매2026 부산국제록페스티벌 티켓 오픈 안내",
