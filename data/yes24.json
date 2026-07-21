@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18191",
-  "last_crawled_at": "2026-07-20T11:49:40.354654",
+  "flag_id": "18193",
+  "last_crawled_at": "2026-07-21T03:32:31.483415",
   "items": [
+    {
+      "id": "18193",
+      "title": "단독판매2026 부산국제록페스티벌 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.21(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18193",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T03:32:31.481896"
+    },
+    {
+      "id": "18192",
+      "title": "단독판매[전남광주통합특별시립교향악단] GSO 체임버 시리즈 Ⅴ ‘Brass ＆ Beat’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.22(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18192",
+      "site": "yes24",
+      "crawled_at": "2026-07-21T03:32:31.481896"
+    },
     {
       "id": "18191",
       "title": "단독판매제1298회 서초금요음악회 여름방학 특집 [백조의 호수] 티켓 오픈 안내",
