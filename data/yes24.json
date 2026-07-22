@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18198",
-  "last_crawled_at": "2026-07-21T11:12:07.439241",
+  "flag_id": "18199",
+  "last_crawled_at": "2026-07-22T11:12:54.436985",
   "items": [
+    {
+      "id": "18199",
+      "title": "연극 <꽃, 별이 지나> 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.24(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18199",
+      "site": "yes24",
+      "crawled_at": "2026-07-22T11:12:54.435420"
+    },
     {
       "id": "18198",
       "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석〉 - 잃어버린 빛을 찾아서 - 광주 티켓오픈 안내",
