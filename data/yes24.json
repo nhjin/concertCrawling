@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18199",
-  "last_crawled_at": "2026-07-22T11:12:54.436985",
+  "flag_id": "18204",
+  "last_crawled_at": "2026-07-23T11:14:29.126530",
   "items": [
+    {
+      "id": "18204",
+      "title": "유니버설발레단 〈잠자는 숲속의 미녀〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.30(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18204",
+      "site": "yes24",
+      "crawled_at": "2026-07-23T11:14:29.124850"
+    },
+    {
+      "id": "18203",
+      "title": "2026 뮤지컬 [파가니니] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.27(월) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18203",
+      "site": "yes24",
+      "crawled_at": "2026-07-23T11:14:29.124850"
+    },
+    {
+      "id": "18202",
+      "title": "[주술회전 인 콘서트] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.03(월) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18202",
+      "site": "yes24",
+      "crawled_at": "2026-07-23T11:14:29.124850"
+    },
+    {
+      "id": "18200",
+      "title": "뮤지컬 <헬스키친> 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.29(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18200",
+      "site": "yes24",
+      "crawled_at": "2026-07-23T11:14:29.124850"
+    },
     {
       "id": "18199",
       "title": "연극 <꽃, 별이 지나> 마지막 티켓오픈 안내",
