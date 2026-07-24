@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18208",
-  "last_crawled_at": "2026-07-24T03:33:04.533879",
+  "flag_id": "18212",
+  "last_crawled_at": "2026-07-24T11:05:58.873423",
   "items": [
+    {
+      "id": "18212",
+      "title": "청년문화예술패스 결제시스템 중단 일정 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18212",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T11:05:58.871821"
+    },
+    {
+      "id": "18211",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.30(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18211",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T11:05:58.871821"
+    },
+    {
+      "id": "18210",
+      "title": "테오도르 쿠렌치스 & 유토피아 오케스트라 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.31(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18210",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T11:05:58.871821"
+    },
+    {
+      "id": "18209",
+      "title": "<시데레우스> 작업실-낮에 뜨는 별 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.31(금) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18209",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T11:05:58.871821"
+    },
     {
       "id": "18208",
       "title": "수요상설 onStage〈친친탱고 - 바다의탱고〉- 부산 티켓오픈안내",
