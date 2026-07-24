@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18204",
-  "last_crawled_at": "2026-07-23T11:14:29.126530",
+  "flag_id": "18208",
+  "last_crawled_at": "2026-07-24T03:33:04.533879",
   "items": [
+    {
+      "id": "18208",
+      "title": "수요상설 onStage〈친친탱고 - 바다의탱고〉- 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.07.28(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18208",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T03:33:04.532261"
+    },
+    {
+      "id": "18207",
+      "title": "연극 〈알테르 에고 Alter Ego(s)〉 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.30(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18207",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T03:33:04.532261"
+    },
+    {
+      "id": "18206",
+      "title": "뮤지컬 [해몽가] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.31(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18206",
+      "site": "yes24",
+      "crawled_at": "2026-07-24T03:33:04.532261"
+    },
     {
       "id": "18204",
       "title": "유니버설발레단 〈잠자는 숲속의 미녀〉 티켓오픈 안내",
