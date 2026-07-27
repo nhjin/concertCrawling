@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18212",
-  "last_crawled_at": "2026-07-24T11:05:58.873423",
+  "flag_id": "18218",
+  "last_crawled_at": "2026-07-27T12:28:53.505262",
   "items": [
+    {
+      "id": "18218",
+      "title": "단독판매[부산] 2026 아동베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.28(화) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18218",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
+    {
+      "id": "18217",
+      "title": "HIPHOPPLAYA SHOW vol.62 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.28(화) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18217",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
+    {
+      "id": "18216",
+      "title": "뮤지컬〈엠. 버터플라이〉티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18216",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
+    {
+      "id": "18215",
+      "title": "단독판매James Alyn & pami | Spot the GIG by Wanderloch 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.29(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18215",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
+    {
+      "id": "18214",
+      "title": "[창원 3·15아트홀] 창극 〈살로메〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.05(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18214",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
+    {
+      "id": "18213",
+      "title": "XMF(Xnterstellar Music Festival) 2026 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.03(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18213",
+      "site": "yes24",
+      "crawled_at": "2026-07-27T12:28:53.503703"
+    },
     {
       "id": "18212",
       "title": "청년문화예술패스 결제시스템 중단 일정 안내",
