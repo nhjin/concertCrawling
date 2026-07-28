@@ -1,8 +1,263 @@
 {
   "site": "interpark",
-  "flag_id": "26010824",
-  "last_crawled_at": "2026-07-27T12:29:03.347016",
+  "flag_id": "26006189",
+  "last_crawled_at": "2026-07-28T03:24:59.629245",
   "items": [
+    {
+      "id": "26006189",
+      "title": "2026 뮤지컬 〈Mad Hatter〉",
+      "place": "대학로 TOM(티오엠) 1관",
+      "open_time": "2026-07-28 14:00",
+      "open_type": "마지막 티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26006189_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26006189",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010929",
+      "title": "뮤지컬 〈카페인〉",
+      "place": "대학로 더굿씨어터",
+      "open_time": "2026-07-28 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010929_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010929",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010980",
+      "title": "2026 렛츠락 페스티벌",
+      "place": "난지 한강공원 일대",
+      "open_time": "2026-07-28 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010980_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010980",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "25006677",
+      "title": "쇼뮤지컬 ［와일드 와일드］",
+      "place": "와일드 와일드 전용관 (명보아트홀)",
+      "open_time": "2026-07-28 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/25/25006677_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/25006677",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010911",
+      "title": "〈프랑켄슈타인 : 더 뮤지컬 콘서트〉 - 성남",
+      "place": "성남아트센터 오페라하우스",
+      "open_time": "2026-07-28 17:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010911_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010911",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26011006",
+      "title": "김영하 작가의 음악 - 군포",
+      "place": "군포문화예술회관 수리홀",
+      "open_time": "2026-07-29 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011006_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011006",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "2850662449890287597",
+      "title": "세계무대 데뷔 40주년 기념 조수미 콘서트, CONTINUUM",
+      "place": "예술의전당 콘서트홀",
+      "open_time": "2026-07-29 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://tickets.interpark.com/mf/images/no_image_classic.svg",
+      "source_url": "https://tickets.interpark.com/goods/2850662449890287597",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010779",
+      "title": "2026 부천문화재단 어린이공연 - 옴니버스 넌버벌 인형극 〈환상공간〉 - 부천",
+      "place": "복사골문화센터 판타지아극장",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010779_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010779",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010230",
+      "title": "비킹구르 올라프손 피아노 리사이틀",
+      "place": "예술의전당 콘서트홀",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010230_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010230",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010851",
+      "title": "2026 부천문화재단 아기공연 - 〈쿠웅따 사안책〉",
+      "place": "복사골문화센터 판타지아극장",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010851_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010851",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010850",
+      "title": "2026 부천문화재단 기획공연 - 연극 〈신인류의 욕망상자〉",
+      "place": "부천시민회관 소공연장",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010850_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010850",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010849",
+      "title": "2026 부천문화재단 기획공연 - 연극 〈세 개의 숨〉",
+      "place": "부천시민회관 소공연장",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010849_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010849",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010838",
+      "title": "2026 부천문화재단 어린이공연 - 페이퍼아트 뮤지컬 〈종이아빠〉",
+      "place": "복사골문화센터 판타지아극장",
+      "open_time": "2026-07-29 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010838_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010838",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010757",
+      "title": "2026 김민석 소극장 콘서트‘성하록 : 여름사이’",
+      "place": "XSCALA(엑스칼라)",
+      "open_time": "2026-07-29 19:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010757_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010757",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010239",
+      "title": "2026 INFINITE FANMEETING [무한대집회Ⅴ]",
+      "place": "인스파이어 아레나",
+      "open_time": "2026-07-29 20:00",
+      "open_type": "선예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010239_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010239",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010430",
+      "title": "［Play＆Stay］2026 디노X피철인［吉BOARD SHOW］+ Hotels",
+      "place": "잠실실내체육관",
+      "open_time": "2026-07-29 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010430_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010430",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010639",
+      "title": "수림뉴웨이브 2026",
+      "place": "김희수아트센터 SPACE1",
+      "open_time": "07.30(목) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010639_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010639",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26010784",
+      "title": "[Schubert Abend #5] 박종해 슈베르트의 밤",
+      "place": "크레디아클래식클럽STUDIO",
+      "open_time": "07.30(목) 11:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010784_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010784",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "2026072217175112",
+      "title": "연극 〈알테르 에고 Alter Ego(s)〉",
+      "place": "예스24스테이지 3관",
+      "open_time": "07.30(목) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072217175112.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072217175112",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
+    {
+      "id": "26007505",
+      "title": "뮤지컬 〈웨스턴 스토리〉 기깔나는 코믹 서부극",
+      "place": "NOL 유니플렉스 1관",
+      "open_time": "07.30(목) 11:00",
+      "open_type": "4차티켓 오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007505_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007505",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T03:24:56.735217"
+    },
     {
       "id": "26010824",
       "title": "무주 폐공장 공포체험: 프로젝트 오메가",
