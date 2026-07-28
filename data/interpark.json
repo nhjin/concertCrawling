@@ -1,8 +1,262 @@
 {
   "site": "interpark",
-  "flag_id": "26006189",
-  "last_crawled_at": "2026-07-28T03:24:59.629245",
+  "flag_id": "26010686",
+  "last_crawled_at": "2026-07-28T11:22:42.892051",
   "items": [
+    {
+      "id": "26010686",
+      "title": "뮤지컬 집사TV 시즌 2 part.2 : 〈대저택 끝 없는 문〉 - 고양",
+      "place": "고양어울림누리 어울림극장",
+      "open_time": "2026-07-29 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010686_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010686",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26011050",
+      "title": "2026 라이브 가족뮤지컬 〈오즈의마법사〉 - 대전",
+      "place": "평송청소년문화센터 소극장",
+      "open_time": "2026-07-29 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011050_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011050",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26011031",
+      "title": "매직퍼포먼스 〈홀릭〉 - 인천",
+      "place": "인천어린이과학관 공연장",
+      "open_time": "2026-07-29 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011031_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011031",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26011141",
+      "title": "2026 〈더:매직서커스〉 - 서울(성북)",
+      "place": "성북꿈빛극장",
+      "open_time": "2026-07-29 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011141_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011141",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26002729",
+      "title": "뮤지컬 〈어서 오세요, 휴남동 서점입니다〉 - 서울",
+      "place": "루미나아트홀",
+      "open_time": "2026-07-29 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26002729_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26002729",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010819",
+      "title": "테오도르 쿠렌치스 ＆ 유토피아 오케스트라 (11.18)",
+      "place": "롯데콘서트홀",
+      "open_time": "07.31(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010819_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010819",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010920",
+      "title": "영등포아트홀 기획공연 [가을밤 낭만발레]",
+      "place": "영등포아트홀",
+      "open_time": "07.31(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010920_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010920",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072811564200",
+      "title": "SUDDENLY FESTIVAL SPECIAL 〈 이기찬 나윤권의 제철발라드 〉",
+      "place": "고양아람누리 아람극장",
+      "open_time": "07.31(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072811564200.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072811564200",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "1942034928909412173",
+      "title": "김창완밴드 on Sync Next 26",
+      "place": "세종문화회관 S씨어터",
+      "open_time": "07.31(금) 17:00",
+      "open_type": "추가티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/P0/P0004658_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/1942034928909412173",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010681",
+      "title": "LET ME KNOW LIVE TOUR 2026-Re: Still Romance-",
+      "place": "명화라이브홀",
+      "open_time": "07.31(금) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010681_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010681",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072216564966",
+      "title": "2026 존박 콘서트 [BREAK!]",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "07.31(금) 18:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072216564966.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072216564966",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072810324524",
+      "title": "78LIVE - BLUHWA (블루화)",
+      "place": "엠피엠지 2층 LOUNGE M.",
+      "open_time": "07.31(금) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072810324524.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072810324524",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072317382551",
+      "title": "문수진X서리_XSCALA SERIES",
+      "place": "XSCALA(엑스칼라)",
+      "open_time": "07.31(금) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072317382551.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072317382551",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010352",
+      "title": "YUURI LIVE 2026 IN SEOUL",
+      "place": "인스파이어 아레나",
+      "open_time": "07.31(금) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010352_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010352",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072318203846",
+      "title": "나상현씨밴드X민수_XSCALA SERIES",
+      "place": "XSCALA(엑스칼라)",
+      "open_time": "07.31(금) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072318203846.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072318203846",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "2026072810384738",
+      "title": "음악서사극 금빛묵향 - 공주",
+      "place": "공주문예회관",
+      "open_time": "08.03(월) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072810384738.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072810384738",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010841",
+      "title": "ENSEMBLE KHAI 앙상블 카이 - 실내악 시리즈 Ⅱ",
+      "place": "거암아트홀",
+      "open_time": "08.03(월) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010841_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010841",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26010718",
+      "title": "2026 니엘 생일 팬미팅",
+      "place": "H-STAGE",
+      "open_time": "08.03(월) 20:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010718_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010718",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26007583",
+      "title": "연극 〈더 헬멧〉",
+      "place": "홍익대 대학로 아트센터 소극장",
+      "open_time": "08.04(화) 11:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007583_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007583",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
+    {
+      "id": "26009992",
+      "title": "2026 GHOST 페스티벌",
+      "place": "파주 임진각평화누리",
+      "open_time": "08.05(수) 14:00",
+      "open_type": "Pre-sale티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009992_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009992",
+      "site": "interpark",
+      "crawled_at": "2026-07-28T11:22:39.864836"
+    },
     {
       "id": "26006189",
       "title": "2026 뮤지컬 〈Mad Hatter〉",

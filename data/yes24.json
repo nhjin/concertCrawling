@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18219",
-  "last_crawled_at": "2026-07-28T03:24:46.300846",
+  "flag_id": "18224",
+  "last_crawled_at": "2026-07-28T11:22:32.896078",
   "items": [
+    {
+      "id": "18224",
+      "title": "[서울(성북)] 2026 [더:매직서커스] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.29(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18224",
+      "site": "yes24",
+      "crawled_at": "2026-07-28T11:22:32.894425"
+    },
+    {
+      "id": "18223",
+      "title": "[대전] 2026 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.29(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18223",
+      "site": "yes24",
+      "crawled_at": "2026-07-28T11:22:32.894425"
+    },
+    {
+      "id": "18222",
+      "title": "단독판매[평택] 2026 감성콘서트 [가을을 여는 소리 아름다운 동행] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18222",
+      "site": "yes24",
+      "crawled_at": "2026-07-28T11:22:32.894425"
+    },
+    {
+      "id": "18221",
+      "title": "세계무대 데뷔 40주년 기념 조수미 콘서트, CONTINUUM 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.07.29(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18221",
+      "site": "yes24",
+      "crawled_at": "2026-07-28T11:22:32.894425"
+    },
+    {
+      "id": "18220",
+      "title": "뮤지컬〈잔혹동화 생존기〉1차 티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.08.04(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18220",
+      "site": "yes24",
+      "crawled_at": "2026-07-28T11:22:32.894425"
+    },
     {
       "id": "18219",
       "title": "SJF at the Theater 2026 - Diana Krall 티켓오픈 안내",
