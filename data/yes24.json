@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18236",
-  "last_crawled_at": "2026-07-29T11:29:24.393777",
+  "flag_id": "18240",
+  "last_crawled_at": "2026-07-30T11:11:21.692912",
   "items": [
+    {
+      "id": "18240",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.05(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18240",
+      "site": "yes24",
+      "crawled_at": "2026-07-30T11:11:21.691286"
+    },
+    {
+      "id": "18239",
+      "title": "[대전] 2026 신비한 샌드매직쇼 [사라진 모래상자] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.04(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18239",
+      "site": "yes24",
+      "crawled_at": "2026-07-30T11:11:21.691286"
+    },
+    {
+      "id": "18238",
+      "title": "단독판매제23회 자라섬재즈페스티벌 일반티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.07.31(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18238",
+      "site": "yes24",
+      "crawled_at": "2026-07-30T11:11:21.691286"
+    },
+    {
+      "id": "18237",
+      "title": "샤를 뒤트와 & 마르타 아르헤리치 with KBS교향악단 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18237",
+      "site": "yes24",
+      "crawled_at": "2026-07-30T11:11:21.691286"
+    },
     {
       "id": "18236",
       "title": "[수원] 뮤지컬 멜로우TV [Run it up, 팀 나빠] 티켓오픈 안내",
