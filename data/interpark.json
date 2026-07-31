@@ -1,8 +1,145 @@
 {
   "site": "interpark",
-  "flag_id": "26010589",
-  "last_crawled_at": "2026-07-31T03:41:41.632697",
+  "flag_id": "26011200",
+  "last_crawled_at": "2026-07-31T11:32:20.353588",
   "items": [
+    {
+      "id": "26011200",
+      "title": "음악서사극 금빛묵향 - 공주",
+      "place": "공주문예회관",
+      "open_time": "08.03(월) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011200_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011200",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "20260731031220",
+      "title": "제15회 월드커피포럼",
+      "place": "서울 코엑스",
+      "open_time": "08.03(월) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260731031220.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260731031220",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "26010841",
+      "title": "ENSEMBLE KHAI 앙상블 카이 - 실내악 시리즈 Ⅱ",
+      "place": "거암아트홀",
+      "open_time": "08.03(월) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010841_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010841",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "26010709",
+      "title": "［슈퍼 얼리버드］ 스페인 미술 500년: 빛과 어둠의 연대기",
+      "place": "예술의전당 한가람디자인미술관",
+      "open_time": "08.03(월) 10:00",
+      "open_type": "얼리버드 오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010709_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010709",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "2026072818313764",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌 2.5 : 시간여행 - 여수",
+      "place": "여수시민회관",
+      "open_time": "08.03(월) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072818313764.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072818313764",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "26009480",
+      "title": "뮤지컬 〈스트라빈스키〉",
+      "place": "예스24아트원 2관",
+      "open_time": "08.07(금) 11:00",
+      "open_type": "마지막 티켓 오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009480_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009480",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "26011322",
+      "title": "나 홀로 집에 인 콘서트",
+      "place": "예술의전당 콘서트홀",
+      "open_time": "08.07(금) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011322_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011322",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "2026072713341961",
+      "title": "2026 WITH STAGE ＆ 시즌6",
+      "place": "CKL스테이지",
+      "open_time": "08.10(월) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026072713341961.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026072713341961",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "2026073017552506",
+      "title": "2026 종로 가족공연축제 〈해피해프닝〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073017552506.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073017552506",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "2026073018051116",
+      "title": "2026 종로 가족공연축제 〈하얀나라〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073018051116.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073018051116",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
+    {
+      "id": "26010008",
+      "title": "포르쉐 바이브 서울(Porsche Vibe Seoul)",
+      "place": "문화비축기지",
+      "open_time": "08.14(금) 10:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010008_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010008",
+      "site": "interpark",
+      "crawled_at": "2026-07-31T11:32:15.755406"
+    },
     {
       "id": "26010589",
       "title": "2026 무명전설 전국투어 콘서트 - 대구앵콜",
