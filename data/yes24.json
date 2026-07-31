@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18240",
-  "last_crawled_at": "2026-07-30T11:11:21.692912",
+  "flag_id": "18247",
+  "last_crawled_at": "2026-07-31T03:41:30.342939",
   "items": [
+    {
+      "id": "18247",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열두 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.04(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18247",
+      "site": "yes24",
+      "crawled_at": "2026-07-31T03:41:30.341128"
+    },
+    {
+      "id": "18241",
+      "title": "단독판매[김해] 뮤지컬 [긴긴밤] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.04(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18241",
+      "site": "yes24",
+      "crawled_at": "2026-07-31T03:41:30.341128"
+    },
     {
       "id": "18240",
       "title": "THE GREATEST: 전율 소향 X 김기태 - 대구 티켓 오픈 안내",
