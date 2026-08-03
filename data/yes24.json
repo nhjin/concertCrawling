@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18256",
-  "last_crawled_at": "2026-07-31T11:32:07.181261",
+  "flag_id": "18257",
+  "last_crawled_at": "2026-08-03T03:42:57.348493",
   "items": [
+    {
+      "id": "18257",
+      "title": "연극 〈이올라오스〉 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.07(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18257",
+      "site": "yes24",
+      "crawled_at": "2026-08-03T03:42:57.346561"
+    },
     {
       "id": "18256",
       "title": "나 홀로 집에 인 콘서트 티켓오픈 안내",
