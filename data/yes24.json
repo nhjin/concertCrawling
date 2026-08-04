@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18263",
-  "last_crawled_at": "2026-08-03T12:29:54.742226",
+  "flag_id": "18266",
+  "last_crawled_at": "2026-08-04T03:28:13.346052",
   "items": [
+    {
+      "id": "18266",
+      "title": "단독판매2026-27 TAEMIN WORLD TOUR 〈LiMiNaL〉 in SEOUL 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.11(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18266",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T03:28:13.344536"
+    },
+    {
+      "id": "18265",
+      "title": "단독판매2026 LoL KeSPA CUP 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18265",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T03:28:13.344536"
+    },
+    {
+      "id": "18264",
+      "title": "[부산] 2026 THE FACT MUSIC AWARDS 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18264",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T03:28:13.344536"
+    },
     {
       "id": "18263",
       "title": "[용인] 뮤지컬 최고다 호기심딱지 시즌4 [우리 몸은 우리가 지킨다!] 티켓오픈 안내",
