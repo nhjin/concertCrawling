@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18266",
-  "last_crawled_at": "2026-08-04T03:28:13.346052",
+  "flag_id": "18269",
+  "last_crawled_at": "2026-08-04T11:28:39.469564",
   "items": [
+    {
+      "id": "18269",
+      "title": "[성남] 2026 뮤지컬 [숲속 100층짜리 집] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.07(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18269",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T11:28:39.468141"
+    },
+    {
+      "id": "18268",
+      "title": "[광주] 2026 신비한 샌드매직쇼 [사라진 모래상자] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.06(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18268",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T11:28:39.468141"
+    },
+    {
+      "id": "18267",
+      "title": "뮤지컬 <연의 편지> 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.10(월) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18267",
+      "site": "yes24",
+      "crawled_at": "2026-08-04T11:28:39.468141"
+    },
     {
       "id": "18266",
       "title": "단독판매2026-27 TAEMIN WORLD TOUR 〈LiMiNaL〉 in SEOUL 티켓 오픈 안내",
