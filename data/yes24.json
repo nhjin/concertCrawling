@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18279",
-  "last_crawled_at": "2026-08-05T11:24:29.396617",
+  "flag_id": "18282",
+  "last_crawled_at": "2026-08-06T11:27:27.719085",
   "items": [
+    {
+      "id": "18282",
+      "title": "〈불꽃야구2〉8월 8일 (토) 폭염으로 인한 경기 취소 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "변경/취소",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18282",
+      "site": "yes24",
+      "crawled_at": "2026-08-06T11:27:27.717400"
+    },
+    {
+      "id": "18281",
+      "title": "[인천] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.10(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18281",
+      "site": "yes24",
+      "crawled_at": "2026-08-06T11:27:27.717400"
+    },
+    {
+      "id": "18280",
+      "title": "[부산] 2026 THE FACT MUSIC AWARDS 2차 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.07(금) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18280",
+      "site": "yes24",
+      "crawled_at": "2026-08-06T11:27:27.717400"
+    },
     {
       "id": "18279",
       "title": "[대구] 2026 라이브 가족뮤지컬 [피터팬] 티켓오픈 안내",
