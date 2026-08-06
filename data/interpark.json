@@ -1,8 +1,253 @@
 {
   "site": "interpark",
-  "flag_id": "26010641",
-  "last_crawled_at": "2026-08-05T11:24:40.361584",
+  "flag_id": "26007442",
+  "last_crawled_at": "2026-08-06T03:26:15.160873",
   "items": [
+    {
+      "id": "26007442",
+      "title": "뮤지컬 〈디어 에반 핸슨〉 (Musical Dear Evan Hansen)",
+      "place": "충무아트센터 대극장",
+      "open_time": "2026-08-06 14:00",
+      "open_type": "3차티켓오픈",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007442_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007442",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26010234",
+      "title": "샤를 뒤트와 ＆ 마르타 아르헤리치 with KBS교향악단",
+      "place": "롯데콘서트홀",
+      "open_time": "2026-08-06 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010234_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010234",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26011379",
+      "title": "[쿼드, 연극의 질문들] 김광보 〈옥상 밭 고추는 왜〉",
+      "place": "대학로극장 쿼드",
+      "open_time": "2026-08-06 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011379_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011379",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26011121",
+      "title": "[부산] 2026 장윤정 라이브 콘서트 〈THE MASTER〉",
+      "place": "KBS부산홀",
+      "open_time": "2026-08-06 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011121_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011121",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26011453",
+      "title": "뮤지컬 〈엠. 버터플라이〉",
+      "place": "예스24스테이지 1관",
+      "open_time": "2026-08-06 16:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011453_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011453",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26009625",
+      "title": "뮤지컬 〈광화문연가〉",
+      "place": "디큐브 링크아트센터",
+      "open_time": "08.11(화) 14:00",
+      "open_type": "2차티켓오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009625_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009625",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26011284",
+      "title": "영등포아트홀 기획공연 [주현미, 가요백년을 노래하다]",
+      "place": "영등포아트홀",
+      "open_time": "08.11(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011284_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011284",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26010086",
+      "title": "뮤지컬 〈소크라테스 패러독스〉",
+      "place": "NOL 서경스퀘어 스콘 1관",
+      "open_time": "08.11(화) 15:00",
+      "open_type": "1차티켓오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010086_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010086",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026080415281809",
+      "title": "DaiShun Meet＆Greet 〈자나깨나 다이슌.Nightlight〉",
+      "place": "NOL 씨어터 합정 동양생명홀",
+      "open_time": "08.11(화) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080415281809.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080415281809",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026080415123148",
+      "title": "DaiShun 1st Korea Fanmeet 〈자나깨나 다이슌. Daylight〉",
+      "place": "NOL 씨어터 합정 동양생명홀",
+      "open_time": "08.11(화) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080415123148.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080415123148",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026080311110587",
+      "title": "[부산] 라이브 시트콤 뮤지컬 〈인싸가족〉",
+      "place": "소향씨어터 우리은행홀",
+      "open_time": "08.12(수) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080311110587.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080311110587",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026080310571796",
+      "title": "[울산] 라이브 시트콤 뮤지컬 〈인싸가족〉",
+      "place": "울산문화예술회관 대공연장",
+      "open_time": "08.12(수) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080310571796.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080310571796",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "26011315",
+      "title": "마룬5 내한공연",
+      "place": "킨텍스 제1전시장 4,5홀",
+      "open_time": "08.12(수) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011315_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011315",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026073017552506",
+      "title": "2026 종로 가족공연축제 〈해피해프닝〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073017552506.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073017552506",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026073018051116",
+      "title": "2026 종로 가족공연축제 〈하얀나라〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073018051116.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073018051116",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026073013185112",
+      "title": "〈미스트롯4〉 전국투어 콘서트 - 서울앵콜",
+      "place": "경희대학교 평화의전당",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073013185112.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073013185112",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026073116215089",
+      "title": "2026 종로 가족공연축제 〈꼬마장승 가출기〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073116215089.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073116215089",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026073116161490",
+      "title": "2026 종로 가족공연축제 〈저승할망〉",
+      "place": "아이들극장",
+      "open_time": "08.12(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026073116161490.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026073116161490",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
+    {
+      "id": "2026080410132222",
+      "title": "2026 이승철 40주년 콘서트 ［THE VOICE: LEE SEUNG CHUL］ - 인천",
+      "place": "인스파이어 아레나",
+      "open_time": "08.12(수) 19:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080410132222.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080410132222",
+      "site": "interpark",
+      "crawled_at": "2026-08-06T03:26:12.343981"
+    },
     {
       "id": "26010641",
       "title": "수림뉴웨이브 2026",
