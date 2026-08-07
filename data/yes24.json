@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18287",
-  "last_crawled_at": "2026-08-07T03:11:04.778976",
+  "flag_id": "18293",
+  "last_crawled_at": "2026-08-07T10:04:24.099112",
   "items": [
+    {
+      "id": "18293",
+      "title": "단독판매2026 신기루 토크콘서트(노콘쇼) - 전주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.12(수) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18293",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
+    {
+      "id": "18292",
+      "title": "단독판매2026 신기루 토크콘서트(노콘쇼) - 서울 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.12(수) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18292",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
+    {
+      "id": "18291",
+      "title": "피지컬씨어터 <네이처 오브 포겟팅> : 연극열전10_열 번째 작품 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.14(금) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18291",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
+    {
+      "id": "18290",
+      "title": "제 8회 부산발레페스티벌 in 영도〈Special Gala> 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.11(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18290",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
+    {
+      "id": "18289",
+      "title": "단독판매연극 〈스타크로스드〉 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.11(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18289",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
+    {
+      "id": "18288",
+      "title": "뮤지컬 <아나키스트> 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.13(목) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18288",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T10:04:24.097693"
+    },
     {
       "id": "18287",
       "title": "뮤지컬 <사의찬미 2026 2ND STAGE> 1차 티켓오픈 안내",
