@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18282",
-  "last_crawled_at": "2026-08-06T11:27:27.719085",
+  "flag_id": "18287",
+  "last_crawled_at": "2026-08-07T03:11:04.778976",
   "items": [
+    {
+      "id": "18287",
+      "title": "뮤지컬 <사의찬미 2026 2ND STAGE> 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.13(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18287",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T03:11:04.777366"
+    },
+    {
+      "id": "18286",
+      "title": "박종해 피아노 리사이틀 〈Schubert Abend - 슈베르트의 밤〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.13(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18286",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T03:11:04.777366"
+    },
+    {
+      "id": "18285",
+      "title": "멘델스존, 바흐를 만나다 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.13(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18285",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T03:11:04.777366"
+    },
+    {
+      "id": "18284",
+      "title": "[데뷔 60주년 기념공연] 2026 남진 전국투어 콘서트 - 평택 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.12(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18284",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T03:11:04.777366"
+    },
+    {
+      "id": "18283",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.5 : 시간여행 - 평택 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.12(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18283",
+      "site": "yes24",
+      "crawled_at": "2026-08-07T03:11:04.777366"
+    },
     {
       "id": "18282",
       "title": "〈불꽃야구2〉8월 8일 (토) 폭염으로 인한 경기 취소 안내",
