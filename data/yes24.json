@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18293",
-  "last_crawled_at": "2026-08-07T10:04:24.099112",
+  "flag_id": "18296",
+  "last_crawled_at": "2026-08-10T02:25:25.678614",
   "items": [
+    {
+      "id": "18296",
+      "title": "단독판매[전남광주통합특별시립교향악단] 오티움 콘서트 Ⅳ ‘Violin’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.12(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18296",
+      "site": "yes24",
+      "crawled_at": "2026-08-10T02:25:25.676919"
+    },
+    {
+      "id": "18294",
+      "title": "뮤지컬 <겨울왕국> 한국 초연 - 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.19(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18294",
+      "site": "yes24",
+      "crawled_at": "2026-08-10T02:25:25.676919"
+    },
     {
       "id": "18293",
       "title": "단독판매2026 신기루 토크콘서트(노콘쇼) - 전주 티켓 오픈 안내",
