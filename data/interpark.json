@@ -1,8 +1,268 @@
 {
   "site": "interpark",
-  "flag_id": "26011092",
-  "last_crawled_at": "2026-08-10T10:21:32.776931",
+  "flag_id": "26009625",
+  "last_crawled_at": "2026-08-11T02:19:11.448657",
   "items": [
+    {
+      "id": "26009625",
+      "title": "뮤지컬 〈광화문연가〉",
+      "place": "디큐브 링크아트센터",
+      "open_time": "2026-08-11 14:00",
+      "open_type": "2차티켓오픈",
+      "badges": [
+        "HOT",
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009625_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009625",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011284",
+      "title": "영등포아트홀 기획공연 [주현미, 가요백년을 노래하다]",
+      "place": "영등포아트홀",
+      "open_time": "2026-08-11 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011284_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011284",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011578",
+      "title": "친정엄마와 2박 3일 - 전주",
+      "place": "한국소리문화의전당 모악당",
+      "open_time": "2026-08-11 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011578_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011578",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011647",
+      "title": "뮤지컬 〈그날들〉 - 이천",
+      "place": "이천아트홀 대공연장",
+      "open_time": "2026-08-11 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011647_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011647",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26010086",
+      "title": "뮤지컬 〈소크라테스 패러독스〉",
+      "place": "NOL 서경스퀘어 스콘 1관",
+      "open_time": "2026-08-11 15:00",
+      "open_type": "1차티켓오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010086_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010086",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011678",
+      "title": "박종해 피아노 리사이틀 〈Schubert Abend - 슈베르트의 밤〉",
+      "place": "예술의전당 IBK기업은행챔버홀",
+      "open_time": "08.13(목) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011678_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011678",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011287",
+      "title": "LIVE TOUR 2026 ＂COVER GIRLs＂ in SEOUL",
+      "place": "웨스트브릿지 라이브홀",
+      "open_time": "08.13(목) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011287_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011287",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011525",
+      "title": "2026 이준호 FANMEETING in Seoul 〈AUTUMN NOTE〉",
+      "place": "광운대학교 동해문화예술관 대극장",
+      "open_time": "08.13(목) 19:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011525_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011525",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "2026080718035711",
+      "title": "조민규 단독 콘서트 [MONO DRAMA 2026 : Sweet Escape]",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "08.13(목) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080718035711.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080718035711",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "20260807022211",
+      "title": "2026 WHIB FAN CONCERT [BLUE HOUR]",
+      "place": "NOL 씨어터 합정 동양생명홀",
+      "open_time": "08.13(목) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260807022211.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260807022211",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "2026081017460625",
+      "title": "2026 뮤지컬에 마술을 더하다!!〈매직컬 피터팬〉 - 광양",
+      "place": "광양시 문화예술회관",
+      "open_time": "08.14(금) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081017460625.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081017460625",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "2026081017561436",
+      "title": "2026 뮤지컬에 마술을 더하다!! 〈매직컬 피터팬〉 - 여수",
+      "place": "여수시민회관",
+      "open_time": "08.14(금) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081017561436.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081017561436",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26010008",
+      "title": "포르쉐 바이브 서울(Porsche Vibe Seoul)",
+      "place": "문화비축기지",
+      "open_time": "08.14(금) 10:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010008_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010008",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011813",
+      "title": "2026 라이브 가족뮤지컬 〈피터팬〉 - 과천",
+      "place": "과천시민회관 소극장",
+      "open_time": "08.14(금) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011813_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011813",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "20260805095137",
+      "title": "피지컬씨어터 〈네이처 오브 포겟팅〉 : 연극열전10_열 번째 작품",
+      "place": "",
+      "open_time": "08.14(금) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260805095137.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260805095137",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26010929",
+      "title": "뮤지컬 〈카페인〉",
+      "place": "대학로 더굿씨어터",
+      "open_time": "08.14(금) 11:00",
+      "open_type": "2차티켓오픈",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010929_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010929",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "2026080615382355",
+      "title": "오페라 〈사랑의 묘약〉 - 고양",
+      "place": "고양아람누리 아람극장",
+      "open_time": "08.14(금) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026080615382355.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026080615382355",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011331",
+      "title": "2026 AxMxP CONCERT ‘X VERSE’",
+      "place": "NOL 씨어터 합정 동양생명홀",
+      "open_time": "08.14(금) 20:00",
+      "open_type": "멤버십 선예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011331_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011331",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26010918",
+      "title": "연극 〈클로저〉",
+      "place": "예스24스테이지 2관",
+      "open_time": "08.18(화) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010918_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010918",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
+    {
+      "id": "26011609",
+      "title": "〈유정우의 오페라 VIBE〉 2026",
+      "place": "크레디아클래식클럽STUDIO",
+      "open_time": "08.18(화) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011609_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011609",
+      "site": "interpark",
+      "crawled_at": "2026-08-11T02:19:08.586283"
+    },
     {
       "id": "26011092",
       "title": "2026 ＆TEAM CONCERT TOUR ‘BLAZE THE WAY’ ENCORE in KSPO DOME",

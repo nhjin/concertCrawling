@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18303",
-  "last_crawled_at": "2026-08-10T10:21:19.061995",
+  "flag_id": "18309",
+  "last_crawled_at": "2026-08-11T02:19:00.762686",
   "items": [
+    {
+      "id": "18309",
+      "title": "연극 〈클로저〉 프리뷰&1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18309",
+      "site": "yes24",
+      "crawled_at": "2026-08-11T02:19:00.761073"
+    },
+    {
+      "id": "18306",
+      "title": "[춘천] 2026 베스트셀러 어린이뮤지컬 [사과가 쿵] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.13(목) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18306",
+      "site": "yes24",
+      "crawled_at": "2026-08-11T02:19:00.761073"
+    },
+    {
+      "id": "18305",
+      "title": "단독판매복합문화예술행사 ODCF - 아직 오지 않은 세계를 위한 리허설 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.11(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18305",
+      "site": "yes24",
+      "crawled_at": "2026-08-11T02:19:00.761073"
+    },
+    {
+      "id": "18304",
+      "title": "단독판매카와사키 타카야 내한공연 KAWASAKI TAKAYA LIVE IN SEOUL 2026 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.19(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18304",
+      "site": "yes24",
+      "crawled_at": "2026-08-11T02:19:00.761073"
+    },
     {
       "id": "18303",
       "title": "단독판매ELLEGARDEN ‘Bad For Education Tour II (2026)’ 티켓 오픈 안내",
