@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18309",
-  "last_crawled_at": "2026-08-11T02:19:00.762686",
+  "flag_id": "18310",
+  "last_crawled_at": "2026-08-11T10:03:10.554995",
   "items": [
+    {
+      "id": "18310",
+      "title": "[군포] 뮤지컬 헬로카봇 [카봇크루가 되어줘!] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.14(금) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18310",
+      "site": "yes24",
+      "crawled_at": "2026-08-11T10:03:10.553372"
+    },
     {
       "id": "18309",
       "title": "연극 〈클로저〉 프리뷰&1차 티켓오픈 안내",
