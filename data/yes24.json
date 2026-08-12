@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18310",
-  "last_crawled_at": "2026-08-11T10:03:10.554995",
+  "flag_id": "18316",
+  "last_crawled_at": "2026-08-12T10:11:16.774407",
   "items": [
+    {
+      "id": "18316",
+      "title": "율리우스 아살 피아노 리사이틀 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18316",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
+    {
+      "id": "18315",
+      "title": "연극 〈멜로에 차질〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.14(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18315",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
+    {
+      "id": "18314",
+      "title": "[여수] 2026 뮤지컬에 마술을 더하다!! [매직컬 피터팬] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.14(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18314",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
+    {
+      "id": "18313",
+      "title": "[광양] 2026 뮤지컬에 마술을 더하다!! [매직컬 피터팬] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.14(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18313",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
+    {
+      "id": "18312",
+      "title": "음악극 [소요유] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18312",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
+    {
+      "id": "18311",
+      "title": "뮤지컬 [바람으로의 여행] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18311",
+      "site": "yes24",
+      "crawled_at": "2026-08-12T10:11:16.772803"
+    },
     {
       "id": "18310",
       "title": "[군포] 뮤지컬 헬로카봇 [카봇크루가 되어줘!] 티켓오픈 안내",
