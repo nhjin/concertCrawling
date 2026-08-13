@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18316",
-  "last_crawled_at": "2026-08-12T10:11:16.774407",
+  "flag_id": "18318",
+  "last_crawled_at": "2026-08-13T02:35:15.889321",
   "items": [
+    {
+      "id": "18318",
+      "title": "[안산] ASAC 키움극장 판소리 동화콘서트 [자라는 자라] 일반 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18318",
+      "site": "yes24",
+      "crawled_at": "2026-08-13T02:35:15.887792"
+    },
+    {
+      "id": "18317",
+      "title": "뮤지컬 [사칠] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.20(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18317",
+      "site": "yes24",
+      "crawled_at": "2026-08-13T02:35:15.887792"
+    },
     {
       "id": "18316",
       "title": "율리우스 아살 피아노 리사이틀 티켓오픈 안내",
