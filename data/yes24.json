@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18338",
-  "last_crawled_at": "2026-08-14T10:08:09.173852",
+  "flag_id": "18339",
+  "last_crawled_at": "2026-08-15T01:42:49.742366",
   "items": [
+    {
+      "id": "18339",
+      "title": "[과천] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.18(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18339",
+      "site": "yes24",
+      "crawled_at": "2026-08-15T01:42:49.740631"
+    },
     {
       "id": "18338",
       "title": "ASAC 청소년 연극 ‘유원’ 티켓오픈 안내",
