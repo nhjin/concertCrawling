@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18339",
-  "last_crawled_at": "2026-08-15T01:42:49.742366",
+  "flag_id": "18345",
+  "last_crawled_at": "2026-08-18T09:37:47.051898",
   "items": [
+    {
+      "id": "18345",
+      "title": "[대구] 2026 라이브 가족뮤지컬 [헨젤과 그레텔] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.19(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18345",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
+    {
+      "id": "18344",
+      "title": "[경기광주] 뮤지컬 헬로카봇 [카봇크루가 되어줘!] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.21(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18344",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
+    {
+      "id": "18343",
+      "title": "단독판매제1300회 서초금요음악회 [한여름 밤의 바로크 Festa] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.21(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18343",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
+    {
+      "id": "18342",
+      "title": "단독판매MU:CON 2026 글로벌 뮤직 페어 쇼케이스 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.20(목) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18342",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
+    {
+      "id": "18341",
+      "title": "단독판매[평택] 2026 제작공연 시리즈 名作 3. 판소리 명인전 [세바탕] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.20(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18341",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
+    {
+      "id": "18340",
+      "title": "단독판매[전남광주통합특별시립교향악단] 제410회 정기연주회 [낭만의 유산] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.19(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18340",
+      "site": "yes24",
+      "crawled_at": "2026-08-18T09:37:47.050282"
+    },
     {
       "id": "18339",
       "title": "[과천] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
