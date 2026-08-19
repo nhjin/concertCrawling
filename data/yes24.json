@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18345",
-  "last_crawled_at": "2026-08-18T09:37:47.051898",
+  "flag_id": "18350",
+  "last_crawled_at": "2026-08-19T01:44:57.963809",
   "items": [
+    {
+      "id": "18350",
+      "title": "단독판매Ｈ△Ｇ 1st One Man Live in Seoul 夏の在りか 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.24(월) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18350",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T01:44:57.962444"
+    },
+    {
+      "id": "18349",
+      "title": "제17회 부산국제 음악제 프롬나드 콘서트Ⅰ 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.20(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18349",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T01:44:57.962444"
+    },
+    {
+      "id": "18348",
+      "title": "뮤지컬 <렛미플라이> 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.25(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18348",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T01:44:57.962444"
+    },
+    {
+      "id": "18347",
+      "title": "단독판매Rain Tree Concert 2026 in Seoul 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.07(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18347",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T01:44:57.962444"
+    },
+    {
+      "id": "18346",
+      "title": "단독판매AKANE YONEZAWA “Black Pasta” TOUR in Seoul 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.31(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18346",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T01:44:57.962444"
+    },
     {
       "id": "18345",
       "title": "[대구] 2026 라이브 가족뮤지컬 [헨젤과 그레텔] 티켓오픈 안내",
