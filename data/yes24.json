@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18350",
-  "last_crawled_at": "2026-08-19T01:44:57.963809",
+  "flag_id": "18355",
+  "last_crawled_at": "2026-08-19T09:38:28.072238",
   "items": [
+    {
+      "id": "18355",
+      "title": "2026 김장훈 전국투어 콘서트 : 원맨쇼 - 밀양 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.24(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18355",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T09:38:28.070640"
+    },
+    {
+      "id": "18354",
+      "title": "단독판매2026 ifeye 1st APAC TOUR [ If I ] IN SEOUL 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.21(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18354",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T09:38:28.070640"
+    },
+    {
+      "id": "18353",
+      "title": "[부산] 2026 THE FACT MUSIC AWARDS 3차 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.20(목) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18353",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T09:38:28.070640"
+    },
+    {
+      "id": "18352",
+      "title": "영도에서 떠나는 예술여행 미술과 오페라의 만남Ⅲ - 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.21(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18352",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T09:38:28.070640"
+    },
+    {
+      "id": "18351",
+      "title": "단독판매[부산] 2026 하루 첫 팬콘서트[오늘, 하루 : 처음 들려주는 이야기] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.19(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18351",
+      "site": "yes24",
+      "crawled_at": "2026-08-19T09:38:28.070640"
+    },
     {
       "id": "18350",
       "title": "단독판매Ｈ△Ｇ 1st One Man Live in Seoul 夏の在りか 티켓 오픈 안내",

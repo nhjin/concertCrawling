@@ -1,8 +1,253 @@
 {
   "site": "interpark",
-  "flag_id": "26009616",
-  "last_crawled_at": "2026-08-19T01:45:10.181968",
+  "flag_id": "26012100",
+  "last_crawled_at": "2026-08-19T09:38:41.143699",
   "items": [
+    {
+      "id": "26012100",
+      "title": "2026 TVT CONCERT: 우리네 인생은 끝없는 서부영화.",
+      "place": "장충체육관",
+      "open_time": "2026-08-19 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012100_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012100",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26012055",
+      "title": "CLICK-B RE:CLICK (한여름밤의 꿈 VOL.2) ENCORE in BUSAN",
+      "place": "KBS부산홀",
+      "open_time": "2026-08-19 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012055_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012055",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26010645",
+      "title": "수림뉴웨이브 2026",
+      "place": "김희수아트센터 SPACE1",
+      "open_time": "2026-08-20 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010645_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010645",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26012095",
+      "title": "바다탐험대 옥토넛 시즌4 : 숨겨진 보물을 찾아라! - 용인",
+      "place": "용인시문예회관 처인홀",
+      "open_time": "2026-08-20 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012095_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012095",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26012131",
+      "title": "바다탐험대 옥토넛 시즌4 : 숨겨진 보물을 찾아라! - 의정부",
+      "place": "의정부예술의전당 대극장",
+      "open_time": "2026-08-20 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012131_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012131",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081815071740",
+      "title": "2026 윤종신 전국투어 콘서트 〈가을냄새〉 수원",
+      "place": "﻿경기아트센터 대극장",
+      "open_time": "08.25(화) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081815071740.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081815071740",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081815590108",
+      "title": "2026 윤종신 전국투어 콘서트 〈가을냄새〉 부산",
+      "place": "﻿소향씨어터 우리은행홀",
+      "open_time": "08.25(화) 18:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081815590108.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081815590108",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081319590293",
+      "title": "WHO ASKED？ TOUR DOMi ＆ JD BECK LIVE IN SEOUL",
+      "place": "공감센터 공감홀",
+      "open_time": "08.25(화) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081319590293.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081319590293",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26011968",
+      "title": "2026 10CM FAN CONCERT <THE MISSING TRACKS> 사라진 곡들의 행방 ― CASE No.1010",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "08.25(화) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011968_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011968",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26002626",
+      "title": "뮤직드라마 〈불편한 편의점〉 - 김호연 작가의 밀리언셀러 소설이 공연으로 재탄생 (서울)",
+      "place": "올웨이즈씨어터",
+      "open_time": "08.26(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26002626_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26002626",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26002144",
+      "title": "뮤직드라마 〈불편한 편의점2〉 - 김호연 작가의 베스트셀러 소설이 공연으로 재탄생 (서울)",
+      "place": "후암씨어터",
+      "open_time": "08.26(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26002144_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26002144",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26011969",
+      "title": "2026 10CM FAN CONCERT <THE MISSING TRACKS> 사라진 곡들의 행방 ― CASE No.1011",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "08.26(수) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011969_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011969",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081917000432",
+      "title": "2026 소수빈 단독공연 〈늘 그래왔던 것처럼 앞으로도〉",
+      "place": "올림픽홀",
+      "open_time": "08.31(월) 20:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081917000432.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081917000432",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081711251657",
+      "title": "빨간사과가먹고싶다면",
+      "place": "북아현아트홀",
+      "open_time": "09.01(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081711251657.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081711251657",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081213524848",
+      "title": "2026 KO1KEYZ 1ST FAN MEETING IN SEOUL",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "09.02(수) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081213524848.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081213524848",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "20260808062456",
+      "title": "Classic Mode: 대니 구",
+      "place": "금호아트홀 연세",
+      "open_time": "09.04(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260808062456.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260808062456",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26011740",
+      "title": "Classic Mode: 홍진호",
+      "place": "금호아트홀 연세",
+      "open_time": "09.04(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011740_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011740",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "2026081414501210",
+      "title": "라흐마니노프 in 뉴욕",
+      "place": "예술의전당IBK기업은행챔버홀",
+      "open_time": "09.04(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081414501210.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081414501210",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
+    {
+      "id": "26011174",
+      "title": "연극 〈꽃의 비밀〉",
+      "place": "링크아트센터 벅스홀",
+      "open_time": "추후공지",
+      "open_type": "2차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011174_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011174",
+      "site": "interpark",
+      "crawled_at": "2026-08-19T09:38:36.257471"
+    },
     {
       "id": "26009616",
       "title": "뮤지컬 〈푸른 꽃〉",
