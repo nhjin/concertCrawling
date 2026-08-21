@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18357",
-  "last_crawled_at": "2026-08-20T09:39:05.667472",
+  "flag_id": "18361",
+  "last_crawled_at": "2026-08-21T01:49:17.390880",
   "items": [
+    {
+      "id": "18361",
+      "title": "단독판매김건모. 35TH ANNIVERSARY LIVE TOUR - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.27(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18361",
+      "site": "yes24",
+      "crawled_at": "2026-08-21T01:49:17.389561"
+    },
+    {
+      "id": "18360",
+      "title": "단독판매김건모. 35TH ANNIVERSARY LIVE TOUR 전국투어 1차 일정 공개 및 티켓 오픈 안내",
+      "place": "",
+      "open_time": "추후공지",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18360",
+      "site": "yes24",
+      "crawled_at": "2026-08-21T01:49:17.389561"
+    },
+    {
+      "id": "18359",
+      "title": "WONDERLIVET 2026 (원더리벳 2026) 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.01(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18359",
+      "site": "yes24",
+      "crawled_at": "2026-08-21T01:49:17.389561"
+    },
+    {
+      "id": "18358",
+      "title": "[부산] 2026 라이브 가족뮤지컬 [호두까기 인형] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.21(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18358",
+      "site": "yes24",
+      "crawled_at": "2026-08-21T01:49:17.389561"
+    },
     {
       "id": "18357",
       "title": "단독판매[대전] 2026 베스트셀러 뮤지컬 [누가 내 머리에 똥 쌌어?] 티켓오픈 안내",
