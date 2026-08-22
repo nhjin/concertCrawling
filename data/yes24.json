@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18375",
-  "last_crawled_at": "2026-08-21T09:41:23.927912",
+  "flag_id": "18376",
+  "last_crawled_at": "2026-08-22T01:42:17.418688",
   "items": [
+    {
+      "id": "18376",
+      "title": "라흐마니노프 in 뉴욕 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18376",
+      "site": "yes24",
+      "crawled_at": "2026-08-22T01:42:17.417098"
+    },
     {
       "id": "18375",
       "title": "THE GREATEST: 전율 소향 X 김기태 - 원주 티켓 오픈 안내",
