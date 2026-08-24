@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18376",
-  "last_crawled_at": "2026-08-22T01:42:17.418688",
+  "flag_id": "18380",
+  "last_crawled_at": "2026-08-24T09:53:01.929562",
   "items": [
+    {
+      "id": "18380",
+      "title": "단독판매[남양주] 2026 [더:매직서커스] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.25(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18380",
+      "site": "yes24",
+      "crawled_at": "2026-08-24T09:53:01.927921"
+    },
+    {
+      "id": "18379",
+      "title": "수요상설 onStage〈숨: 노래하다〉- 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.26(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18379",
+      "site": "yes24",
+      "crawled_at": "2026-08-24T09:53:01.927921"
+    },
+    {
+      "id": "18378",
+      "title": "단독판매XRP SEOUL 2026 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.25(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18378",
+      "site": "yes24",
+      "crawled_at": "2026-08-24T09:53:01.927921"
+    },
+    {
+      "id": "18377",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열 네 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.08.26(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18377",
+      "site": "yes24",
+      "crawled_at": "2026-08-24T09:53:01.927921"
+    },
     {
       "id": "18376",
       "title": "라흐마니노프 in 뉴욕 티켓오픈 안내",
