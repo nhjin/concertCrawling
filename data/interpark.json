@@ -1,8 +1,264 @@
 {
   "site": "interpark",
-  "flag_id": "26012055",
-  "last_crawled_at": "2026-08-24T09:53:13.644399",
+  "flag_id": "26007505",
+  "last_crawled_at": "2026-08-25T01:44:28.873951",
   "items": [
+    {
+      "id": "26007505",
+      "title": "뮤지컬 〈웨스턴 스토리〉 기깔나는 코믹 서부극",
+      "place": "NOL 유니플렉스 1관",
+      "open_time": "2026-08-25 11:00",
+      "open_type": "마지막 티켓오픈",
+      "badges": [
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007505_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007505",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26012380",
+      "title": "2026 이머시브 다이닝 〈더 레시피〉 - 안동",
+      "place": "한국문화테마파크 전통극공연장",
+      "open_time": "2026-08-25 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012380_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012380",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081915585145",
+      "title": "제 3회 트리오 미르텐 정기연주회",
+      "place": "예술의전당 인춘아트홀",
+      "open_time": "2026-08-25 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081915585145.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081915585145",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26012259",
+      "title": "뮤지컬 〈렛미플라이〉",
+      "place": "두산아트센터 연강홀",
+      "open_time": "2026-08-25 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012259_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012259",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26012217",
+      "title": "뮤지컬 드라큘라 (Dracula：The Musical) - 대구",
+      "place": "계명아트센터",
+      "open_time": "2026-08-25 14:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012217_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012217",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26011325",
+      "title": "2026 10CM FAN CONCERT <THE MISSING TRACKS> 사라진 곡들의 행방 ― CASE No.1009",
+      "place": "올림픽공원 올림픽홀",
+      "open_time": "08.27(목) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011325_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011325",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26010372",
+      "title": "뮤지컬〈알사탕〉- 서울숲",
+      "place": "서울숲 씨어터 1관",
+      "open_time": "08.28(금) 10:00",
+      "open_type": "18차 티켓오픈",
+      "badges": [
+        "토핑선예매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010372_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010372",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "20260821115507",
+      "title": "[슈가데이#7] 뮤지컬 〈비더슈탄트〉",
+      "place": "링크아트센터드림 드림1관",
+      "open_time": "08.28(금) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260821115507.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260821115507",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26012276",
+      "title": "슬로우다이브 내한공연",
+      "place": "KBS아레나",
+      "open_time": "08.28(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012276_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012276",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081912020599",
+      "title": "Freddie Gibbs 프레디 깁스 첫 내한공연",
+      "place": "현대카드 언더스테이지",
+      "open_time": "08.28(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081912020599.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081912020599",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26010167",
+      "title": "2026 뮤지컬 〈미드나잇:액터뮤지션〉 - THE CHOICE",
+      "place": "NOL 유니플렉스 3관",
+      "open_time": "08.28(금) 14:00",
+      "open_type": "3차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010167_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010167",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "24014659",
+      "title": "쇼뮤지컬 터치 파이브 〈TOUCH FIVE〉",
+      "place": "터치파이브 전용관",
+      "open_time": "08.28(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/24014659",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026082116332978",
+      "title": "뮤직드라마 〈망원동 브라더스〉",
+      "place": "루미나아트홀",
+      "open_time": "08.28(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082116332978.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082116332978",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "20260821115319",
+      "title": "니콜라이 루간스키 피아노 리사이틀",
+      "place": "롯데콘서트홀",
+      "open_time": "08.28(금) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260821115319.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260821115319",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081812140817",
+      "title": "La Reserve Label Concert",
+      "place": "소월아트홀",
+      "open_time": "08.28(금) 18:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081812140817.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081812140817",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "26011584",
+      "title": "신부님. 신부님？ 신부님!",
+      "place": "한성아트홀 2관",
+      "open_time": "08.31(월) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011584_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011584",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081917000432",
+      "title": "2026 소수빈 단독공연 〈늘 그래왔던 것처럼 앞으로도〉",
+      "place": "올림픽홀",
+      "open_time": "08.31(월) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081917000432.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081917000432",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081914271221",
+      "title": "치펜데일 라이브 인 서울 2026",
+      "place": "에스팩토리 성수",
+      "open_time": "09.01(화) 09:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081914271221.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081914271221",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026081711251657",
+      "title": "빨간사과가먹고싶다면",
+      "place": "북아현아트홀",
+      "open_time": "09.01(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026081711251657.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026081711251657",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
+    {
+      "id": "2026082400132764",
+      "title": "헨리 6세",
+      "place": "서강대 메리홀 대극장",
+      "open_time": "09.01(화) 18:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082400132764.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082400132764",
+      "site": "interpark",
+      "crawled_at": "2026-08-25T01:44:25.948543"
+    },
     {
       "id": "26012055",
       "title": "CLICK-B RE:CLICK (한여름밤의 꿈 VOL.2) ENCORE in BUSAN",

@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18380",
-  "last_crawled_at": "2026-08-24T09:53:01.929562",
+  "flag_id": "18384",
+  "last_crawled_at": "2026-08-25T01:44:18.009522",
   "items": [
+    {
+      "id": "18384",
+      "title": "2026 데미소다 콘서트 - 데미콘 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.28(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18384",
+      "site": "yes24",
+      "crawled_at": "2026-08-25T01:44:18.007703"
+    },
+    {
+      "id": "18381",
+      "title": "HIPHOPPLAYA SHOW VOL.63 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.08.25(화) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18381",
+      "site": "yes24",
+      "crawled_at": "2026-08-25T01:44:18.007703"
+    },
     {
       "id": "18380",
       "title": "단독판매[남양주] 2026 [더:매직서커스] 티켓오픈 안내",
