@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18386",
-  "last_crawled_at": "2026-08-25T09:40:08.637788",
+  "flag_id": "18392",
+  "last_crawled_at": "2026-08-26T09:48:07.183615",
   "items": [
+    {
+      "id": "18392",
+      "title": "뮤지컬 [브람스] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.08.31(월) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18392",
+      "site": "yes24",
+      "crawled_at": "2026-08-26T09:48:07.181863"
+    },
+    {
+      "id": "18390",
+      "title": "2026 태종대 BEAT ON 좀비레이스 선착순 모집중",
+      "place": "",
+      "open_time": "2026.08.28(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18390",
+      "site": "yes24",
+      "crawled_at": "2026-08-26T09:48:07.181863"
+    },
+    {
+      "id": "18389",
+      "title": "단독판매2026 HIGHLIGHT FAN CON [18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.10(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18389",
+      "site": "yes24",
+      "crawled_at": "2026-08-26T09:48:07.181863"
+    },
+    {
+      "id": "18388",
+      "title": "뮤지컬 <디어 에반 핸슨> 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.03(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18388",
+      "site": "yes24",
+      "crawled_at": "2026-08-26T09:48:07.181863"
+    },
+    {
+      "id": "18387",
+      "title": "뮤지컬 [연의 편지] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.02(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18387",
+      "site": "yes24",
+      "crawled_at": "2026-08-26T09:48:07.181863"
+    },
     {
       "id": "18386",
       "title": "[비지정석] [천안] 뮤지컬 최고다 호기심딱지 시즌4  [우리 몸은 우리가 지킨다!] 티켓오픈 안내",
