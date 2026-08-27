@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18392",
-  "last_crawled_at": "2026-08-26T09:48:07.183615",
+  "flag_id": "18398",
+  "last_crawled_at": "2026-08-27T09:21:03.585254",
   "items": [
+    {
+      "id": "18398",
+      "title": "단독판매브로콜리너마저의 【2026 전국 인디 교류 투어】 서울 공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18398",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
+    {
+      "id": "18397",
+      "title": "단독판매브로콜리너마저의 【2026 전국 인디 교류 투어】 춘천 공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18397",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
+    {
+      "id": "18396",
+      "title": "단독판매브로콜리너마저의 【2026 전국 인디 교류 투어】 세종 공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.03(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18396",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
+    {
+      "id": "18395",
+      "title": "단독판매브로콜리너마저의 【2026 전국 인디 교류 투어】 부산 공연 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.03(목) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18395",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
+    {
+      "id": "18394",
+      "title": "2026 THE FACT MUSIC AWARDS 투어 패키지 판매 안내",
+      "place": "",
+      "open_time": "2026.08.28(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18394",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
+    {
+      "id": "18393",
+      "title": "2026 진성 단독 토크콘서트 [진성쑈]- 춘천",
+      "place": "",
+      "open_time": "2026.09.02(수) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18393",
+      "site": "yes24",
+      "crawled_at": "2026-08-27T09:21:03.583814"
+    },
     {
       "id": "18392",
       "title": "뮤지컬 [브람스] 2차 티켓오픈 안내",
