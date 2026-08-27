@@ -1,8 +1,267 @@
 {
   "site": "interpark",
-  "flag_id": "26011954",
-  "last_crawled_at": "2026-08-27T09:21:12.084022",
+  "flag_id": "26012154",
+  "last_crawled_at": "2026-08-27T19:42:42.024267",
   "items": [
+    {
+      "id": "26012154",
+      "title": "［얼리버드］ 조르조 모란디(GIORGIO MORANDI)",
+      "place": "더현대 서울 ALT.1",
+      "open_time": "2026-08-28 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012154_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012154",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26010372",
+      "title": "뮤지컬〈알사탕〉- 서울숲",
+      "place": "서울숲 씨어터 1관",
+      "open_time": "2026-08-28 11:00",
+      "open_type": "18차 티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010372_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010372",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "20260821115507",
+      "title": "[슈가데이#7] 뮤지컬 〈비더슈탄트〉",
+      "place": "링크아트센터드림 드림1관",
+      "open_time": "2026-08-28 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260821115507.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260821115507",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "2026082416550526",
+      "title": "2026 양수경 콘서트 : 인연 - 서울",
+      "place": "큐브컨벤션센터 CCC스테이지",
+      "open_time": "2026-08-28 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082416550526.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082416550526",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26012225",
+      "title": "뮤지컬 〈장수탕 선녀님〉 - 고양",
+      "place": "고양어울림누리 어울림극장",
+      "open_time": "2026-08-28 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012225_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012225",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "2026082414261046",
+      "title": "［대구］ 최유리 콘서트 2026 : 머무름",
+      "place": "엑스코 오디토리움",
+      "open_time": "09.01(화) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082414261046.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082414261046",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26012267",
+      "title": "뮤지컬 〈프리즌〉 - 제주",
+      "place": "제주설문대여성문화센터 4층 공연장",
+      "open_time": "09.02(수) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012267_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012267",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26012459",
+      "title": "［서초］ 라이브 시트콤 뮤지컬 〈인싸가족〉",
+      "place": "한전아트센터",
+      "open_time": "09.02(수) 11:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012459_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012459",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26011553",
+      "title": "뮤지컬 〈연의 편지〉",
+      "place": "플러스씨어터",
+      "open_time": "09.02(수) 11:00",
+      "open_type": "2차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011553_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011553",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "2026082513454882",
+      "title": "2026 진성 단독 토크콘서트 \"진성쑈\"-춘천",
+      "place": "강원대학교 백령아트센터",
+      "open_time": "09.02(수) 13:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082513454882.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082513454882",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26012408",
+      "title": "2026 연극 〈사랑해엄마〉 - 부산",
+      "place": "소향씨어터 우리은행홀",
+      "open_time": "09.02(수) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012408_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012408",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "1467592373620230072",
+      "title": "왕쯔통 피아노 리사이틀",
+      "place": "예술의전당 IBK기업은행챔버홀",
+      "open_time": "09.02(수) 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://tickets.interpark.com/mf/images/no_image_classic.svg",
+      "source_url": "https://tickets.interpark.com/goods/1467592373620230072",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26012046",
+      "title": "2026 KO1KEYZ 1ST FAN MEETING IN SEOUL",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "09.02(수) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012046_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012046",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26008698",
+      "title": "뮤지컬 〈소년의 초상〉",
+      "place": "대학로 TOM(티오엠) 2관",
+      "open_time": "09.03(목) 11:00",
+      "open_type": "마지막 티켓오픈",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008698_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008698",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26007442",
+      "title": "뮤지컬 〈디어 에반 핸슨〉 (Musical Dear Evan Hansen)",
+      "place": "충무아트센터 대극장",
+      "open_time": "09.03(목) 14:00",
+      "open_type": "마지막티켓 오픈",
+      "badges": [
+        "HOT",
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26007442_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26007442",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "2026082610145935",
+      "title": "요우시 내한공연 (Yo-Sea Asia Tour 2026 - Minimum Band Set)",
+      "place": "KT&G 상상마당 홍대 라이브홀",
+      "open_time": "09.03(목) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082610145935.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082610145935",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "2026082401474491",
+      "title": "2026 LEO MUSE FANMEETING [TAKE 운－PLAY LEO]",
+      "place": "성신여자대학교 운정그린캠퍼스 대강당",
+      "open_time": "09.03(목) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082401474491.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082401474491",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "20260827030230",
+      "title": "OurR Concert 'Utopia'",
+      "place": "KT&G 상상마당 홍대 라이브홀",
+      "open_time": "09.03(목) 19:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260827030230.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260827030230",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "20260808062456",
+      "title": "Classic Mode: 대니 구",
+      "place": "금호아트홀 연세",
+      "open_time": "09.04(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20260808062456.jpg",
+      "source_url": "https://tickets.interpark.com/goods/20260808062456",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
+    {
+      "id": "26011740",
+      "title": "Classic Mode: 홍진호",
+      "place": "금호아트홀 연세",
+      "open_time": "09.04(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26011740_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26011740",
+      "site": "interpark",
+      "crawled_at": "2026-08-27T19:42:38.945522"
+    },
     {
       "id": "26011954",
       "title": "2026 HYUNJAE 1st FANMEETING ［The Present for you］",
