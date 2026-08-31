@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18410",
-  "last_crawled_at": "2026-08-29T06:55:03.355114",
+  "flag_id": "18412",
+  "last_crawled_at": "2026-08-31T16:54:56.116227",
   "items": [
+    {
+      "id": "18412",
+      "title": "[원주] 2026 The 심수봉 SHOW 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.03(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18412",
+      "site": "yes24",
+      "crawled_at": "2026-08-31T16:54:56.114632"
+    },
+    {
+      "id": "18411",
+      "title": "뮤지컬 [다이브] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.03(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18411",
+      "site": "yes24",
+      "crawled_at": "2026-08-31T16:54:56.114632"
+    },
     {
       "id": "18410",
       "title": "청년문화예술패스 홈페이지 및 결제시스템 중단 작업안내",
