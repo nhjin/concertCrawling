@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18419",
-  "last_crawled_at": "2026-09-01T04:52:30.679520",
+  "flag_id": "18424",
+  "last_crawled_at": "2026-09-01T14:02:26.042733",
   "items": [
+    {
+      "id": "18424",
+      "title": "[고양] 2026 어린이 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어?] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18424",
+      "site": "yes24",
+      "crawled_at": "2026-09-01T14:02:26.041153"
+    },
+    {
+      "id": "18423",
+      "title": "홍지민 뮤직 토크 콘서트: 백퍼센트 행복, 홍지민 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.07(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18423",
+      "site": "yes24",
+      "crawled_at": "2026-09-01T14:02:26.041153"
+    },
+    {
+      "id": "18422",
+      "title": "[수원] 2026 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18422",
+      "site": "yes24",
+      "crawled_at": "2026-09-01T14:02:26.041153"
+    },
+    {
+      "id": "18421",
+      "title": "바리톤 김주택 뮤직 라이브러리 Act 5. Le Canzoni 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18421",
+      "site": "yes24",
+      "crawled_at": "2026-09-01T14:02:26.041153"
+    },
+    {
+      "id": "18420",
+      "title": "단독판매[전남광주통합특별시립교향악단] 체임버 시리즈 Ⅵ ‘Trio：Pathetique’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.09(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18420",
+      "site": "yes24",
+      "crawled_at": "2026-09-01T14:02:26.041153"
+    },
     {
       "id": "18419",
       "title": "단독판매〈불꽃야구2〉2026시즌 열 다섯 번째 직관 티켓 오픈 일정 변경안내",
