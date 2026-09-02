@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18424",
-  "last_crawled_at": "2026-09-01T14:02:26.042733",
+  "flag_id": "18428",
+  "last_crawled_at": "2026-09-02T04:13:04.429254",
   "items": [
+    {
+      "id": "18428",
+      "title": "[용인] 2026 라이브 가족뮤지컬 [호두까기 인형] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18428",
+      "site": "yes24",
+      "crawled_at": "2026-09-02T04:13:04.427635"
+    },
+    {
+      "id": "18427",
+      "title": "단독판매Hump Back “HELLO ANEW TOUR SEOUL 2027” 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18427",
+      "site": "yes24",
+      "crawled_at": "2026-09-02T04:13:04.427635"
+    },
+    {
+      "id": "18425",
+      "title": "단독판매[창원 3·15아트홀] SUPER!수요콘서트 Enjoy by Bumhan 〈전상근x박혜원〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.09(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18425",
+      "site": "yes24",
+      "crawled_at": "2026-09-02T04:13:04.427635"
+    },
     {
       "id": "18424",
       "title": "[고양] 2026 어린이 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어?] 티켓오픈 안내",
