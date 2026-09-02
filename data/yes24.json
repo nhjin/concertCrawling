@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18428",
-  "last_crawled_at": "2026-09-02T04:13:04.429254",
+  "flag_id": "18429",
+  "last_crawled_at": "2026-09-02T13:26:55.650036",
   "items": [
+    {
+      "id": "18429",
+      "title": "단독판매2026 올해도 글렀추 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.08(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18429",
+      "site": "yes24",
+      "crawled_at": "2026-09-02T13:26:55.648774"
+    },
     {
       "id": "18428",
       "title": "[용인] 2026 라이브 가족뮤지컬 [호두까기 인형] 티켓오픈 안내",
