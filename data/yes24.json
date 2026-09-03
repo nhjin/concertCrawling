@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18429",
-  "last_crawled_at": "2026-09-02T13:26:55.650036",
+  "flag_id": "18435",
+  "last_crawled_at": "2026-09-03T04:08:57.563650",
   "items": [
+    {
+      "id": "18435",
+      "title": "[울산] 2026 라이브 가족뮤지컬 [프린세스공주] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.04(금) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18435",
+      "site": "yes24",
+      "crawled_at": "2026-09-03T04:08:57.562126"
+    },
+    {
+      "id": "18433",
+      "title": "연극 〈나와 할아버지〉 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.07(월) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18433",
+      "site": "yes24",
+      "crawled_at": "2026-09-03T04:08:57.562126"
+    },
+    {
+      "id": "18431",
+      "title": "힙합콘서트 어셈블 크러쉬〈ASMBL CRSH〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.08(화) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18431",
+      "site": "yes24",
+      "crawled_at": "2026-09-03T04:08:57.562126"
+    },
+    {
+      "id": "18430",
+      "title": "단독판매[안산] ASAC 콘서트 [ASAC한 Playlist ＃THE SOLUTIONS, 심아일랜드] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18430",
+      "site": "yes24",
+      "crawled_at": "2026-09-03T04:08:57.562126"
+    },
     {
       "id": "18429",
       "title": "단독판매2026 올해도 글렀추 티켓 오픈 안내",
