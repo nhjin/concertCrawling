@@ -1,8 +1,266 @@
 {
   "site": "interpark",
-  "flag_id": "26012833",
-  "last_crawled_at": "2026-09-03T13:25:49.998895",
+  "flag_id": "26012521",
+  "last_crawled_at": "2026-09-04T04:16:12.790829",
   "items": [
+    {
+      "id": "26012521",
+      "title": "바리톤 김주택 뮤직 라이브러리 Act 5. Le Canzoni",
+      "place": "예술의전당 IBK기업은행챔버홀",
+      "open_time": "2026-09-04 15:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012521_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012521",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012694",
+      "title": "2026 김동률 콘서트 ‘오래된 노래’",
+      "place": "세종문화회관 대극장",
+      "open_time": "2026-09-04 17:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "좌석우위"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012694_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012694",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012552",
+      "title": "RETRORIRON LIVE IN SEOUL - ENCORE -",
+      "place": "NOL 씨어터 합정 동양생명홀",
+      "open_time": "2026-09-04 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012552_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012552",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012832",
+      "title": "EMNW Live in Seoul",
+      "place": "홍대 감마홀",
+      "open_time": "2026-09-04 20:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012832_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012832",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "25003978",
+      "title": "뮤지컬 헝키쇼 (HUNKY SHOW)",
+      "place": "스타스테이지",
+      "open_time": "09.07(월) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/25/25003978_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/25003978",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012145",
+      "title": "2026 뮤지컬 〈미드나잇 : 앤틀러스〉",
+      "place": "NOL 유니플렉스 1관",
+      "open_time": "09.10(목) 11:00",
+      "open_type": "1차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012145_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012145",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026090115343868",
+      "title": "2026 김필 콘서트〈JOURNEY〉",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "09.10(목) 19:00",
+      "open_type": "팬클럽 선예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026090115343868.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026090115343868",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012479",
+      "title": "JX 2026 TOUR CONCERT 〈CORE〉 in INCHEON",
+      "place": "인스파이어 아레나",
+      "open_time": "09.10(목) 20:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012479_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012479",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012591",
+      "title": "브루노 마스 내한공연",
+      "place": "고양종합운동장 주경기장",
+      "open_time": "09.11(금) 12:00",
+      "open_type": "일반예매",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012591_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012591",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026083021534763",
+      "title": "정의의 사람들",
+      "place": "소극장 혜화당",
+      "open_time": "09.11(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026083021534763.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026083021534763",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26009196",
+      "title": "연극 〈멜로에 차질〉 - 로맨스 찍먹 코미디",
+      "place": "나인진홀 2관",
+      "open_time": "09.11(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26009196_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26009196",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26008016",
+      "title": "그레잇코미디추리극 〈히든퍼즐〉",
+      "place": "컬쳐씨어터",
+      "open_time": "09.11(금) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26008016_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26008016",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026090316204615",
+      "title": "2026 이승기 콘서트 〈기승전 : 樂〉",
+      "place": "블루스퀘어 우리WON뱅킹홀",
+      "open_time": "09.11(금) 18:00",
+      "open_type": "추가티켓오픈",
+      "badges": [
+        "HOT",
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026090316204615.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026090316204615",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026082516005064",
+      "title": "2026 뮤지컬 〈숲속 100층 짜리 집〉-전주",
+      "place": "한국소리문화의전당 모악당",
+      "open_time": "09.15(화) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026082516005064.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026082516005064",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012224",
+      "title": "라흐마니노프 in 뉴욕",
+      "place": "예술의전당IBK기업은행챔버홀",
+      "open_time": "09.16(수) 16:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012224_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012224",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026083116243637",
+      "title": "카키 내한공연 (Khaki ONE-MAN Live in Seoul)",
+      "place": "KT＆G 상상마당 홍대 라이브홀",
+      "open_time": "09.16(수) 18:00",
+      "open_type": "일반예매",
+      "badges": [
+        "단독판매"
+      ],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026083116243637.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026083116243637",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012381",
+      "title": "[쿼드, 연극의 질문들] 김우옥 〈혁명의 춤〉",
+      "place": "서울문화재단 대학로극장 쿼드",
+      "open_time": "09.17(목) 14:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012381_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012381",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26010918",
+      "title": "연극 〈클로저〉",
+      "place": "예스24스테이지 2관",
+      "open_time": "09.18(금) 11:00",
+      "open_type": "2차티켓오픈",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26010918_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26010918",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "2026090121033617",
+      "title": "김중회 쿼텟 메세지 from 고흐",
+      "place": "JCC아트센터 콘서트홀",
+      "open_time": "09.23(수) 12:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/2026090121033617.jpg",
+      "source_url": "https://tickets.interpark.com/goods/2026090121033617",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
+    {
+      "id": "26012154",
+      "title": "［얼리버드］ 조르조 모란디(GIORGIO MORANDI)",
+      "place": "더현대 서울 ALT.1",
+      "open_time": "10.08(목) 10:00",
+      "open_type": "일반예매",
+      "badges": [],
+      "thumbnail": "https://ticketimage.interpark.com/Play/image/large/26/26012154_p.gif",
+      "source_url": "https://tickets.interpark.com/goods/26012154",
+      "site": "interpark",
+      "crawled_at": "2026-09-04T04:16:09.900814"
+    },
     {
       "id": "26012833",
       "title": "트루바싱어즈 콘서트 〈VOX 01 : AWAKEN〉 - 과천",
