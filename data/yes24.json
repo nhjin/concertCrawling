@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18442",
-  "last_crawled_at": "2026-09-04T04:16:01.474447",
+  "flag_id": "18445",
+  "last_crawled_at": "2026-09-07T04:19:41.060975",
   "items": [
+    {
+      "id": "18445",
+      "title": "2026 톡톡 클래식 사랑에 빠지다〈Fall in Love〉티켓오픈안내",
+      "place": "",
+      "open_time": "2026.09.11(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18445",
+      "site": "yes24",
+      "crawled_at": "2026-09-07T04:19:41.059387"
+    },
+    {
+      "id": "18444",
+      "title": "단독판매[광주] 제8회 공연예술축제 그라제×시립국악관현악단 ‘추상(秋想)’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.09(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18444",
+      "site": "yes24",
+      "crawled_at": "2026-09-07T04:19:41.059387"
+    },
+    {
+      "id": "18443",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열 다섯 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.09.08(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18443",
+      "site": "yes24",
+      "crawled_at": "2026-09-07T04:19:41.059387"
+    },
     {
       "id": "18442",
       "title": "뮤지컬 [아나키스트] 2차 티켓오픈 안내",
