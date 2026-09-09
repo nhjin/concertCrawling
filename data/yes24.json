@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18464",
-  "last_crawled_at": "2026-09-08T13:25:54.195630",
+  "flag_id": "18471",
+  "last_crawled_at": "2026-09-09T04:25:23.841698",
   "items": [
+    {
+      "id": "18471",
+      "title": "[대구] 2026 라이브 가족뮤지컬 [호두까기인형] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.11(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18471",
+      "site": "yes24",
+      "crawled_at": "2026-09-09T04:25:23.840377"
+    },
+    {
+      "id": "18468",
+      "title": "[창원] 유니버설발레단 [호두까기인형] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18468",
+      "site": "yes24",
+      "crawled_at": "2026-09-09T04:25:23.840377"
+    },
+    {
+      "id": "18467",
+      "title": "뮤지컬 [사의찬미 2026 2ND STAGE] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.14(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18467",
+      "site": "yes24",
+      "crawled_at": "2026-09-09T04:25:23.840377"
+    },
+    {
+      "id": "18466",
+      "title": "[김제] [데뷔 60주년 기념공연] 2026 남진 전국투어 콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.14(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18466",
+      "site": "yes24",
+      "crawled_at": "2026-09-09T04:25:23.840377"
+    },
+    {
+      "id": "18465",
+      "title": "2026 서울 어린이 오페라페스티벌 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.15(화) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18465",
+      "site": "yes24",
+      "crawled_at": "2026-09-09T04:25:23.840377"
+    },
     {
       "id": "18464",
       "title": "바비칸 콰르텟 티켓오픈 안내",
