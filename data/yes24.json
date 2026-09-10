@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18476",
-  "last_crawled_at": "2026-09-10T04:23:15.297005",
+  "flag_id": "18479",
+  "last_crawled_at": "2026-09-10T13:27:54.167244",
   "items": [
+    {
+      "id": "18479",
+      "title": "단독판매[창원(진해)] 2026 라이브 가족뮤지컬 [호두까기인형] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.11(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18479",
+      "site": "yes24",
+      "crawled_at": "2026-09-10T13:27:54.165604"
+    },
+    {
+      "id": "18478",
+      "title": "단독판매DJMAX MIRACLE 2026 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.21(월) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18478",
+      "site": "yes24",
+      "crawled_at": "2026-09-10T13:27:54.165604"
+    },
+    {
+      "id": "18477",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 전주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.15(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18477",
+      "site": "yes24",
+      "crawled_at": "2026-09-10T13:27:54.165604"
+    },
     {
       "id": "18476",
       "title": "청년문화예술패스 홈페이지 및 결제 시스템 중단 안내",
