@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18479",
-  "last_crawled_at": "2026-09-10T13:27:54.167244",
+  "flag_id": "18486",
+  "last_crawled_at": "2026-09-11T04:22:23.795579",
   "items": [
+    {
+      "id": "18486",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (수원) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.16(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18486",
+      "site": "yes24",
+      "crawled_at": "2026-09-11T04:22:23.793978"
+    },
+    {
+      "id": "18484",
+      "title": "[창원] 2026 김수희 전국투어 콘서트：우리 다시, 김수희 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.16(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18484",
+      "site": "yes24",
+      "crawled_at": "2026-09-11T04:22:23.793978"
+    },
+    {
+      "id": "18481",
+      "title": "단독판매김건모. 35TH ANNIVERSARY LIVE TOUR - 고양 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18481",
+      "site": "yes24",
+      "crawled_at": "2026-09-11T04:22:23.793978"
+    },
     {
       "id": "18479",
       "title": "단독판매[창원(진해)] 2026 라이브 가족뮤지컬 [호두까기인형] 티켓오픈 안내",
