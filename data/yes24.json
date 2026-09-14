@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18491",
-  "last_crawled_at": "2026-09-11T13:24:51.577392",
+  "flag_id": "18503",
+  "last_crawled_at": "2026-09-14T04:40:35.455916",
   "items": [
+    {
+      "id": "18503",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 군산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18503",
+      "site": "yes24",
+      "crawled_at": "2026-09-14T04:40:35.454168"
+    },
+    {
+      "id": "18500",
+      "title": "단독판매[평택] 2026 제작공연 시리즈 名作 4. 오페라 1970 [정미소 연가] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.18(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18500",
+      "site": "yes24",
+      "crawled_at": "2026-09-14T04:40:35.454168"
+    },
+    {
+      "id": "18499",
+      "title": "단독판매[전남광주통합특별시립국악관현악단] 제150회 정기연주회 ‘전통의 시간을 잇는 선율’ 티켓 오..",
+      "place": "",
+      "open_time": "2026.09.16(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18499",
+      "site": "yes24",
+      "crawled_at": "2026-09-14T04:40:35.454168"
+    },
+    {
+      "id": "18498",
+      "title": "연극 〈알테르 에고 Alter Ego(s)〉 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.18(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18498",
+      "site": "yes24",
+      "crawled_at": "2026-09-14T04:40:35.454168"
+    },
     {
       "id": "18491",
       "title": "케이팝 뮤지컬 [조선 마법사관 진준] 티켓오픈 안내",
