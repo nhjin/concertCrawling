@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18515",
-  "last_crawled_at": "2026-09-15T04:41:28.284766",
+  "flag_id": "18522",
+  "last_crawled_at": "2026-09-15T14:14:55.727611",
   "items": [
+    {
+      "id": "18522",
+      "title": "단독판매Mulasaki Ima ONE MAN TOUR 2026『PURPLE SHELTER -ep.1- EXTRA』in Seoul 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.23(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18522",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
+    {
+      "id": "18521",
+      "title": "2026 [국클음악회] 국악과 클래식이 만나는 음악여행 - 북아현아트홀 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.29(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18521",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
+    {
+      "id": "18519",
+      "title": "단독판매[전남광주통합특별시립교향악단] 411회 정기연주회 ‘Nordic Echo’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.16(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18519",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
+    {
+      "id": "18518",
+      "title": "단독판매[대구] 스테이지 네임 비투비 (Stage Name BTOB) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.30(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18518",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
+    {
+      "id": "18517",
+      "title": "[안산] 연극 [헌법의 순간] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18517",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
+    {
+      "id": "18516",
+      "title": "정동환의 어쿠스틱 룸 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.17(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18516",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T14:14:55.726530"
+    },
     {
       "id": "18515",
       "title": "[의정부] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
