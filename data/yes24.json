@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18509",
-  "last_crawled_at": "2026-09-14T15:48:01.077449",
+  "flag_id": "18515",
+  "last_crawled_at": "2026-09-15T04:41:28.284766",
   "items": [
+    {
+      "id": "18515",
+      "title": "[의정부] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.16(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18515",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T04:41:28.283600"
+    },
+    {
+      "id": "18514",
+      "title": "단독판매[전남광주통합특별시립발레단] 창단 50주년 기념 제143회 정기공연 [라 실피드] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.22(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18514",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T04:41:28.283600"
+    },
+    {
+      "id": "18513",
+      "title": "단독판매제1302회 서초금요음악회 [쇼(Show) & 보이스(Voice)] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.18(금) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18513",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T04:41:28.283600"
+    },
+    {
+      "id": "18511",
+      "title": "[목포] 조항조 전국투어 콘서트：생각 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.18(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18511",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T04:41:28.283600"
+    },
+    {
+      "id": "18510",
+      "title": "[목포] 2026 진성 단독 토크콘서트 ＂진성쑈＂ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.22(화) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18510",
+      "site": "yes24",
+      "crawled_at": "2026-09-15T04:41:28.283600"
+    },
     {
       "id": "18509",
       "title": "[대전] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내",
