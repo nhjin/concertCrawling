@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18542",
-  "last_crawled_at": "2026-09-17T14:12:27.232901",
+  "flag_id": "18547",
+  "last_crawled_at": "2026-09-18T04:26:42.993144",
   "items": [
+    {
+      "id": "18547",
+      "title": "단독판매뮤지컬 <민들레 피리> - 부산 공연 티켓오픈",
+      "place": "",
+      "open_time": "2026.09.23(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18547",
+      "site": "yes24",
+      "crawled_at": "2026-09-18T04:26:42.991504"
+    },
+    {
+      "id": "18546",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 울산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.23(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18546",
+      "site": "yes24",
+      "crawled_at": "2026-09-18T04:26:42.991504"
+    },
+    {
+      "id": "18545",
+      "title": "단독판매[창원] 뮤직페스티벌창원2026 - 창원의 선율, 10년의 울림 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.09.22(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18545",
+      "site": "yes24",
+      "crawled_at": "2026-09-18T04:26:42.991504"
+    },
+    {
+      "id": "18543",
+      "title": "서울시극단 연극 〈에너미〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.22(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18543",
+      "site": "yes24",
+      "crawled_at": "2026-09-18T04:26:42.991504"
+    },
     {
       "id": "18542",
       "title": "단독판매[수원] 2026 크리스마스 뮤지컬 [메리크리스마스 산타할아버지] 티켓오픈 안내",
