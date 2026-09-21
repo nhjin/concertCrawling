@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18555",
-  "last_crawled_at": "2026-09-21T04:40:48.636502",
+  "flag_id": "18556",
+  "last_crawled_at": "2026-09-21T15:47:00.932489",
   "items": [
+    {
+      "id": "18556",
+      "title": "[이천] 2026 빅3 “행복한 만남”- 강진, 김용임, 진성 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.09.29(화) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18556",
+      "site": "yes24",
+      "crawled_at": "2026-09-21T15:47:00.930890"
+    },
     {
       "id": "18555",
       "title": "단독판매연극 〈스타크로스드〉 2차 티켓오픈 안내",
