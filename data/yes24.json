@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18573",
-  "last_crawled_at": "2026-09-23T04:32:59.950692",
+  "flag_id": "18576",
+  "last_crawled_at": "2026-09-23T14:09:19.217842",
   "items": [
+    {
+      "id": "18576",
+      "title": "뮤지컬 [엠. 버터플라이] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18576",
+      "site": "yes24",
+      "crawled_at": "2026-09-23T14:09:19.216152"
+    },
+    {
+      "id": "18575",
+      "title": "[울산] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.28(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18575",
+      "site": "yes24",
+      "crawled_at": "2026-09-23T14:09:19.216152"
+    },
+    {
+      "id": "18574",
+      "title": "뮤지컬 [드림하이 시즌3 : 리부트] 4차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.30(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18574",
+      "site": "yes24",
+      "crawled_at": "2026-09-23T14:09:19.216152"
+    },
     {
       "id": "18573",
       "title": "단독판매[부산] 2026 크리스마스 뮤지컬 [메리크리스마스 산타할아버지] 티켓오픈 안내",
