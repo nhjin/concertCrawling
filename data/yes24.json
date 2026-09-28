@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18584",
-  "last_crawled_at": "2026-09-28T05:08:50.235934",
+  "flag_id": "18588",
+  "last_crawled_at": "2026-09-28T17:30:04.810769",
   "items": [
+    {
+      "id": "18588",
+      "title": "[인천] 2026 크리스마스 뮤지컬 [루돌프와 산타클로스] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.09.29(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18588",
+      "site": "yes24",
+      "crawled_at": "2026-09-28T17:30:04.809155"
+    },
+    {
+      "id": "18587",
+      "title": "2026 Film Take : 上淵展 ‘ 상연전(역)’ 공연장 변경 및 재예매 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "변경/취소",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18587",
+      "site": "yes24",
+      "crawled_at": "2026-09-28T17:30:04.809155"
+    },
+    {
+      "id": "18586",
+      "title": "세종문화회관 시스템 점검 안내(9/28)",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18586",
+      "site": "yes24",
+      "crawled_at": "2026-09-28T17:30:04.809155"
+    },
+    {
+      "id": "18585",
+      "title": "뮤지컬 <아나키스트> 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18585",
+      "site": "yes24",
+      "crawled_at": "2026-09-28T17:30:04.809155"
+    },
     {
       "id": "18584",
       "title": "[하남] 2026 연극 〈친정엄마와 2박3일〉 티켓오픈 안내",
