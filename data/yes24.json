@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18588",
-  "last_crawled_at": "2026-09-28T17:30:04.810769",
+  "flag_id": "18589",
+  "last_crawled_at": "2026-09-29T05:32:05.939592",
   "items": [
+    {
+      "id": "18589",
+      "title": "[비지정석] 2026 김장훈 전국투어 콘서트 : 원맨쇼 - 강릉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18589",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T05:32:05.938181"
+    },
     {
       "id": "18588",
       "title": "[인천] 2026 크리스마스 뮤지컬 [루돌프와 산타클로스] 티켓오픈 안내",
