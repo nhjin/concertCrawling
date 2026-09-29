@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18589",
-  "last_crawled_at": "2026-09-29T05:32:05.939592",
+  "flag_id": "18594",
+  "last_crawled_at": "2026-09-29T15:33:27.419532",
   "items": [
+    {
+      "id": "18594",
+      "title": "[용인] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18594",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T15:33:27.417967"
+    },
+    {
+      "id": "18593",
+      "title": "단독판매2026 HAHA FAN CONCERT - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18593",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T15:33:27.417967"
+    },
+    {
+      "id": "18592",
+      "title": "단독판매2026 HAHA FAN CONCERT - 전주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18592",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T15:33:27.417967"
+    },
+    {
+      "id": "18591",
+      "title": "2026 유키 구라모토 콘서트 Peacefully - 대구 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18591",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T15:33:27.417967"
+    },
+    {
+      "id": "18590",
+      "title": "2026 유키 구라모토 콘서트 Peacefully - 김해 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18590",
+      "site": "yes24",
+      "crawled_at": "2026-09-29T15:33:27.417967"
+    },
     {
       "id": "18589",
       "title": "[비지정석] 2026 김장훈 전국투어 콘서트 : 원맨쇼 - 강릉 티켓 오픈 안내",
