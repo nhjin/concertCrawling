@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18594",
-  "last_crawled_at": "2026-09-29T15:33:27.419532",
+  "flag_id": "18600",
+  "last_crawled_at": "2026-09-30T05:20:26.469991",
   "items": [
+    {
+      "id": "18600",
+      "title": "[식스 더 뮤지컬(SIX THE MUSICAL)] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.06(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18600",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
+    {
+      "id": "18599",
+      "title": "GHOSTIVAL 2026 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.06(화) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18599",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
+    {
+      "id": "18598",
+      "title": "[부산] [상시관람] 진격의 거인展 FINAL 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18598",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
+    {
+      "id": "18597",
+      "title": "[부산] [회차 관람] 진격의 거인展 FINAL 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.06(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18597",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
+    {
+      "id": "18596",
+      "title": "연극 〈클로저〉 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.13(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18596",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
+    {
+      "id": "18595",
+      "title": "단독판매2026 Film Take : 上淵展 ‘ 상연전（역）’ 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.09.30(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18595",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T05:20:26.468385"
+    },
     {
       "id": "18594",
       "title": "[용인] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대] 티켓오픈 안내",
