@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18600",
-  "last_crawled_at": "2026-09-30T05:20:26.469991",
+  "flag_id": "18605",
+  "last_crawled_at": "2026-09-30T15:46:30.221790",
   "items": [
+    {
+      "id": "18605",
+      "title": "2026 V.O.S 전국투어 콘서트 〈동창회〉 - 광주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.06(화) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18605",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T15:46:30.220653"
+    },
+    {
+      "id": "18604",
+      "title": "단독판매[울산] 2026 크리스마스 가족버블쇼 [버블J의 스노우버블쇼] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18604",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T15:46:30.220653"
+    },
+    {
+      "id": "18603",
+      "title": "단독판매ALL EYES -in Seoul- 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18603",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T15:46:30.220653"
+    },
+    {
+      "id": "18602",
+      "title": "단독판매수요상설 onStage〈Voy a Buena  - 탱고와 함께 걷는 부에노스아이레스의 시간들〉- 부산 티켓오..",
+      "place": "",
+      "open_time": "2026.10.06(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18602",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T15:46:30.220653"
+    },
+    {
+      "id": "18601",
+      "title": "단독판매[부산] 2026 크리스마스 뮤지컬 [루돌프와 산타클로스] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.01(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18601",
+      "site": "yes24",
+      "crawled_at": "2026-09-30T15:46:30.220653"
+    },
     {
       "id": "18600",
       "title": "[식스 더 뮤지컬(SIX THE MUSICAL)] 1차 티켓오픈 안내",
