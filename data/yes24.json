@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18609",
-  "last_crawled_at": "2026-10-01T05:35:28.565285",
+  "flag_id": "18614",
+  "last_crawled_at": "2026-10-01T16:11:28.639666",
   "items": [
+    {
+      "id": "18614",
+      "title": "[세종(조치원)] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18614",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T16:11:28.638434"
+    },
+    {
+      "id": "18613",
+      "title": "2026 V.O.S 전국투어 콘서트 \" 제 2회 동창회 \" - 청주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18613",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T16:11:28.638434"
+    },
+    {
+      "id": "18612",
+      "title": "[서울] 2026 크리스마스 뮤지컬 [산타와 루돌프] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.02(금) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18612",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T16:11:28.638434"
+    },
+    {
+      "id": "18611",
+      "title": "2026 AILEE BAND CONCERT ‘I AM : WE ARE’ in DAEJEON 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.23(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18611",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T16:11:28.638434"
+    },
+    {
+      "id": "18610",
+      "title": "2026 AILEE BAND CONCERT ‘I AM : WE ARE’ in DAEGU 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.20(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18610",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T16:11:28.638434"
+    },
     {
       "id": "18609",
       "title": "뮤지컬 [잔혹동화 생존기] 마지막 티켓오픈 안내",
