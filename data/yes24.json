@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18605",
-  "last_crawled_at": "2026-09-30T15:46:30.221790",
+  "flag_id": "18609",
+  "last_crawled_at": "2026-10-01T05:35:28.565285",
   "items": [
+    {
+      "id": "18609",
+      "title": "뮤지컬 [잔혹동화 생존기] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.08(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18609",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T05:35:28.564017"
+    },
+    {
+      "id": "18608",
+      "title": "2026 서초문화원 [시詩와 아리아] 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.21(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18608",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T05:35:28.564017"
+    },
+    {
+      "id": "18607",
+      "title": "단독판매조장혁 30주년 소극장 투어 콘서트 〈ARCHIVE 30〉 - 서울 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.06(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18607",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T05:35:28.564017"
+    },
+    {
+      "id": "18606",
+      "title": "단독판매2026 ERIC 1st Fanmeeting ‘꽃보다 손영재’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.13(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18606",
+      "site": "yes24",
+      "crawled_at": "2026-10-01T05:35:28.564017"
+    },
     {
       "id": "18605",
       "title": "2026 V.O.S 전국투어 콘서트 〈동창회〉 - 광주 티켓 오픈 안내",
