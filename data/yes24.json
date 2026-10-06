@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18627",
-  "last_crawled_at": "2026-10-05T05:21:37.134125",
+  "flag_id": "18633",
+  "last_crawled_at": "2026-10-06T06:04:56.996193",
   "items": [
+    {
+      "id": "18633",
+      "title": "단독판매2026 김동하 Stand up Comedy Tour 〈Life Goes On〉 - 서울 : 2026 Mapo Winter Edition  티켓 ..",
+      "place": "",
+      "open_time": "2026.10.08(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18633",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
+    {
+      "id": "18632",
+      "title": "단독판매[전남광주통합특별시립교향악단] GSO 체임버 시리즈 VII ‘Souvenir’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18632",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
+    {
+      "id": "18631",
+      "title": "단독판매2026 뮤지컬 <미드나잇 : 앤틀러스> 혜공 전관 - 그래이공 DAY 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.08(목) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18631",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
+    {
+      "id": "18630",
+      "title": "단독판매2026 MBC 대학가요제 ‘나의 드라마’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.07(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18630",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
+    {
+      "id": "18629",
+      "title": "단독판매2026 OH MY GIRL FANMEETING [CODE NAME: OMG] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18629",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
+    {
+      "id": "18628",
+      "title": "단독판매kimseungjoo VC//VRS club tour ENCORE : SIHEUNG - ume (reprise) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.08(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18628",
+      "site": "yes24",
+      "crawled_at": "2026-10-06T06:04:56.994583"
+    },
     {
       "id": "18627",
       "title": "단독판매〈불꽃야구2〉2026시즌 열일곱 번째 직관 티켓오픈안내",
