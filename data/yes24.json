@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18640",
-  "last_crawled_at": "2026-10-06T15:46:56.587873",
+  "flag_id": "18645",
+  "last_crawled_at": "2026-10-07T05:40:30.726925",
   "items": [
+    {
+      "id": "18645",
+      "title": "뮤지컬 [연의 편지] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.13(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18645",
+      "site": "yes24",
+      "crawled_at": "2026-10-07T05:40:30.725746"
+    },
+    {
+      "id": "18643",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 대전 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.13(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18643",
+      "site": "yes24",
+      "crawled_at": "2026-10-07T05:40:30.725746"
+    },
+    {
+      "id": "18642",
+      "title": "SJF at the Theater 2026 - 백예린X윤석철 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18642",
+      "site": "yes24",
+      "crawled_at": "2026-10-07T05:40:30.725746"
+    },
+    {
+      "id": "18641",
+      "title": "뮤지컬 [렛미플라이] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18641",
+      "site": "yes24",
+      "crawled_at": "2026-10-07T05:40:30.725746"
+    },
     {
       "id": "18640",
       "title": "[대구] 2026 크리스마스 가족매직쇼 [버블S의 스노우버블쇼] 티켓오픈 안내",
