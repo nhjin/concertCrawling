@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18660",
-  "last_crawled_at": "2026-10-08T05:48:51.299572",
+  "flag_id": "18663",
+  "last_crawled_at": "2026-10-08T16:14:25.822418",
   "items": [
+    {
+      "id": "18663",
+      "title": "단독판매2026 이찬원 콘서트 <찬스 감사제 : 함께여서 찬란했습니다> 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18663",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T16:14:25.820981"
+    },
+    {
+      "id": "18662",
+      "title": "피지컬씨어터 〈네이처 오브 포겟팅〉 : 연극열전10_열 번째 작품 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18662",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T16:14:25.820981"
+    },
     {
       "id": "18660",
       "title": "성동 미니어처 오페라 [유쾌한 미망인] 티켓오픈안내",
