@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18652",
-  "last_crawled_at": "2026-10-07T16:13:32.860472",
+  "flag_id": "18660",
+  "last_crawled_at": "2026-10-08T05:48:51.299572",
   "items": [
+    {
+      "id": "18660",
+      "title": "성동 미니어처 오페라 [유쾌한 미망인] 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18660",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T05:48:51.298096"
+    },
+    {
+      "id": "18658",
+      "title": "뮤지컬 [마하고니] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18658",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T05:48:51.298096"
+    },
+    {
+      "id": "18655",
+      "title": "단독판매뮤지컬 [엘리자벳] - YES24DAY 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18655",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T05:48:51.298096"
+    },
+    {
+      "id": "18654",
+      "title": "[칠곡] 김시라의 품바 : Original 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.16(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18654",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T05:48:51.298096"
+    },
+    {
+      "id": "18653",
+      "title": "단독판매Hi-Fi Un!corn 2026 LIVE HOUSE TOUR Ⅱ IN SEOUL -TELESCOPE- 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.16(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18653",
+      "site": "yes24",
+      "crawled_at": "2026-10-08T05:48:51.298096"
+    },
     {
       "id": "18652",
       "title": "단독판매[부산] 2026 라이브 가족뮤지컬 [프린세스공주] 티켓오픈 안내",
