@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18663",
-  "last_crawled_at": "2026-10-08T16:14:25.822418",
+  "flag_id": "18668",
+  "last_crawled_at": "2026-10-12T05:42:20.784743",
   "items": [
+    {
+      "id": "18668",
+      "title": "뮤지컬 [두 도시 이야기] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.16(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18668",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T05:42:20.783560"
+    },
+    {
+      "id": "18667",
+      "title": "연극 〈알테르 에고 Alter Ego(s)〉 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.16(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18667",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T05:42:20.783560"
+    },
+    {
+      "id": "18666",
+      "title": "[창원] 꿈의 오케스트라-창원 제15회 정기연주회 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.20(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18666",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T05:42:20.783560"
+    },
+    {
+      "id": "18665",
+      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉 - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18665",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T05:42:20.783560"
+    },
+    {
+      "id": "18664",
+      "title": "I AM KORESAWA vol.1 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.22(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18664",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T05:42:20.783560"
+    },
     {
       "id": "18663",
       "title": "단독판매2026 이찬원 콘서트 <찬스 감사제 : 함께여서 찬란했습니다> 티켓오픈 안내",
