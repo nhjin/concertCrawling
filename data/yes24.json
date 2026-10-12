@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18668",
-  "last_crawled_at": "2026-10-12T05:42:20.784743",
+  "flag_id": "18672",
+  "last_crawled_at": "2026-10-12T18:47:50.923745",
   "items": [
+    {
+      "id": "18672",
+      "title": "단독판매Jang Wooyoung Concert 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.19(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18672",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T18:47:50.922550"
+    },
+    {
+      "id": "18671",
+      "title": "K창작오페라 경성흥신소 : 절영도（絶影島）, 사라진 그림자를 찾아라! - 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18671",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T18:47:50.922550"
+    },
+    {
+      "id": "18670",
+      "title": "웅산 데뷔 30주년 콘서트 : Here’s To Life 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18670",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T18:47:50.922550"
+    },
+    {
+      "id": "18669",
+      "title": "2027 박상민 전국투어 콘서트 : GENTLEMAN - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18669",
+      "site": "yes24",
+      "crawled_at": "2026-10-12T18:47:50.922550"
+    },
     {
       "id": "18668",
       "title": "뮤지컬 [두 도시 이야기] 2차 티켓오픈 안내",
