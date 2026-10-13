@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18672",
-  "last_crawled_at": "2026-10-12T18:47:50.923745",
+  "flag_id": "18675",
+  "last_crawled_at": "2026-10-13T06:37:47.437907",
   "items": [
+    {
+      "id": "18675",
+      "title": "2026 임한별의 연말 콘서트 〈크리스마스타(A Christmas’ Star)〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.16(금) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18675",
+      "site": "yes24",
+      "crawled_at": "2026-10-13T06:37:47.436679"
+    },
+    {
+      "id": "18674",
+      "title": "단독판매[대구] 2026 장윤정 라이브 콘서트 [THE MASTER] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18674",
+      "site": "yes24",
+      "crawled_at": "2026-10-13T06:37:47.436679"
+    },
+    {
+      "id": "18673",
+      "title": "단독판매[대구] 2026 조항조 연말 콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18673",
+      "site": "yes24",
+      "crawled_at": "2026-10-13T06:37:47.436679"
+    },
     {
       "id": "18672",
       "title": "단독판매Jang Wooyoung Concert 티켓오픈안내",
