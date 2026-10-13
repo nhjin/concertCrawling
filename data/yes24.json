@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18675",
-  "last_crawled_at": "2026-10-13T06:37:47.437907",
+  "flag_id": "18676",
+  "last_crawled_at": "2026-10-13T16:48:57.236031",
   "items": [
+    {
+      "id": "18676",
+      "title": "[부산] 2026 김경호 전국투어 콘서트 : 발라드를 위한 時 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18676",
+      "site": "yes24",
+      "crawled_at": "2026-10-13T16:48:57.234373"
+    },
     {
       "id": "18675",
       "title": "2026 임한별의 연말 콘서트 〈크리스마스타(A Christmas’ Star)〉 티켓 오픈 안내",
