@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18676",
-  "last_crawled_at": "2026-10-13T16:48:57.236031",
+  "flag_id": "18681",
+  "last_crawled_at": "2026-10-14T04:39:15.943189",
   "items": [
+    {
+      "id": "18681",
+      "title": "뮤지컬 [앨런 튜링] 프리뷰 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.20(화) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18681",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T04:39:15.942508"
+    },
+    {
+      "id": "18680",
+      "title": "단독판매뮤지컬 [우리가 사랑을 쓰던 날] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.14(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18680",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T04:39:15.942508"
+    },
+    {
+      "id": "18679",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (광주) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.19(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18679",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T04:39:15.942508"
+    },
+    {
+      "id": "18678",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (서울) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.19(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18678",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T04:39:15.942508"
+    },
+    {
+      "id": "18677",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다 (성남) 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.19(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18677",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T04:39:15.942508"
+    },
     {
       "id": "18676",
       "title": "[부산] 2026 김경호 전국투어 콘서트 : 발라드를 위한 時 티켓 오픈 안내",
