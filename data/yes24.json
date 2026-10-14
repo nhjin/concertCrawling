@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18681",
-  "last_crawled_at": "2026-10-14T04:39:15.943189",
+  "flag_id": "18686",
+  "last_crawled_at": "2026-10-14T14:25:04.111469",
   "items": [
+    {
+      "id": "18686",
+      "title": "청년문화예술패스 홈페이지 및 결제 시스템 중단 작업 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18686",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T14:25:04.110073"
+    },
+    {
+      "id": "18685",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열 여덟 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.21(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18685",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T14:25:04.110073"
+    },
+    {
+      "id": "18684",
+      "title": "단독판매임형주와 함께하는 K팝페라 페스티벌 in 용산 - K팝페라 갈라콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18684",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T14:25:04.110073"
+    },
+    {
+      "id": "18683",
+      "title": "단독판매이탈리아 만토바 체임버 오케스트라 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.15(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18683",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T14:25:04.110073"
+    },
+    {
+      "id": "18682",
+      "title": "2026 주현미 크리스마스 디너쇼 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.21(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18682",
+      "site": "yes24",
+      "crawled_at": "2026-10-14T14:25:04.110073"
+    },
     {
       "id": "18681",
       "title": "뮤지컬 [앨런 튜링] 프리뷰 티켓오픈 안내",
