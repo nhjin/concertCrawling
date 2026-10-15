@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18686",
-  "last_crawled_at": "2026-10-14T14:25:04.111469",
+  "flag_id": "18687",
+  "last_crawled_at": "2026-10-15T04:21:53.094480",
   "items": [
+    {
+      "id": "18687",
+      "title": "2026 난타 크리스마스 특별 부산 공연 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.20(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18687",
+      "site": "yes24",
+      "crawled_at": "2026-10-15T04:21:53.093268"
+    },
     {
       "id": "18686",
       "title": "청년문화예술패스 홈페이지 및 결제 시스템 중단 작업 안내",
