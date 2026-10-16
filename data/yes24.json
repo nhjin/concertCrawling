@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18695",
-  "last_crawled_at": "2026-10-15T14:02:57.595612",
+  "flag_id": "18699",
+  "last_crawled_at": "2026-10-16T04:17:02.520522",
   "items": [
+    {
+      "id": "18699",
+      "title": "[안양] 2026 진성 단독 토크콘서트 ＂진성쑈＂ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.27(화) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18699",
+      "site": "yes24",
+      "crawled_at": "2026-10-16T04:17:02.519197"
+    },
+    {
+      "id": "18698",
+      "title": "연극 〈스타크로스드〉3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.20(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18698",
+      "site": "yes24",
+      "crawled_at": "2026-10-16T04:17:02.519197"
+    },
+    {
+      "id": "18697",
+      "title": "단독판매김건모. 35TH ANNIVERSARY LIVE TOUR - 대전 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.22(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18697",
+      "site": "yes24",
+      "crawled_at": "2026-10-16T04:17:02.519197"
+    },
+    {
+      "id": "18696",
+      "title": "2026 V.O.S 전국투어 콘서트 “ 제 2회 동창회 ” - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.21(수) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18696",
+      "site": "yes24",
+      "crawled_at": "2026-10-16T04:17:02.519197"
+    },
     {
       "id": "18695",
       "title": "단독판매THE NERDCONNECTION 2026 티켓 오픈 안내",
