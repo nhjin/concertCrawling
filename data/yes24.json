@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18708",
-  "last_crawled_at": "2026-10-19T04:24:03.775653",
+  "flag_id": "18712",
+  "last_crawled_at": "2026-10-19T16:19:58.971441",
   "items": [
+    {
+      "id": "18712",
+      "title": "디즈니 인 콘서트 〈Beyond the Magic〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.22(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18712",
+      "site": "yes24",
+      "crawled_at": "2026-10-19T16:19:58.970134"
+    },
+    {
+      "id": "18711",
+      "title": "단독판매[전남광주통합특별시립교향악단] 제412회 정기연주회 [SAGA] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.21(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18711",
+      "site": "yes24",
+      "crawled_at": "2026-10-19T16:19:58.970134"
+    },
+    {
+      "id": "18710",
+      "title": "[동대문] 킹스타운 뮤직페스티벌 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.23(금) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18710",
+      "site": "yes24",
+      "crawled_at": "2026-10-19T16:19:58.970134"
+    },
+    {
+      "id": "18709",
+      "title": "단독판매2026 CHANYEOL B-day PARTY [B-side] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.27(화) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18709",
+      "site": "yes24",
+      "crawled_at": "2026-10-19T16:19:58.970134"
+    },
     {
       "id": "18708",
       "title": "뮤지컬 <겨울왕국> 한국 초연 - 12월 연말공연 티켓오픈 안내",
