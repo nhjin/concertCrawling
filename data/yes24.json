@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18706",
-  "last_crawled_at": "2026-10-16T13:51:16.412098",
+  "flag_id": "18708",
+  "last_crawled_at": "2026-10-19T04:24:03.775653",
   "items": [
+    {
+      "id": "18708",
+      "title": "뮤지컬 <겨울왕국> 한국 초연 - 12월 연말공연 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18708",
+      "site": "yes24",
+      "crawled_at": "2026-10-19T04:24:03.774479"
+    },
     {
       "id": "18706",
       "title": "라이너호넥 ＆ 윤홍천 듀오 리사이틀 티켓오픈 안내",
