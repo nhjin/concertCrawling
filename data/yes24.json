@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18714",
-  "last_crawled_at": "2026-10-20T04:34:49.916190",
+  "flag_id": "18718",
+  "last_crawled_at": "2026-10-20T14:12:21.644369",
   "items": [
+    {
+      "id": "18718",
+      "title": "SIMON DOMINIC 1ST CONCERT 〈SIMON SAYS〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18718",
+      "site": "yes24",
+      "crawled_at": "2026-10-20T14:12:21.642675"
+    },
+    {
+      "id": "18716",
+      "title": "단독판매[부산] 수요상설 onStage [온도상승주의보] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.23(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18716",
+      "site": "yes24",
+      "crawled_at": "2026-10-20T14:12:21.642675"
+    },
+    {
+      "id": "18715",
+      "title": "2026 조수미 세계무대 데뷔 40주년 기념공연 [Continuum] - 광주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.22(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18715",
+      "site": "yes24",
+      "crawled_at": "2026-10-20T14:12:21.642675"
+    },
     {
       "id": "18714",
       "title": "현대자동차그룹과 함께하는 백건우와 영 프렌즈 티켓 오픈 안내",
