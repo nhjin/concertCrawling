@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18720",
-  "last_crawled_at": "2026-10-21T04:27:09.768738",
+  "flag_id": "18724",
+  "last_crawled_at": "2026-10-21T14:24:35.112698",
   "items": [
+    {
+      "id": "18724",
+      "title": "단독판매HIPHOPPLAYA SHOW VOL.65 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.22(목) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18724",
+      "site": "yes24",
+      "crawled_at": "2026-10-21T14:24:35.111040"
+    },
+    {
+      "id": "18723",
+      "title": "크리스마스 재즈 나잇: 브로드웨이 to 할리우드 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.27(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18723",
+      "site": "yes24",
+      "crawled_at": "2026-10-21T14:24:35.111040"
+    },
+    {
+      "id": "18722",
+      "title": "연극 〈인트라 무로스〉 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 13:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18722",
+      "site": "yes24",
+      "crawled_at": "2026-10-21T14:24:35.111040"
+    },
     {
       "id": "18720",
       "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (부산) 티켓 오픈 안내",
