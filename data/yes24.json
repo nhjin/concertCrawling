@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18724",
-  "last_crawled_at": "2026-10-21T14:24:35.112698",
+  "flag_id": "18729",
+  "last_crawled_at": "2026-10-22T04:25:54.979438",
   "items": [
+    {
+      "id": "18729",
+      "title": "시스템 점검으로 인한 서비스 일시 중지 안내(10/25)",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18729",
+      "site": "yes24",
+      "crawled_at": "2026-10-22T04:25:54.977595"
+    },
     {
       "id": "18724",
       "title": "단독판매HIPHOPPLAYA SHOW VOL.65 티켓 오픈 안내",
