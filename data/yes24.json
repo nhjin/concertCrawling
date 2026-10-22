@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18729",
-  "last_crawled_at": "2026-10-22T04:25:54.979438",
+  "flag_id": "18733",
+  "last_crawled_at": "2026-10-22T14:26:03.197149",
   "items": [
+    {
+      "id": "18733",
+      "title": "썸띵 뉴 뮤직 페스티벌 2026 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.23(금) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18733",
+      "site": "yes24",
+      "crawled_at": "2026-10-22T14:26:03.195890"
+    },
+    {
+      "id": "18732",
+      "title": "단독판매off the menu : Soundwork II 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.26(월) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18732",
+      "site": "yes24",
+      "crawled_at": "2026-10-22T14:26:03.195890"
+    },
+    {
+      "id": "18731",
+      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.27(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18731",
+      "site": "yes24",
+      "crawled_at": "2026-10-22T14:26:03.195890"
+    },
+    {
+      "id": "18730",
+      "title": "연극 〈포쉬〉 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18730",
+      "site": "yes24",
+      "crawled_at": "2026-10-22T14:26:03.195890"
+    },
     {
       "id": "18729",
       "title": "시스템 점검으로 인한 서비스 일시 중지 안내(10/25)",
