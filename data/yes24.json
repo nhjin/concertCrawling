@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18737",
-  "last_crawled_at": "2026-10-23T04:31:04.148826",
+  "flag_id": "18740",
+  "last_crawled_at": "2026-10-23T14:08:30.291127",
   "items": [
+    {
+      "id": "18740",
+      "title": "뮤지컬 [윌리엄과 윌리엄의 윌리엄들] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18740",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T14:08:30.289853"
+    },
+    {
+      "id": "18739",
+      "title": "단독판매2026 이츠(IT’S) 단독공연 [영원 (01) / YOUNGONE (01)] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.26(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18739",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T14:08:30.289853"
+    },
+    {
+      "id": "18738",
+      "title": "단독판매꽃다지 콘서트 vol. 01 정혜윤 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.26(월) 09:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18738",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T14:08:30.289853"
+    },
     {
       "id": "18737",
       "title": "뮤지컬 [엠. 버터플라이] 마지막 티켓오픈 안내",
