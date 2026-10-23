@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18733",
-  "last_crawled_at": "2026-10-22T14:26:03.197149",
+  "flag_id": "18737",
+  "last_crawled_at": "2026-10-23T04:31:04.148826",
   "items": [
+    {
+      "id": "18737",
+      "title": "뮤지컬 [엠. 버터플라이] 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.30(금) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18737",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T04:31:04.147132"
+    },
+    {
+      "id": "18736",
+      "title": "단독판매[평택] 발레무용극 [미녀와 야수] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.30(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18736",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T04:31:04.147132"
+    },
+    {
+      "id": "18735",
+      "title": "단독판매김건모. 35TH ANNIVERSARY LIVE TOUR - 부산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18735",
+      "site": "yes24",
+      "crawled_at": "2026-10-23T04:31:04.147132"
+    },
     {
       "id": "18733",
       "title": "썸띵 뉴 뮤직 페스티벌 2026 티켓 오픈 안내",
