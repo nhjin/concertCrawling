@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18745",
-  "last_crawled_at": "2026-10-26T04:28:14.080691",
+  "flag_id": "18750",
+  "last_crawled_at": "2026-10-26T16:08:23.657589",
   "items": [
+    {
+      "id": "18750",
+      "title": "단독판매[MAN IN CHERRY] CHERRY BOY 17 6th 단독 콘서트 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.27(화) 18:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18750",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T16:08:23.656218"
+    },
+    {
+      "id": "18748",
+      "title": "[경기 안성] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.26(월) 16:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18748",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T16:08:23.656218"
+    },
+    {
+      "id": "18747",
+      "title": "산울림 편지콘서트 〈에릭사티와 벨 에포크의 예술가들〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18747",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T16:08:23.656218"
+    },
+    {
+      "id": "18746",
+      "title": "연극 〈타자기 치는 남자〉 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.28(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18746",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T16:08:23.656218"
+    },
     {
       "id": "18745",
       "title": "SJF at the Theater 2026 - 백예린X윤석철 티켓오픈 안내",
