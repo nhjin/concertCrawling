@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18740",
-  "last_crawled_at": "2026-10-23T14:08:30.291127",
+  "flag_id": "18745",
+  "last_crawled_at": "2026-10-26T04:28:14.080691",
   "items": [
+    {
+      "id": "18745",
+      "title": "SJF at the Theater 2026 - 백예린X윤석철 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18745",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T04:28:14.079064"
+    },
+    {
+      "id": "18744",
+      "title": "단독판매〈불꽃야구2〉2026시즌 열아홉 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.10.28(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18744",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T04:28:14.079064"
+    },
+    {
+      "id": "18743",
+      "title": "[성남] 조항조 전국투어 콘서트：생각 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18743",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T04:28:14.079064"
+    },
+    {
+      "id": "18742",
+      "title": "뮤지컬 <오페라의 유령> 40주년 스페셜 시즌-2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18742",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T04:28:14.079064"
+    },
+    {
+      "id": "18741",
+      "title": "연극 〈나와 할아버지〉 마지막 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.28(수) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18741",
+      "site": "yes24",
+      "crawled_at": "2026-10-26T04:28:14.079064"
+    },
     {
       "id": "18740",
       "title": "뮤지컬 [윌리엄과 윌리엄의 윌리엄들] 1차 티켓오픈 안내",
