@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18750",
-  "last_crawled_at": "2026-10-26T16:08:23.657589",
+  "flag_id": "18751",
+  "last_crawled_at": "2026-10-27T04:47:34.463243",
   "items": [
+    {
+      "id": "18751",
+      "title": "단독판매[부산] 뮤지컬 [기억을 두드리는 깡깡소리] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.10.29(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18751",
+      "site": "yes24",
+      "crawled_at": "2026-10-27T04:47:34.461457"
+    },
     {
       "id": "18750",
       "title": "단독판매[MAN IN CHERRY] CHERRY BOY 17 6th 단독 콘서트 티켓오픈 안내",
