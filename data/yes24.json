@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18760",
-  "last_crawled_at": "2026-10-28T05:21:38.608582",
+  "flag_id": "18764",
+  "last_crawled_at": "2026-10-28T15:49:41.679594",
   "items": [
+    {
+      "id": "18764",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 서울 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.02(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18764",
+      "site": "yes24",
+      "crawled_at": "2026-10-28T15:49:41.678211"
+    },
+    {
+      "id": "18763",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 서울앵콜 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.02(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18763",
+      "site": "yes24",
+      "crawled_at": "2026-10-28T15:49:41.678211"
+    },
+    {
+      "id": "18762",
+      "title": "뮤지컬 <단종, 1698> 낭독공연 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.02(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18762",
+      "site": "yes24",
+      "crawled_at": "2026-10-28T15:49:41.678211"
+    },
+    {
+      "id": "18761",
+      "title": "단독판매Rothy 2nd Concert: This Is My Home 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.10.30(금) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18761",
+      "site": "yes24",
+      "crawled_at": "2026-10-28T15:49:41.678211"
+    },
     {
       "id": "18760",
       "title": "뮤지컬 <풍월주> 프리뷰 티켓오픈 안내",
