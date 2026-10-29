@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18764",
-  "last_crawled_at": "2026-10-28T15:49:41.679594",
+  "flag_id": "18767",
+  "last_crawled_at": "2026-10-29T05:31:47.616821",
   "items": [
+    {
+      "id": "18767",
+      "title": "2026 김기태 연말 콘서트 : 2026 Mapo Winter Edition 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.03(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18767",
+      "site": "yes24",
+      "crawled_at": "2026-10-29T05:31:47.614951"
+    },
+    {
+      "id": "18766",
+      "title": "Cho Q May 「Starlight Map Tour」 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.11(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18766",
+      "site": "yes24",
+      "crawled_at": "2026-10-29T05:31:47.614951"
+    },
+    {
+      "id": "18765",
+      "title": "단독판매[전남광주통합특별시립교향악단] GSO 체임버 시리즈 VIII ‘Winter Romance’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 17:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18765",
+      "site": "yes24",
+      "crawled_at": "2026-10-29T05:31:47.614951"
+    },
     {
       "id": "18764",
       "title": "THE GREATEST: 전율 소향 X 김기태 - 서울 티켓 오픈 안내",
