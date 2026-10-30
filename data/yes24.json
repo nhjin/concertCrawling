@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18768",
-  "last_crawled_at": "2026-10-29T15:57:28.170706",
+  "flag_id": "18774",
+  "last_crawled_at": "2026-10-30T05:31:26.295795",
   "items": [
+    {
+      "id": "18774",
+      "title": "청년문화예술패스 홈페이지 및 결제 시스템 중단 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "서비스점검",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18774",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
+    {
+      "id": "18773",
+      "title": "연극 〈두 번째 아이〉 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.06(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18773",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
+    {
+      "id": "18772",
+      "title": "단독판매[안산] ASAC 콘서트 [주현미, 가요백년을 노래하다] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.10(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18772",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
+    {
+      "id": "18771",
+      "title": "뮤지컬 [렛미플라이] 4차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18771",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
+    {
+      "id": "18770",
+      "title": "[부산] 2026 김수희 전국투어 콘서트：우리 다시, 김수희 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.03(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18770",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
+    {
+      "id": "18769",
+      "title": "뮤지컬 [아가사 AGATHA] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18769",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T05:31:26.294397"
+    },
     {
       "id": "18768",
       "title": "[영천] 2026 김수희 전국투어 콘서트：우리 다시, 김수희 티켓 오픈 안내",
