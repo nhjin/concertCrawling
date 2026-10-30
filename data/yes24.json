@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18774",
-  "last_crawled_at": "2026-10-30T05:31:26.295795",
+  "flag_id": "18776",
+  "last_crawled_at": "2026-10-30T15:43:58.092036",
   "items": [
+    {
+      "id": "18776",
+      "title": "단독판매[김해] THE PLAYER Season 4 〈HYNN(박혜원) in 김해：White Night〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18776",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T15:43:58.090691"
+    },
+    {
+      "id": "18775",
+      "title": "[영천] 김시라의 품바 : Original 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.05(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18775",
+      "site": "yes24",
+      "crawled_at": "2026-10-30T15:43:58.090691"
+    },
     {
       "id": "18774",
       "title": "청년문화예술패스 홈페이지 및 결제 시스템 중단 안내",
