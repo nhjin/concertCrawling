@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18776",
-  "last_crawled_at": "2026-10-30T15:43:58.092036",
+  "flag_id": "18778",
+  "last_crawled_at": "2026-11-02T05:44:56.428935",
   "items": [
+    {
+      "id": "18778",
+      "title": "단독판매AxMxP CONCERT 〈Home Sweet Home〉 : 2026 MAPO Winter Edition  티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.09(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18778",
+      "site": "yes24",
+      "crawled_at": "2026-11-02T05:44:56.428001"
+    },
+    {
+      "id": "18777",
+      "title": "단독판매〈불꽃야구2〉2026시즌 스무 번째 직관 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.04(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18777",
+      "site": "yes24",
+      "crawled_at": "2026-11-02T05:44:56.428001"
+    },
     {
       "id": "18776",
       "title": "단독판매[김해] THE PLAYER Season 4 〈HYNN(박혜원) in 김해：White Night〉 티켓 오픈 안내",
