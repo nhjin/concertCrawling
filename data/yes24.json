@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18802",
-  "last_crawled_at": "2026-11-05T17:13:05.673790",
+  "flag_id": "18809",
+  "last_crawled_at": "2026-11-06T06:18:13.032675",
   "items": [
+    {
+      "id": "18809",
+      "title": "연극〈오픈 더 도어〉2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.13(금) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18809",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
+    {
+      "id": "18808",
+      "title": "단독판매[평택] 뮤지컬[빨래] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.10(화) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18808",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
+    {
+      "id": "18807",
+      "title": "단독판매[대전] 2027 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.09(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18807",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
+    {
+      "id": "18806",
+      "title": "단독판매DEVIL YOUTH CLUB MCND 2026 CONCERT IN SEOUL 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.16(월) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18806",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
+    {
+      "id": "18805",
+      "title": "뮤지컬 [두 도시 이야기] 3차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.13(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18805",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
+    {
+      "id": "18804",
+      "title": "단독판매다예쁜，다예뿐! - 뮤지컬배우 정다예 10주년 콘서트 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.09(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18804",
+      "site": "yes24",
+      "crawled_at": "2026-11-06T06:18:13.031176"
+    },
     {
       "id": "18802",
       "title": "연극 〈스타크로스드〉 마지막 티켓오픈 안내",
