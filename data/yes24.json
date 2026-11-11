@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18821",
-  "last_crawled_at": "2026-11-10T07:05:13.670562",
+  "flag_id": "18823",
+  "last_crawled_at": "2026-11-11T05:53:08.627402",
   "items": [
+    {
+      "id": "18823",
+      "title": "[청주] 2027 라이브 가족뮤지컬 [백설공주] 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.11(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18823",
+      "site": "yes24",
+      "crawled_at": "2026-11-11T05:53:08.626051"
+    },
+    {
+      "id": "18822",
+      "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 대전 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.16(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18822",
+      "site": "yes24",
+      "crawled_at": "2026-11-11T05:53:08.626051"
+    },
     {
       "id": "18821",
       "title": "[비지정석] 2026 김장훈 전국투어 콘서트 : 원맨쇼 - 고양 티켓 오픈 안내",
