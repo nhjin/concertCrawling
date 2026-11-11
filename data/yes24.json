@@ -1,8 +1,32 @@
 {
   "site": "yes24",
-  "flag_id": "18823",
-  "last_crawled_at": "2026-11-11T05:53:08.627402",
+  "flag_id": "18826",
+  "last_crawled_at": "2026-11-11T17:00:09.717236",
   "items": [
+    {
+      "id": "18826",
+      "title": "2026 V.O.S 전국투어 콘서트 ＂제 2회 동창회＂ - 대전 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.17(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18826",
+      "site": "yes24",
+      "crawled_at": "2026-11-11T17:00:09.715821"
+    },
+    {
+      "id": "18825",
+      "title": "단독판매2026 WAVE of ECLIPSE FANPORT 패키지 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.12(목) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18825",
+      "site": "yes24",
+      "crawled_at": "2026-11-11T17:00:09.715821"
+    },
     {
       "id": "18823",
       "title": "[청주] 2027 라이브 가족뮤지컬 [백설공주] 티켓오픈 안내",
