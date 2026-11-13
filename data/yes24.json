@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18844",
-  "last_crawled_at": "2026-11-13T06:21:04.243578",
+  "flag_id": "18845",
+  "last_crawled_at": "2026-11-13T17:02:12.881965",
   "items": [
+    {
+      "id": "18845",
+      "title": "2027 SUPER JUNIOR-D&E LIVE TOUR D&ESTIVAL: The 15/15 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.12.02(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18845",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T17:02:12.880367"
+    },
     {
       "id": "18844",
       "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 안산 티켓 오픈 안내",
