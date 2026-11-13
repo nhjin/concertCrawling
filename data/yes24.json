@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18838",
-  "last_crawled_at": "2026-11-12T17:27:28.565538",
+  "flag_id": "18844",
+  "last_crawled_at": "2026-11-13T06:21:04.243578",
   "items": [
+    {
+      "id": "18844",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 안산 티켓 오픈 안내",
+      "place": "",
+      "open_time": "추후공지",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18844",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
+    {
+      "id": "18843",
+      "title": "2027 이상우 전국투어 콘서트 : 청기백기 - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.17(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18843",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
+    {
+      "id": "18842",
+      "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 대구 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.18(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18842",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
+    {
+      "id": "18841",
+      "title": "My Boys Concert : Ash Island - BE’O - Gist - JAEHA 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.18(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18841",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
+    {
+      "id": "18840",
+      "title": "2027 신비한 샌드매직쇼 〈사라진 모래상자〉- 수원 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.18(수) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18840",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
+    {
+      "id": "18839",
+      "title": "좋은좌석뮤지컬 [나르치스와 골드문트] 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.18(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18839",
+      "site": "yes24",
+      "crawled_at": "2026-11-13T06:21:04.242298"
+    },
     {
       "id": "18838",
       "title": "뮤지컬 [앨런튜링] 1차 티켓오픈 안내",
