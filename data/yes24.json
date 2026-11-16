@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18845",
-  "last_crawled_at": "2026-11-13T17:02:12.881965",
+  "flag_id": "18851",
+  "last_crawled_at": "2026-11-16T06:05:56.987166",
   "items": [
+    {
+      "id": "18851",
+      "title": "크리스마스 발레 [호두까기 인형] 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.18(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18851",
+      "site": "yes24",
+      "crawled_at": "2026-11-16T06:05:56.985644"
+    },
+    {
+      "id": "18850",
+      "title": "뮤지컬 <오페라의 유령> 40주년 스페셜 시즌-프리뷰 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.20(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18850",
+      "site": "yes24",
+      "crawled_at": "2026-11-16T06:05:56.985644"
+    },
+    {
+      "id": "18848",
+      "title": "프랑스 뮤지컬 [로미오와 줄리엣] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.20(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18848",
+      "site": "yes24",
+      "crawled_at": "2026-11-16T06:05:56.985644"
+    },
+    {
+      "id": "18846",
+      "title": "뮤지컬 <겨울왕국> 한국 초연 - 종연시즌 1월 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18846",
+      "site": "yes24",
+      "crawled_at": "2026-11-16T06:05:56.985644"
+    },
     {
       "id": "18845",
       "title": "2027 SUPER JUNIOR-D&E LIVE TOUR D&ESTIVAL: The 15/15 티켓 오픈 안내",
