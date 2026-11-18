@@ -1,8 +1,44 @@
 {
   "site": "yes24",
-  "flag_id": "18862",
-  "last_crawled_at": "2026-11-17T07:42:02.516416",
+  "flag_id": "18865",
+  "last_crawled_at": "2026-11-18T07:05:34.861338",
   "items": [
+    {
+      "id": "18865",
+      "title": "[부산] 2026-2027 마이진 콘서트 〈ORIGIN〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18865",
+      "site": "yes24",
+      "crawled_at": "2026-11-18T07:05:34.859970"
+    },
+    {
+      "id": "18864",
+      "title": "[창원 3·15아트홀] 2027 [김선욱 베토벤 소나타 리사이틀] 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.26(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18864",
+      "site": "yes24",
+      "crawled_at": "2026-11-18T07:05:34.859970"
+    },
+    {
+      "id": "18863",
+      "title": "앵콜! 연극 〈꽃의 비밀〉 1차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.19(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18863",
+      "site": "yes24",
+      "crawled_at": "2026-11-18T07:05:34.859970"
+    },
     {
       "id": "18862",
       "title": "연극 〈인트라 무로스〉 3차 티켓오픈 안내",
