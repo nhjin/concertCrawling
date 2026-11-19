@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18867",
-  "last_crawled_at": "2026-11-18T17:53:39.042094",
+  "flag_id": "18871",
+  "last_crawled_at": "2026-11-19T07:09:03.197874",
   "items": [
+    {
+      "id": "18871",
+      "title": "영도에서 떠나는 예술여행 [미술과 오페라의 만남Ⅳ] - 부산 티콋오픈안내",
+      "place": "",
+      "open_time": "2026.11.23(월) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18871",
+      "site": "yes24",
+      "crawled_at": "2026-11-19T07:09:03.196551"
+    },
+    {
+      "id": "18870",
+      "title": "단독판매2026-27 장민호 전국투어 콘서트 ‘호시절：호(好)캉스’ 투어 일정 안내",
+      "place": "",
+      "open_time": "",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18870",
+      "site": "yes24",
+      "crawled_at": "2026-11-19T07:09:03.196551"
+    },
+    {
+      "id": "18869",
+      "title": "뮤지컬 [렛미플라이] 5차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18869",
+      "site": "yes24",
+      "crawled_at": "2026-11-19T07:09:03.196551"
+    },
+    {
+      "id": "18868",
+      "title": "단독판매[전남광주통합특별시립국악관현악단] 제153회 정기연주회 송년음악회 ‘선물’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.19(목) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18868",
+      "site": "yes24",
+      "crawled_at": "2026-11-19T07:09:03.196551"
+    },
     {
       "id": "18867",
       "title": "체리필터 연말 콘서트 〈COME TO THE CHERRYFILTER〉 : 2026 Mapo Winter Edition 티켓 오픈 안..",
