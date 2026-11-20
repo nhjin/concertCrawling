@@ -1,8 +1,56 @@
 {
   "site": "yes24",
-  "flag_id": "18871",
-  "last_crawled_at": "2026-11-19T07:09:03.197874",
+  "flag_id": "18875",
+  "last_crawled_at": "2026-11-20T06:57:03.022012",
   "items": [
+    {
+      "id": "18875",
+      "title": "단독판매[대전] 2027 라이브 가족뮤지컬 [빨간모자] 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.24(화) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18875",
+      "site": "yes24",
+      "crawled_at": "2026-11-20T06:57:03.020672"
+    },
+    {
+      "id": "18874",
+      "title": "연극 〈두 번째 아이〉 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.26(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18874",
+      "site": "yes24",
+      "crawled_at": "2026-11-20T06:57:03.020672"
+    },
+    {
+      "id": "18873",
+      "title": "단독판매2026시즌 불꽃 파이터즈 시빌워 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.12.02(수) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18873",
+      "site": "yes24",
+      "crawled_at": "2026-11-20T06:57:03.020672"
+    },
+    {
+      "id": "18872",
+      "title": "단독판매[부산] 대니 구 크리스마스 콘서트 〈HOME〉 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.24(화) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18872",
+      "site": "yes24",
+      "crawled_at": "2026-11-20T06:57:03.020672"
+    },
     {
       "id": "18871",
       "title": "영도에서 떠나는 예술여행 [미술과 오페라의 만남Ⅳ] - 부산 티콋오픈안내",
