@@ -1,8 +1,20 @@
 {
   "site": "yes24",
-  "flag_id": "18875",
-  "last_crawled_at": "2026-11-20T06:57:03.022012",
+  "flag_id": "18876",
+  "last_crawled_at": "2026-11-20T17:39:38.474520",
   "items": [
+    {
+      "id": "18876",
+      "title": "뮤지컬〈아가사 AGATHA〉2차 티켓 오픈안내",
+      "place": "",
+      "open_time": "2026.11.26(목) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18876",
+      "site": "yes24",
+      "crawled_at": "2026-11-20T17:39:38.473328"
+    },
     {
       "id": "18875",
       "title": "단독판매[대전] 2027 라이브 가족뮤지컬 [빨간모자] 티켓 오픈 안내",
