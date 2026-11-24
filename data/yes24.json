@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18885",
-  "last_crawled_at": "2026-11-23T07:17:04.880230",
+  "flag_id": "18890",
+  "last_crawled_at": "2026-11-24T09:39:45.260635",
   "items": [
+    {
+      "id": "18890",
+      "title": "뮤지컬 [피장파장의 오류] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.27(금) 15:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18890",
+      "site": "yes24",
+      "crawled_at": "2026-11-24T09:39:45.258212"
+    },
+    {
+      "id": "18889",
+      "title": "나의 히어로 아카데미아 in 콘서트 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.12.01(화) 19:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18889",
+      "site": "yes24",
+      "crawled_at": "2026-11-24T09:39:45.258212"
+    },
+    {
+      "id": "18888",
+      "title": "우리 가곡과 함께하는 송년음악회 [위로] - 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.27(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18888",
+      "site": "yes24",
+      "crawled_at": "2026-11-24T09:39:45.258212"
+    },
+    {
+      "id": "18887",
+      "title": "디 솔리스텐 앙상블 Re:Classic “새로운 클래식, 일상속으로” - 부산 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.26(목) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18887",
+      "site": "yes24",
+      "crawled_at": "2026-11-24T09:39:45.258212"
+    },
+    {
+      "id": "18886",
+      "title": "단독판매평택 아트 커넥트 콘서트 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.27(금) 14:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18886",
+      "site": "yes24",
+      "crawled_at": "2026-11-24T09:39:45.258212"
+    },
     {
       "id": "18885",
       "title": "연극 〈슛 더 크로우〉 2차 티켓오픈 안내",
