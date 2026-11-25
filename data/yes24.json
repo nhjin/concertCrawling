@@ -1,8 +1,80 @@
 {
   "site": "yes24",
-  "flag_id": "18890",
-  "last_crawled_at": "2026-11-24T09:39:45.260635",
+  "flag_id": "18896",
+  "last_crawled_at": "2026-11-25T08:11:59.372809",
   "items": [
+    {
+      "id": "18896",
+      "title": "2027 라이브 가족뮤지컬 [오즈의마법사] - 청주 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.30(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18896",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
+    {
+      "id": "18895",
+      "title": "[비지정석] 정동하 X 알리 〈SONG : THE BATTLE OF LEGENDS〉 - 고양 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.30(월) 10:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18895",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
+    {
+      "id": "18894",
+      "title": "[충주] 2027 권인하 N ’ SONZ 콘서트 : ‘추구미가 권인하’ 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18894",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
+    {
+      "id": "18893",
+      "title": "2027 김정민 전국투어 : 정민이형 콘서트 - 충주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18893",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
+    {
+      "id": "18892",
+      "title": "2027 박남정 전국투어 콘서트 : The Original SuperStar - 충주 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18892",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
+    {
+      "id": "18891",
+      "title": "[충주] 김시라의 품바 : Original 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.25(수) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18891",
+      "site": "yes24",
+      "crawled_at": "2026-11-25T08:11:59.371753"
+    },
     {
       "id": "18890",
       "title": "뮤지컬 [피장파장의 오류] 2차 티켓오픈 안내",
