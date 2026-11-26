@@ -1,8 +1,68 @@
 {
   "site": "yes24",
-  "flag_id": "18896",
-  "last_crawled_at": "2026-11-25T08:11:59.372809",
+  "flag_id": "18902",
+  "last_crawled_at": "2026-11-26T07:59:35.007942",
   "items": [
+    {
+      "id": "18902",
+      "title": "김용빈 전국투어 콘서트 ‘동행’ in 성남 티켓 오픈 안내",
+      "place": "",
+      "open_time": "2026.12.02(수) 20:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18902",
+      "site": "yes24",
+      "crawled_at": "2026-11-26T07:59:35.006773"
+    },
+    {
+      "id": "18901",
+      "title": "뮤지컬 [샤이닝] 2차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.12.03(목) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18901",
+      "site": "yes24",
+      "crawled_at": "2026-11-26T07:59:35.006773"
+    },
+    {
+      "id": "18899",
+      "title": "뮤지컬 [마하고니] 4차 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.12.02(수) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18899",
+      "site": "yes24",
+      "crawled_at": "2026-11-26T07:59:35.006773"
+    },
+    {
+      "id": "18898",
+      "title": "2027 라이브 가족뮤지컬 [미녀와야수]-광명 티켓오픈 안내",
+      "place": "",
+      "open_time": "2026.11.30(월) 11:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18898",
+      "site": "yes24",
+      "crawled_at": "2026-11-26T07:59:35.006773"
+    },
+    {
+      "id": "18897",
+      "title": "뮤지컬 타키포오［몬스터 전쟁의 서막 ; 더 좀비］- 남양주 티켓오픈안내",
+      "place": "",
+      "open_time": "2026.11.30(월) 12:00",
+      "open_type": "티켓오픈",
+      "badges": [],
+      "thumbnail": "",
+      "source_url": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx?id=18897",
+      "site": "yes24",
+      "crawled_at": "2026-11-26T07:59:35.006773"
+    },
     {
       "id": "18896",
       "title": "2027 라이브 가족뮤지컬 [오즈의마법사] - 청주 티켓오픈안내",
